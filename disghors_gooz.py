@@ -60,13 +60,15 @@ def fetch_webpage_image(article_url):
     return None
 
 
-def extract_image_url(item_xml, article_url=""):
+def extract_image_url(item_xml, article_url="", feed_name=""):
+    # 1. Check standard <enclosure>
     enclosure = item_xml.find("enclosure")
     if enclosure is not None and enclosure.get("url"):
         url = enclosure.get("url")
         if re.search(r"\.(?:jpg|jpeg|png|webp|avif)", url, re.IGNORECASE):
             return url
 
+    # 2. Check <media:content> or <media:thumbnail>
     namespaces = {
         "media": "http://search.yahoo.com/mrss/",
         "content": "http://purl.org/rss/1.0/modules/content/",
@@ -77,25 +79,29 @@ def extract_image_url(item_xml, article_url=""):
     if media_node is not None and media_node.get("url"):
         return media_node.get("url")
 
+    # 3. Special handling for Guru3D and other custom feeds: check sub-elements like <image> or full XML dump
+    xml_str = ET.tostring(item_xml, encoding="utf-8").decode("utf-8")
+    
     content_node = item_xml.find("content:encoded", namespaces)
     content_str = content_node.text if content_node is not None and content_node.text else ""
 
     desc_node = item_xml.find("description")
     desc_str = desc_node.text if desc_node is not None and desc_node.text else ""
 
-    xml_str = ET.tostring(item_xml, encoding="utf-8").decode("utf-8")
     combined_search_space = xml_str + "\n" + content_str + "\n" + desc_str
 
+    # Look for image URLs, prioritizing standard web formats and Guru3D image paths
     src_matches = re.findall(r'(?:src=["\']|https?://)[^\s"<>]+\.(?:jpg|jpeg|png|webp|avif)(?:\?[^\s"<>]*)?', combined_search_space, re.IGNORECASE)
     
     for img in src_matches:
         img = re.sub(r'^src=["\']?', '', img)
-        if any(ignore in img.lower() for ignore in ["logo", "avatar", "icon", "banner", "placeholder", "pixel", "emoji", "gravatar"]):
+        if any(ignore in img.lower() for ignore in ["logo", "avatar", "icon", "banner", "placeholder", "pixel", "emoji", "gravatar", "button"]):
             continue
         if re.search(r"\.(?:jpg|jpeg|png|webp|avif)", img, re.IGNORECASE):
             return img
 
-    if article_url:
+    # 4. Fallback to webpage scraping (skipped for Guru3D if it blocks direct requests, using a generalized approach)
+    if article_url and feed_name != "Guru3D":
         web_img = fetch_webpage_image(article_url)
         if web_img:
             return web_img
@@ -123,7 +129,7 @@ def process_feed(feed_name, feed_url, posted_links):
         return
 
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
     try:
         response = requests.get(feed_url, headers=headers, timeout=10)
@@ -151,7 +157,7 @@ def process_feed(feed_name, feed_url, posted_links):
             if len(clean_desc) > 250:
                 clean_desc = clean_desc[:250] + "..."
 
-            image_url = extract_image_url(item, link)
+            image_url = extract_image_url(item, link, feed_name)
 
             embed = {
                 "title": title,
