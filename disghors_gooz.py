@@ -1,4 +1,4 @@
-import html
+html
 import json
 import os
 import re
@@ -42,7 +42,27 @@ def clean_html(text):
     return text.strip()
 
 
-def extract_image_url(item_xml):
+def fetch_webpage_image(article_url):
+    """Fallback: Scrapes the article page for OpenGraph or featured images if RSS lacks them."""
+    try:
+        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+        res = requests.get(article_url, headers=headers, timeout=5)
+        if res.status_code == 200:
+            # Look for OpenGraph image meta tag (<meta property="og:image" content="...">)
+            og_match = re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\'](https?://[^"\']+)["\']', res.text, re.IGNORECASE)
+            if og_match:
+                return og_match.group(1)
+            
+            # Alternative format for og:image where content comes before property
+            og_match_alt = re.search(r'<meta[^>]+content=["\'](https?://[^"\']+)["\'][^>]+property=["\']og:image["\']', res.text, re.IGNORECASE)
+            if og_match_alt:
+                return og_match_alt.group(1)
+    except Exception:
+        pass
+    return None
+
+
+def extract_image_url(item_xml, article_url=""):
     # 1. Check <enclosure url="..."> tags
     enclosure = item_xml.find("enclosure")
     if enclosure is not None and enclosure.get("url"):
@@ -61,28 +81,30 @@ def extract_image_url(item_xml):
     if media_node is not None and media_node.get("url"):
         return media_node.get("url")
 
-    # 3. Check WordPress <content:encoded> tag specifically
+    # 3. Check WordPress <content:encoded> tag
     content_node = item_xml.find("content:encoded", namespaces)
     content_str = content_node.text if content_node is not None and content_node.text else ""
 
-    # 4. Also check regular description text
     desc_node = item_xml.find("description")
     desc_str = desc_node.text if desc_node is not None and desc_node.text else ""
 
-    # Combine XML string, content payload, and description to find hidden images
     xml_str = ET.tostring(item_xml, encoding="utf-8").decode("utf-8")
     combined_search_space = xml_str + "\n" + content_str + "\n" + desc_str
 
-    # Look for <img> tags or direct image URLs
     src_matches = re.findall(r'(?:src=["\']|https?://)[^\s"<>]+\.(?:jpg|jpeg|png|webp|avif)(?:\?[^\s"<>]*)?', combined_search_space, re.IGNORECASE)
     
     for img in src_matches:
-        # Clean up leading quotes if matched via src='...'
         img = re.sub(r'^src=["\']?', '', img)
         if any(ignore in img.lower() for ignore in ["logo", "avatar", "icon", "banner", "placeholder", "pixel", "emoji", "gravatar"]):
             continue
         if re.search(r"\.(?:jpg|jpeg|png|webp|avif)", img, re.IGNORECASE):
             return img
+
+    # 4. If RSS and description yield nothing, fallback to scraping the actual article page!
+    if article_url:
+        web_img = fetch_webpage_image(article_url)
+        if web_img:
+            return web_img
 
     return None
 
@@ -135,7 +157,7 @@ def process_feed(feed_name, feed_url, posted_links):
             if len(clean_desc) > 250:
                 clean_desc = clean_desc[:250] + "..."
 
-            image_url = extract_image_url(item)
+            image_url = extract_image_url(item, link)
 
             embed = {
                 "title": title,
