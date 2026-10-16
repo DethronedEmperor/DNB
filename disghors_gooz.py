@@ -5,8 +5,8 @@ import re
 import xml.etree.ElementTree as ET
 import requests
 
-# 1. PASTE YOUR REAL DISCORD WEBHOOK URL HERE
-DISCORD_WEBHOOK_URL = "YOUR_DISCORD_WEBHOOK_URL_HERE"
+# Automatically pulls your secret safely from GitHub Actions environment
+DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL")
 
 # 2. RSS FEEDS TO MONITOR (16 Feeds total: Gaming + Tech)
 FEEDS = {
@@ -43,14 +43,12 @@ def clean_html(text):
 
 
 def extract_image_url(item_xml):
-    # 1. Check <enclosure url="..."> tags
     enclosure = item_xml.find("enclosure")
     if enclosure is not None and enclosure.get("url"):
         url = enclosure.get("url")
         if re.search(r"\.(?:jpg|jpeg|png|webp|avif)", url, re.IGNORECASE):
             return url
 
-    # 2. Check <media:content> or <media:thumbnail> tags
     namespaces = {
         "media": "http://search.yahoo.com/mrss/",
         "content": "http://purl.org/rss/1.0/modules/content/",
@@ -61,7 +59,6 @@ def extract_image_url(item_xml):
     if media_node is not None and media_node.get("url"):
         return media_node.get("url")
 
-    # 3. Extract XML string to scan for image sources
     xml_str = ET.tostring(item_xml, encoding="utf-8").decode("utf-8")
 
     src_matches = re.findall(r'src=["\'](https?://[^"\']+\.(?:jpg|jpeg|png|webp|avif)(?:\?[^"\']*)?)["\']', xml_str, re.IGNORECASE)
@@ -93,6 +90,10 @@ def save_posted_links(posted_links):
 
 
 def process_feed(feed_name, feed_url, posted_links):
+    if not DISCORD_WEBHOOK_URL:
+        print("Error: DISCORD_WEBHOOK_URL secret is missing!")
+        return
+
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
@@ -102,19 +103,17 @@ def process_feed(feed_name, feed_url, posted_links):
             print(f"Failed to fetch {feed_name}: Status {response.status_code}")
             return
 
-        # Clean text strip handles quirky leading XML characters (fixing KitGuru)
         feed_content = response.text.strip()
         root = ET.fromstring(feed_content)
         items = root.findall(".//item")
 
-        # 1-post-per-feed limit, deep digging up to 10 items back for unposted news
         for item in reversed(items[:10]):
             link_node = item.find("link")
             title_node = item.find("title")
             desc_node = item.find("description")
 
             link = link_node.text.strip() if link_node is not None else ""
-            title = title_node.text.strip() if title_node is not None else ""
+            title = title_noce = title_node.text.strip() if title_node is not None else ""
             raw_desc = desc_node.text if desc_node is not None else ""
 
             if not link or link in posted_links:
