@@ -8,12 +8,27 @@ import requests
 # 1. YOUR DISCORD WEBHOOK URL
 DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1560666893554163814/Bp7mOgf8T_uDwrcaBVfRIuVGsVkB9rpePVmRn3zsJu8X0ge01z5ex-4kCQNoFUYPOWvp"
 
-# 2. RSS FEEDS TO MONITOR
+# 2. RSS FEEDS TO MONITOR (16 Feeds total: Gaming + Tech)
 FEEDS = {
-    "VGC": "https://www.videogameschronicle.com/feed/",
-    "PC Gamer": "https://www.pcgamer.com/rss/",
-    "GameSpot": "https://www.gamespot.com/feeds/mashup/",
+    # --- GAMING FEEDS ---
     "IGN": "https://feeds.feedburner.com/ign/all",
+    "GameSpot": "https://www.gamespot.com/feeds/mashup/",
+    "PC Gamer": "https://www.pcgamer.com/rss/",
+    "VGC": "https://www.videogameschronicle.com/feed/",
+    "Insider Gaming": "https://insider-gaming.com/feed/",
+    "Rock Paper Shotgun": "https://www.rockpapershotgun.com/feed",
+    "Eurogamer": "https://www.eurogamer.net/feed/news",
+    "Gematsu": "https://www.gematsu.com/feed",
+    
+    # --- TECH FEEDS ---
+    "Tom's Hardware": "https://www.tomshardware.com/feeds/all",
+    "TechPowerUp": "https://www.techpowerup.com/rss/news",
+    "Wccftech": "https://wccftech.com/feed/",
+    "KitGuru": "https://www.kitguru.net/feed/",
+    "TechRadar": "https://www.techradar.com/rss",
+    "Overclock3D": "https://overclock3d.net/feed/",
+    "Guru3D": "https://www.guru3d.com/rss.xml",
+    "PCWorld": "https://www.pcworld.com/feed",
 }
 
 HISTORY_FILE = "posted_links.txt"
@@ -46,14 +61,14 @@ def extract_image_url(item_xml):
     if media_node is not None and media_node.get("url"):
         return media_node.get("url")
 
-    # 3. Fallback: Scan full XML string, skipping known site banners/logos
+    # 3. Fallback: Scan full XML string, skipping known site banners/logos/placeholders
     xml_str = ET.tostring(item_xml, encoding="utf-8").decode("utf-8")
     img_matches = re.findall(
         r'https?://[^\s"<>]+\.(?:jpg|jpeg|png|webp)', xml_str, re.IGNORECASE
     )
 
     for img in img_matches:
-        # Ignore site logos, avatar icons, or standard fallback assets
+        # Ignore site logos, avatar icons, or standard fallback banner assets
         if any(
             ignore in img.lower()
             for ignore in ["logo", "avatar", "icon", "banner", "placeholder"]
@@ -90,6 +105,7 @@ def process_feed(feed_name, feed_url, posted_links):
         root = ET.fromstring(response.content)
         items = root.findall(".//item")
 
+        # Process the latest 3 items per feed
         for item in reversed(items[:3]):
             link_node = item.find("link")
             title_node = item.find("title")
