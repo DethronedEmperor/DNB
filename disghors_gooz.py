@@ -61,20 +61,18 @@ def fetch_webpage_image(article_url):
 
 
 def extract_image_url(item_xml, article_url="", feed_name=""):
-    # 1. For Guru3D specifically, go straight to webpage scraping
-    if feed_name == "Guru3D" and article_url:
-        web_img = fetch_webpage_image(article_url)
-        if web_img:
-            return web_img
+    # Skip webpage scraping for Guru3D since it blocks automated requests
+    if feed_name == "Guru3D":
+        return None
 
-    # 2. Check standard <enclosure>
+    # 1. Check standard <enclosure>
     enclosure = item_xml.find("enclosure")
     if enclosure is not None and enclosure.get("url"):
         url = enclosure.get("url")
         if re.search(r"\.(?:jpg|jpeg|png|webp|avif)", url, re.IGNORECASE):
             return url
 
-    # 3. Check <media:content> or <media:thumbnail>
+    # 2. Check <media:content> or <media:thumbnail>
     namespaces = {
         "media": "http://search.yahoo.com/mrss/",
         "content": "http://purl.org/rss/1.0/modules/content/",
@@ -85,7 +83,7 @@ def extract_image_url(item_xml, article_url="", feed_name=""):
     if media_node is not None and media_node.get("url"):
         return media_node.get("url")
 
-    # 4. Broad XML scan for other feeds
+    # 3. Broad XML scan for feeds
     xml_str = ET.tostring(item_xml, encoding="utf-8").decode("utf-8")
     all_urls = re.findall(r'https?://[^\s"<>]+\.(?:jpg|jpeg|png|webp|avif)(?:\?[^\s"<>]*)?', xml_str, re.IGNORECASE)
     for img in all_urls:
@@ -93,7 +91,7 @@ def extract_image_url(item_xml, article_url="", feed_name=""):
             continue
         return img
 
-    # 5. General webpage fallback
+    # 4. General webpage fallback
     if article_url:
         web_img = fetch_webpage_image(article_url)
         if web_img:
