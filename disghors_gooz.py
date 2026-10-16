@@ -43,12 +43,14 @@ def clean_html(text):
 
 
 def extract_image_url(item_xml):
+    # 1. Check <enclosure url="..."> tags
     enclosure = item_xml.find("enclosure")
     if enclosure is not None and enclosure.get("url"):
         url = enclosure.get("url")
         if re.search(r"\.(?:jpg|jpeg|png|webp|avif)", url, re.IGNORECASE):
             return url
 
+    # 2. Check <media:content> or <media:thumbnail> tags with namespaces
     namespaces = {
         "media": "http://search.yahoo.com/mrss/",
         "content": "http://purl.org/rss/1.0/modules/content/",
@@ -59,18 +61,28 @@ def extract_image_url(item_xml):
     if media_node is not None and media_node.get("url"):
         return media_node.get("url")
 
+    # 3. Check WordPress <content:encoded> tag specifically
+    content_node = item_xml.find("content:encoded", namespaces)
+    content_str = content_node.text if content_node is not None and content_node.text else ""
+
+    # 4. Also check regular description text
+    desc_node = item_xml.find("description")
+    desc_str = desc_node.text if desc_node is not None and desc_node.text else ""
+
+    # Combine XML string, content payload, and description to find hidden images
     xml_str = ET.tostring(item_xml, encoding="utf-8").decode("utf-8")
+    combined_search_space = xml_str + "\n" + content_str + "\n" + desc_str
 
-    src_matches = re.findall(r'src=["\'](https?://[^"\']+\.(?:jpg|jpeg|png|webp|avif)(?:\?[^"\']*)?)["\']', xml_str, re.IGNORECASE)
+    # Look for <img> tags or direct image URLs
+    src_matches = re.findall(r'(?:src=["\']|https?://)[^\s"<>]+\.(?:jpg|jpeg|png|webp|avif)(?:\?[^\s"<>]*)?', combined_search_space, re.IGNORECASE)
+    
     for img in src_matches:
-        if not any(ignore in img.lower() for ignore in ["logo", "avatar", "icon", "banner", "placeholder", "pixel"]):
-            return img
-
-    img_matches = re.findall(r'https?://[^\s"<>]+\.(?:jpg|jpeg|png|webp|avif)(?:\?[^\s"<>]*)?', xml_str, re.IGNORECASE)
-    for img in img_matches:
-        if any(ignore in img.lower() for ignore in ["logo", "avatar", "icon", "banner", "placeholder", "pixel"]):
+        # Clean up leading quotes if matched via src='...'
+        img = re.sub(r'^src=["\']?', '', img)
+        if any(ignore in img.lower() for ignore in ["logo", "avatar", "icon", "banner", "placeholder", "pixel", "emoji", "gravatar"]):
             continue
-        return img
+        if re.search(r"\.(?:jpg|jpeg|png|webp|avif)", img, re.IGNORECASE):
+            return img
 
     return None
 
@@ -113,7 +125,7 @@ def process_feed(feed_name, feed_url, posted_links):
             desc_node = item.find("description")
 
             link = link_node.text.strip() if link_node is not None else ""
-            title = title_noce = title_node.text.strip() if title_node is not None else ""
+            title = title_node.text.strip() if title_node is not None else ""
             raw_desc = desc_node.text if desc_node is not None else ""
 
             if not link or link in posted_links:
