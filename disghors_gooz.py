@@ -135,6 +135,8 @@ def process_feed(feed_name, feed_url, posted_links):
         root = ET.fromstring(feed_content)
         items = root.findall(".//item")
 
+        # Iterate chronologically (oldest to newest among the top items) so we post the oldest unseen first, 
+        # or reverse if we want newest first. Let's look through them:
         for item in reversed(items[:10]):
             link_node = item.find("link")
             title_node = item.find("title")
@@ -144,7 +146,11 @@ def process_feed(feed_name, feed_url, posted_links):
             title = title_node.text.strip() if title_node is not None else ""
             raw_desc = desc_node.text if desc_node is not None else ""
 
-            if not link or link in posted_links:
+            if not link:
+                continue
+
+            # If this link was already posted, skip it and check the next one (goes deeper into older posts if needed)
+            if link in posted_links:
                 continue
 
             clean_desc = clean_html(raw_desc)
@@ -170,7 +176,7 @@ def process_feed(feed_name, feed_url, posted_links):
             if res.status_code in [200, 204]:
                 print(f"Successfully posted: [{feed_name}] {title}")
                 posted_links.add(link)
-                break
+                break  # Post only the first unposted article found per feed during this run, then move to the next feed
             else:
                 print(f"Failed to post to Discord: {res.status_code} {res.text}")
                 break
