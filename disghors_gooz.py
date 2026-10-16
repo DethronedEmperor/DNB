@@ -61,16 +61,14 @@ def extract_image_url(item_xml):
     if media_node is not None and media_node.get("url"):
         return media_node.get("url")
 
-    # 3. Extract XML string to scan for image sources and links with query params
+    # 3. Extract XML string to scan for image sources
     xml_str = ET.tostring(item_xml, encoding="utf-8").decode("utf-8")
 
-    # Look specifically inside HTML src attributes first (best for WordPress feeds like Insider Gaming, Overclock3D)
     src_matches = re.findall(r'src=["\'](https?://[^"\']+\.(?:jpg|jpeg|png|webp|avif)(?:\?[^"\']*)?)["\']', xml_str, re.IGNORECASE)
     for img in src_matches:
         if not any(ignore in img.lower() for ignore in ["logo", "avatar", "icon", "banner", "placeholder", "pixel"]):
             return img
 
-    # 4. General fallback: match any image URL including those with query parameters
     img_matches = re.findall(r'https?://[^\s"<>]+\.(?:jpg|jpeg|png|webp|avif)(?:\?[^\s"<>]*)?', xml_str, re.IGNORECASE)
     for img in img_matches:
         if any(ignore in img.lower() for ignore in ["logo", "avatar", "icon", "banner", "placeholder", "pixel"]):
@@ -88,8 +86,10 @@ def load_posted_links():
 
 
 def save_posted_links(posted_links):
+    # Keep the last 1000 links to prevent the history file from growing indefinitely
+    links_list = list(posted_links)[-1000:]
     with open(HISTORY_FILE, "w") as f:
-        for link in posted_links:
+        for link in links_list:
             f.write(f"{link}\n")
 
 
@@ -106,7 +106,9 @@ def process_feed(feed_name, feed_url, posted_links):
         root = ET.fromstring(response.content)
         items = root.findall(".//item")
 
-        for item in reversed(items[:3]):
+        # Prioritize the absolute latest unposted item by digging back up to 10 items deep, 
+        # but STRICTLY post only ONE item per feed per run.
+        for item in reversed(items[:10]):
             link_node = item.find("link")
             title_node = item.find("title")
             desc_node = item.find("description")
@@ -116,7 +118,7 @@ def process_feed(feed_name, feed_url, posted_links):
             raw_desc = desc_node.text if desc_node is not None else ""
 
             if not link or link in posted_links:
-                continue
+                continue  # Already posted this one, keep digging back further!
 
             clean_desc = clean_html(raw_desc)
             if len(clean_desc) > 250:
@@ -141,8 +143,10 @@ def process_feed(feed_name, feed_url, posted_links):
             if res.status_code in [200, 204]:
                 print(f"Successfully posted: [{feed_name}] {title}")
                 posted_links.add(link)
+                break  # STOP HERE for this feed—enforces the 1-post-per-feed rule!
             else:
                 print(f"Failed to post to Discord: {res.status_code} {res.text}")
+                break
 
     except Exception as e:
         print(f"Error processing {feed_name}: {e}")
