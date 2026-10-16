@@ -21,6 +21,8 @@ jobs:
         run: pip install requests
 
       - name: Run News Bot
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: python disghors_gooz.py
 
       - name: Commit Updated History
