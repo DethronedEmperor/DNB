@@ -5,8 +5,8 @@ import re
 import xml.etree.ElementTree as ET
 import requests
 
-# 1. YOUR DISCORD WEBHOOK URL
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1560666893554163814/Bp7mOgf8T_uDwrcaBVfRIuVGsVkB9rpePVmRn3zsJu8X0ge01z5ex-4kCQNoFUYPOWvp"
+# 1. PASTE YOUR REAL DISCORD WEBHOOK URL HERE
+DISCORD_WEBHOOK_URL = "YOUR_DISCORD_WEBHOOK_URL_HERE"
 
 # 2. RSS FEEDS TO MONITOR (16 Feeds total: Gaming + Tech)
 FEEDS = {
@@ -86,7 +86,6 @@ def load_posted_links():
 
 
 def save_posted_links(posted_links):
-    # Keep the last 1000 links to prevent the history file from growing indefinitely
     links_list = list(posted_links)[-1000:]
     with open(HISTORY_FILE, "w") as f:
         for link in links_list:
@@ -103,11 +102,12 @@ def process_feed(feed_name, feed_url, posted_links):
             print(f"Failed to fetch {feed_name}: Status {response.status_code}")
             return
 
-        root = ET.fromstring(response.content)
+        # Clean text strip handles quirky leading XML characters (fixing KitGuru)
+        feed_content = response.text.strip()
+        root = ET.fromstring(feed_content)
         items = root.findall(".//item")
 
-        # Prioritize the absolute latest unposted item by digging back up to 10 items deep, 
-        # but STRICTLY post only ONE item per feed per run.
+        # 1-post-per-feed limit, deep digging up to 10 items back for unposted news
         for item in reversed(items[:10]):
             link_node = item.find("link")
             title_node = item.find("title")
@@ -118,7 +118,7 @@ def process_feed(feed_name, feed_url, posted_links):
             raw_desc = desc_node.text if desc_node is not None else ""
 
             if not link or link in posted_links:
-                continue  # Already posted this one, keep digging back further!
+                continue
 
             clean_desc = clean_html(raw_desc)
             if len(clean_desc) > 250:
@@ -143,7 +143,7 @@ def process_feed(feed_name, feed_url, posted_links):
             if res.status_code in [200, 204]:
                 print(f"Successfully posted: [{feed_name}] {title}")
                 posted_links.add(link)
-                break  # STOP HERE for this feed—enforces the 1-post-per-feed rule!
+                break
             else:
                 print(f"Failed to post to Discord: {res.status_code} {res.text}")
                 break
