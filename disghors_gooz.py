@@ -6,7 +6,7 @@ import xml.etree.ElementTree as ET
 import requests
 
 # 1. YOUR DISCORD WEBHOOK URL
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1560666893554163814/Bp7mOgf8T_uDwrcaBVfRIuVGsVkB9rpePVmRn3zsJu8X0ge0lz5ex-4kCQNoFUYPOWvp"
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1560666893554163814/Bp7mOgf8T_uDwrcaBVfRIuVGsVkB9rpePVmRn3zsJu8X0ge01z5ex-4kCQNoFUYPOWvp"
 
 # 2. RSS FEEDS TO MONITOR (16 Feeds total: Gaming + Tech)
 FEEDS = {
@@ -43,14 +43,14 @@ def clean_html(text):
 
 
 def extract_image_url(item_xml):
-    # 1. Check <enclosure url="..."> tags (Standard RSS thumbnail tag)
+    # 1. Check <enclosure url="..."> tags
     enclosure = item_xml.find("enclosure")
     if enclosure is not None and enclosure.get("url"):
         url = enclosure.get("url")
-        if re.search(r"\.(?:jpg|jpeg|png|webp)", url, re.IGNORECASE):
+        if re.search(r"\.(?:jpg|jpeg|png|webp|avif)", url, re.IGNORECASE):
             return url
 
-    # 2. Check <media:content url="..."> or <media:thumbnail url="..."> tags
+    # 2. Check <media:content> or <media:thumbnail> tags
     namespaces = {
         "media": "http://search.yahoo.com/mrss/",
         "content": "http://purl.org/rss/1.0/modules/content/",
@@ -61,18 +61,19 @@ def extract_image_url(item_xml):
     if media_node is not None and media_node.get("url"):
         return media_node.get("url")
 
-    # 3. Fallback: Scan full XML string, skipping known site banners/logos/placeholders
+    # 3. Extract XML string to scan for image sources and links with query params
     xml_str = ET.tostring(item_xml, encoding="utf-8").decode("utf-8")
-    img_matches = re.findall(
-        r'https?://[^\s"<>]+\.(?:jpg|jpeg|png|webp)', xml_str, re.IGNORECASE
-    )
 
+    # Look specifically inside HTML src attributes first (best for WordPress feeds like Insider Gaming, Overclock3D)
+    src_matches = re.findall(r'src=["\'](https?://[^"\']+\.(?:jpg|jpeg|png|webp|avif)(?:\?[^"\']*)?)["\']', xml_str, re.IGNORECASE)
+    for img in src_matches:
+        if not any(ignore in img.lower() for ignore in ["logo", "avatar", "icon", "banner", "placeholder", "pixel"]):
+            return img
+
+    # 4. General fallback: match any image URL including those with query parameters
+    img_matches = re.findall(r'https?://[^\s"<>]+\.(?:jpg|jpeg|png|webp|avif)(?:\?[^\s"<>]*)?', xml_str, re.IGNORECASE)
     for img in img_matches:
-        # Ignore site logos, avatar icons, or standard fallback banner assets
-        if any(
-            ignore in img.lower()
-            for ignore in ["logo", "avatar", "icon", "banner", "placeholder"]
-        ):
+        if any(ignore in img.lower() for ignore in ["logo", "avatar", "icon", "banner", "placeholder", "pixel"]):
             continue
         return img
 
@@ -105,7 +106,6 @@ def process_feed(feed_name, feed_url, posted_links):
         root = ET.fromstring(response.content)
         items = root.findall(".//item")
 
-        # Process the latest 3 items per feed
         for item in reversed(items[:3]):
             link_node = item.find("link")
             title_node = item.find("title")
