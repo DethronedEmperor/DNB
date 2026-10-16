@@ -5,8 +5,8 @@ import re
 import xml.etree.ElementTree as ET
 import requests
 
-# 1. YOUR DISCORD WEBHOOK URL (Replace this with your real Discord Webhook URL)
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1560666893554163814/Bp7mOgf8T_uDwrcaBVfRIuVGsVkB9rpePVmRn3zsJu8X0ge0lz5ex-4kCQNoFUYPOWvp"
+# 1. YOUR DISCORD WEBHOOK URL
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1560666893554163814/Bp7mOgf8T_uDwrcaBVfRIuVGsVkB9rpePVmRn3zsJu8X0ge01z5ex-4kCQNoFUYPOWvp"
 
 # 2. RSS FEEDS TO MONITOR
 FEEDS = {
@@ -28,12 +28,39 @@ def clean_html(text):
 
 
 def extract_image_url(item_xml):
+    # 1. Check <enclosure url="..."> tags (Standard RSS thumbnail tag)
+    enclosure = item_xml.find("enclosure")
+    if enclosure is not None and enclosure.get("url"):
+        url = enclosure.get("url")
+        if re.search(r"\.(?:jpg|jpeg|png|webp)", url, re.IGNORECASE):
+            return url
+
+    # 2. Check <media:content url="..."> or <media:thumbnail url="..."> tags
+    namespaces = {
+        "media": "http://search.yahoo.com/mrss/",
+        "content": "http://purl.org/rss/1.0/modules/content/",
+    }
+    media_node = item_xml.find("media:content", namespaces) or item_xml.find(
+        "media:thumbnail", namespaces
+    )
+    if media_node is not None and media_node.get("url"):
+        return media_node.get("url")
+
+    # 3. Fallback: Scan full XML string, skipping known site banners/logos
     xml_str = ET.tostring(item_xml, encoding="utf-8").decode("utf-8")
-    img_match = re.search(
+    img_matches = re.findall(
         r'https?://[^\s"<>]+\.(?:jpg|jpeg|png|webp)', xml_str, re.IGNORECASE
     )
-    if img_match:
-        return img_match.group(0)
+
+    for img in img_matches:
+        # Ignore site logos, avatar icons, or standard fallback assets
+        if any(
+            ignore in img.lower()
+            for ignore in ["logo", "avatar", "icon", "banner", "placeholder"]
+        ):
+            continue
+        return img
+
     return None
 
 
