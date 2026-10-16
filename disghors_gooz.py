@@ -45,30 +45,47 @@ def clean_html(text):
 def fetch_webpage_image(article_url):
     """Fallback: Scrapes the article page for OpenGraph or featured images if RSS lacks them."""
     try:
-        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-        res = requests.get(article_url, headers=headers, timeout=5)
-        if res.status_code == 200:
-            og_match = re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\'](https?://[^"\']+)["\']', res.text, re.IGNORECASE)
-            if og_match:
-                return og_match.group(1)
-            
-            og_match_alt = re.search(r'<meta[^>]+content=["\'](https?://[^"\']+)["\'][^>]+property=["\']og:image["\']', res.text, re.IGNORECASE)
-            if og_match_alt:
-                return og_match_alt.group(1)
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Accept-Encoding": "gzip, deflate, br",
+            "DNT": "1",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1",
+        }
+        res = requests.get(article_url, headers=headers, timeout=8, allow_redirects=True)
+        
+        # Cloudflare challenge page check → give up gracefully
+        if res.status_code != 200 or "Just a moment" in res.text or "cf-mitigated" in res.headers:
+            return None
+
+        # Standard og:image and twitter:image patterns
+        patterns = [
+            r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\'](https?://[^"\']+)["\']',
+            r'<meta[^>]+content=["\'](https?://[^"\']+)["\'][^>]+property=["\']og:image["\']',
+            r'<meta[^>]+name=["\']twitter:image["\'][^>]+content=["\'](https?://[^"\']+)["\']',
+            r'<meta[^>]+content=["\'](https?://[^"\']+)["\'][^>]+name=["\']twitter:image["\']',
+        ]
+        for pat in patterns:
+            match = re.search(pat, res.text, re.IGNORECASE)
+            if match:
+                return match.group(1)
+                
     except Exception:
         pass
     return None
 
 
 def extract_image_url(item_xml, article_url="", feed_name=""):
-    # 1. Check standard <enclosure>
+    # 1. Standard <enclosure>
     enclosure = item_xml.find("enclosure")
     if enclosure is not None and enclosure.get("url"):
         url = enclosure.get("url")
         if re.search(r"\.(?:jpg|jpeg|png|webp|avif)", url, re.IGNORECASE):
             return url
 
-    # 2. Check <media:content> or <media:thumbnail>
+    # 2. <media:content> or <media:thumbnail>
     namespaces = {
         "media": "http://search.yahoo.com/mrss/",
         "content": "http://purl.org/rss/1.0/modules/content/",
@@ -79,21 +96,27 @@ def extract_image_url(item_xml, article_url="", feed_name=""):
     if media_node is not None and media_node.get("url"):
         return media_node.get("url")
 
-    # 3. Dump the entire item XML string and look for ANY image URL
+    # 3. Broad scan of the item XML for any image URLs
     xml_str = ET.tostring(item_xml, encoding="utf-8").decode("utf-8")
-    
-    # Broad regex to catch any image link inside the raw XML element
-    all_urls = re.findall(r'https?://[^\s"<>]+\.(?:jpg|jpeg|png|webp|avif)(?:\?[^\s"<>]*)?', xml_str, re.IGNORECASE)
+    all_urls = re.findall(
+        r'https?://[^\s"<>]+\.(?:jpg|jpeg|png|webp|avif)(?:\?[^\s"<>]*)?', 
+        xml_str, re.IGNORECASE
+    )
     for img in all_urls:
-        if any(ignore in img.lower() for ignore in ["logo", "avatar", "icon", "banner", "placeholder", "pixel", "emoji", "gravatar", "button"]):
+        lower = img.lower()
+        if any(ignore in lower for ignore in ["logo", "avatar", "icon", "banner", "placeholder", "pixel", "emoji", "gravatar", "button"]):
             continue
         return img
 
-    # 4. If it's Guru3D and still nothing, let's try a direct scrape with a custom header or fallback to parsing the link structure
-    if article_url and feed_name != "Guru3D":
+    # 4. Webpage scrape fallback
+    if article_url:
         web_img = fetch_webpage_image(article_url)
         if web_img:
             return web_img
+
+    # 5. Guru3D fallback logo so the embed layout stays polished
+    if feed_name == "Guru3D":
+        return "https://www.guru3d.com/data/themes/Guru3D/images/logo.png"
 
     return None
 
