@@ -37,6 +37,9 @@ HISTORY_FILE = "posted_links.txt"
 def clean_html(text):
     if not text:
         return ""
+    # Completely remove script and style blocks along with their contents
+    text = re.sub(r"<(script|style)[^>]*>.*?</\1>", "", text, flags=re.DOTALL | re.IGNORECASE)
+    # Remove remaining HTML tags
     text = re.sub(r"<[^>]+>", "", text)
     text = html.unescape(text)
     return text.strip()
