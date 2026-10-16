@@ -1,4 +1,4 @@
-html
+import html
 import json
 import os
 import re
@@ -48,12 +48,10 @@ def fetch_webpage_image(article_url):
         headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
         res = requests.get(article_url, headers=headers, timeout=5)
         if res.status_code == 200:
-            # Look for OpenGraph image meta tag (<meta property="og:image" content="...">)
             og_match = re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\'](https?://[^"\']+)["\']', res.text, re.IGNORECASE)
             if og_match:
                 return og_match.group(1)
             
-            # Alternative format for og:image where content comes before property
             og_match_alt = re.search(r'<meta[^>]+content=["\'](https?://[^"\']+)["\'][^>]+property=["\']og:image["\']', res.text, re.IGNORECASE)
             if og_match_alt:
                 return og_match_alt.group(1)
@@ -63,14 +61,12 @@ def fetch_webpage_image(article_url):
 
 
 def extract_image_url(item_xml, article_url=""):
-    # 1. Check <enclosure url="..."> tags
     enclosure = item_xml.find("enclosure")
     if enclosure is not None and enclosure.get("url"):
         url = enclosure.get("url")
         if re.search(r"\.(?:jpg|jpeg|png|webp|avif)", url, re.IGNORECASE):
             return url
 
-    # 2. Check <media:content> or <media:thumbnail> tags with namespaces
     namespaces = {
         "media": "http://search.yahoo.com/mrss/",
         "content": "http://purl.org/rss/1.0/modules/content/",
@@ -81,7 +77,6 @@ def extract_image_url(item_xml, article_url=""):
     if media_node is not None and media_node.get("url"):
         return media_node.get("url")
 
-    # 3. Check WordPress <content:encoded> tag
     content_node = item_xml.find("content:encoded", namespaces)
     content_str = content_node.text if content_node is not None and content_node.text else ""
 
@@ -100,7 +95,6 @@ def extract_image_url(item_xml, article_url=""):
         if re.search(r"\.(?:jpg|jpeg|png|webp|avif)", img, re.IGNORECASE):
             return img
 
-    # 4. If RSS and description yield nothing, fallback to scraping the actual article page!
     if article_url:
         web_img = fetch_webpage_image(article_url)
         if web_img:
@@ -117,7 +111,7 @@ def load_posted_links():
 
 
 def save_posted_links(posted_links):
-    links_list = list(posted_links)[-1000:]
+    links_list = list(posted_links)[-100:]
     with open(HISTORY_FILE, "w") as f:
         for link in links_list:
             f.write(f"{link}\n")
