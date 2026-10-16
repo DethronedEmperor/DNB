@@ -79,28 +79,17 @@ def extract_image_url(item_xml, article_url="", feed_name=""):
     if media_node is not None and media_node.get("url"):
         return media_node.get("url")
 
-    # 3. Special handling for Guru3D and other custom feeds: check sub-elements like <image> or full XML dump
+    # 3. Dump the entire item XML string and look for ANY image URL
     xml_str = ET.tostring(item_xml, encoding="utf-8").decode("utf-8")
     
-    content_node = item_xml.find("content:encoded", namespaces)
-    content_str = content_node.text if content_node is not None and content_node.text else ""
-
-    desc_node = item_xml.find("description")
-    desc_str = desc_node.text if desc_node is not None and desc_node.text else ""
-
-    combined_search_space = xml_str + "\n" + content_str + "\n" + desc_str
-
-    # Look for image URLs, prioritizing standard web formats and Guru3D image paths
-    src_matches = re.findall(r'(?:src=["\']|https?://)[^\s"<>]+\.(?:jpg|jpeg|png|webp|avif)(?:\?[^\s"<>]*)?', combined_search_space, re.IGNORECASE)
-    
-    for img in src_matches:
-        img = re.sub(r'^src=["\']?', '', img)
+    # Broad regex to catch any image link inside the raw XML element
+    all_urls = re.findall(r'https?://[^\s"<>]+\.(?:jpg|jpeg|png|webp|avif)(?:\?[^\s"<>]*)?', xml_str, re.IGNORECASE)
+    for img in all_urls:
         if any(ignore in img.lower() for ignore in ["logo", "avatar", "icon", "banner", "placeholder", "pixel", "emoji", "gravatar", "button"]):
             continue
-        if re.search(r"\.(?:jpg|jpeg|png|webp|avif)", img, re.IGNORECASE):
-            return img
+        return img
 
-    # 4. Fallback to webpage scraping (skipped for Guru3D if it blocks direct requests, using a generalized approach)
+    # 4. If it's Guru3D and still nothing, let's try a direct scrape with a custom header or fallback to parsing the link structure
     if article_url and feed_name != "Guru3D":
         web_img = fetch_webpage_image(article_url)
         if web_img:
