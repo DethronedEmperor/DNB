@@ -6,7 +6,7 @@ import xml.etree.ElementTree as ET
 import requests
 
 # 1. YOUR DISCORD WEBHOOK URL
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1560666893554163814/Bp7mOgf8T_uDwrcaBVfRIuVGsVkB9rpePVmRn3zsJu8X0ge01z5ex-4kCQNoFUYPOWvp"
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1560666893554163814/Bp7mOgf8T_uDwrcaBVfRIuVGsVkB9rpePVmRn3zsJu8X0ge0lz5ex-4kCQNoFUYPOWvp"
 
 # 2. RSS FEEDS TO MONITOR (16 Feeds total: Gaming + Tech)
 FEEDS = {
