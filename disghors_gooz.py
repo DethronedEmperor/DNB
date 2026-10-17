@@ -8,7 +8,7 @@ import requests
 # Automatically pulls your secret safely from GitHub Actions environment
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL")
 
-# 2. RSS FEEDS TO MONITOR (16 Feeds total: Gaming + Tech)
+# 16 Feeds total: Gaming + Tech
 FEEDS = {
     # --- GAMING FEEDS ---
     "IGN": "https://feeds.feedburner.com/ign/all",
@@ -32,6 +32,15 @@ FEEDS = {
 }
 
 HISTORY_FILE = "posted_links.txt"
+
+
+def normalize_url(url):
+    """Strips tracking parameters (like utm_source, ref, etc.) so identical articles aren't reposted."""
+    if not url:
+        return ""
+    # Remove query parameters to get the base canonical link
+    base_url = url.split("?")[0]
+    return base_url.strip().rstrip("/")
 
 
 def clean_html(text):
@@ -106,12 +115,13 @@ def extract_image_url(item_xml, article_url="", feed_name=""):
 def load_posted_links():
     if os.path.exists(HISTORY_FILE):
         with open(HISTORY_FILE, "r") as f:
-            return set(line.strip() for line in f if line.strip())
+            return set(normalize_url(line) for line in f if line.strip())
     return set()
 
 
 def save_posted_links(posted_links):
-    links_list = list(posted_links)[-100:]
+    # Expanded capacity from 100 to 500 links to prevent cycling out active feeds too fast
+    links_list = list(posted_links)[-500:]
     with open(HISTORY_FILE, "w") as f:
         for link in links_list:
             f.write(f"{link}\n")
@@ -135,33 +145,28 @@ def process_feed(feed_name, feed_url, posted_links):
         root = ET.fromstring(feed_content)
         items = root.findall(".//item")
 
-        # Iterate chronologically (oldest to newest among the top items) so we post the oldest unseen first, 
-        # or reverse if we want newest first. Let's look through them:
         for item in reversed(items[:10]):
             link_node = item.find("link")
             title_node = item.find("title")
             desc_node = item.find("description")
 
-            link = link_node.text.strip() if link_node is not None else ""
+            raw_link = link_node.text.strip() if link_node is not None else ""
+            link = normalize_url(raw_link)
             title = title_node.text.strip() if title_node is not None else ""
             raw_desc = desc_node.text if desc_node is not None else ""
 
-            if not link:
-                continue
-
-            # If this link was already posted, skip it and check the next one (goes deeper into older posts if needed)
-            if link in posted_links:
+            if not link or link in posted_links:
                 continue
 
             clean_desc = clean_html(raw_desc)
             if len(clean_desc) > 250:
                 clean_desc = clean_desc[:250] + "..."
 
-            image_url = extract_image_url(item, link, feed_name)
+            image_url = extract_image_url(item, raw_link, feed_name)
 
             embed = {
                 "title": title,
-                "url": link,
+                "url": raw_link,
                 "description": clean_desc,
                 "color": 14431526,
                 "footer": {"text": feed_name},
@@ -176,7 +181,7 @@ def process_feed(feed_name, feed_url, posted_links):
             if res.status_code in [200, 204]:
                 print(f"Successfully posted: [{feed_name}] {title}")
                 posted_links.add(link)
-                break  # Post only the first unposted article found per feed during this run, then move to the next feed
+                break
             else:
                 print(f"Failed to post to Discord: {res.status_code} {res.text}")
                 break
