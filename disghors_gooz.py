@@ -19,6 +19,7 @@ FEEDS = {
     "Rock Paper Shotgun": "https://www.rockpapershotgun.com/feed",
     "Eurogamer": "https://www.eurogamer.net/feed/news",
     "Gematsu": "https://www.gematsu.com/feed",
+    "Dexerto": "https://www.dexerto.com/feed/",
     
     # --- TECH FEEDS ---
     "Tom's Hardware": "https://www.tomshardware.com/feeds/all",
@@ -28,7 +29,6 @@ FEEDS = {
     "TechRadar": "https://www.techradar.com/rss",
     "Overclock3D": "https://overclock3d.net/feed/",
     "Guru3D": "https://www.guru3d.com/rss.xml",
-    "PCWorld": "https://www.pcworld.com/feed",
 }
 
 HISTORY_FILE = "posted_links.txt"
