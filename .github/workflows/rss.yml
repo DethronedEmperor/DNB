@@ -2,11 +2,13 @@ name: Discord RSS Bot
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # Runs automatically every 15 minutes
-  workflow_dispatch:        # Allows manual triggering from the Actions tab
+    - cron: '*/15 * * * *'   # GitHub's own schedule (unreliable)
+  workflow_dispatch:         # Manual button
+  repository_dispatch:
+    types: [trigger-rss-bot] # This is what cron-job.org will hit
 
 permissions:
-  contents: write           # Grants permission to commit & push changes back to the repository
+  contents: write
 
 jobs:
   run-bot:
