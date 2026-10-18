@@ -146,7 +146,7 @@ def load_posted_links():
 def save_posted_links(posted_list):
     """Keeps only the most recent 500 links (order is preserved)."""
     with open(HISTORY_FILE, "w") as f:
-        for link in posted_list[-500:]:
+        for link in posted_list[-2500:]:
             f.write(f"{link}\n")
 
 
@@ -179,7 +179,7 @@ def process_feed(feed_name, feed_url, posted_list, posted_set):
         items = root.findall(".//item")
 
         # Newest first → oldest. Post the first unposted non-spam item, then stop.
-        for item in items[:15]:
+        for item in items[:50]:
             link_node = item.find("link")
             title_node = item.find("title")
             desc_node = item.find("description")
