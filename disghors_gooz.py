@@ -144,7 +144,7 @@ def load_posted_links():
 
 
 def save_posted_links(posted_list):
-    """Keeps only the most recent 500 links (order is preserved)."""
+    """Keeps only the most recent 2500 links (order is preserved)."""
     with open(HISTORY_FILE, "w") as f:
         for link in posted_list[-2500:]:
             f.write(f"{link}\n")
