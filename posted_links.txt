@@ -1428,3 +1428,10 @@ https://wccftech.com/two-critical-php-vulnerabilities-threaten-millions-of-websi
 https://www.techradar.com/pro/trump-says-data-centers-should-pay-locals-to-get-them-on-side-but-last-time-they-offered-usd10-000-and-the-residents-called-it-a-bribe
 https://www.tomshardware.com/pc-components/dram/samsung-and-sk-hynix-are-upgrading-chinese-factories-to-produce-advanced-ram-chips-as-ai-data-center-competition-ramps-up-big-players-move-to-fight-off-the-threat-from-cxmt-and-co
 https://www.techradar.com/pro/when-technology-becomes-part-of-the-talent-infrastructure
+https://www.gamespot.com/articles/ps5s-biggest-physical-games-look-very-different-from-its-biggest-digital-hits
+https://www.pcgamer.com/games/rts/ive-played-2-of-dawn-of-war-4s-campaigns-and-theyre-everything-i-hoped-theyd-be
+https://insider-gaming.com/how-to-get-60-free-pack-hourglasses-in-pokemon-tcg-pocket
+https://www.rockpapershotgun.com/dawn-of-war-4-clearly-loves-the-warhammer-40k-strategy-games-that-came-before-but-it-misses-that-they-loved-to-reinvent-themselves
+https://www.tomshardware.com/pc-components/cpus/amd-and-intel-will-work-together-to-create-a-single-pytorch-code-path-for-ai-inference-on-cpus-amd-zendnn-library-gets-folded-into-intel-onednn-to-make-cpu-ai-simpler
+https://www.techpowerup.com/353963/microsoft-scales-back-copilot-integration-in-windows-11-removes-eight-file-explorer-actions
+https://www.techradar.com/pro/its-our-mission-to-empower-every-person-and-every-organization-on-the-planet-to-achieve-more-microsoft-ceo-satya-nadella-outlines-what-businesses-need-to-conquer-the-ai-frontier-ecosystem
