@@ -1733,3 +1733,5 @@ https://wccftech.com/while-micron-calls-the-4f%c2%b2-memory-cell-architecture-a-
 https://www.techradar.com/ai-platforms-assistants/chatgpt-has-a-new-chrome-integration-i-put-it-to-the-test-to-see-if-it-really-makes-browsing-better
 https://www.gematsu.com/2026/10/do-not-feed-the-monkeys-2099-for-ps4-switch-now-available
 https://www.guru3d.com/download/display-driver-uninstaller-download
+https://www.ign.com/articles/we-were-working-on-a-great-game-former-mass-effect-5-writers-speak-out-after-ea-shuts-down-bioware
+https://www.guru3d.com/story/nvidia-dgx-spark-clusters-can-now-scale-to-eight-systems-and-1tb-of-unified-memory
