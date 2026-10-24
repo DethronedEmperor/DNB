@@ -1,5 +1,3 @@
-https://www.pcgamer.com/software/linux/linux-kernel-drops-ai-contribution-disclosure-rule-as-linus-torvalds-says-banning-the-tech-would-be-utterly-stupid
-https://www.videogameschronicle.com/news/steam-is-introducing-achievement-sets-designed-to-improve-the-achievement-earning-experience
 https://www.eurogamer.net/control-resonant-sales-remedy-entertainment
 https://www.pcgamer.com/games/grand-theft-auto/my-career-as-a-weed-farmer-was-derailed-by-my-unslakeable-lust-for-golf
 https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development
@@ -2498,3 +2496,5 @@ https://www.techradar.com/ai-platforms-assistants/chatgpts-new-locked-chats-feat
 https://www.pcgamer.com/gaming-industry/award-winning-sci-fi-author-nk-jemisin-joins-biowares-mourners-and-scorns-a-broken-industry-for-killing-geese-that-laid-the-golden-eggs
 https://www.techradar.com/audio/speakers/fyne-audio-cubitt-5-review
 https://www.eurogamer.net/mass-effect-universe-details-dantics-claims
+https://www.pcgamer.com/gaming-industry/game-development/i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game-of-ai-generated-voice-lines-having-previously-described-the-technology-as-anti-human-and-anti-art
+https://insider-gaming.com/stalker-update-leak-2-1-the-zone-lookout
