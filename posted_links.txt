@@ -1,6 +1,3 @@
-https://www.guru3d.com/story/red-magic-announces-5k-miniled-monitor-with-5184-dimming-zones
-https://www.pcgamer.com/games/rts/semifinals-the-brutal-war-to-determine-the-best-rts-unit-of-all-time-needs-your-votes
-https://wccftech.com/review/asus-proart-p16-rtx-spark-laptop-review-nvidias-first-full-pc-platform
 https://www.techpowerup.com/353795/asus-proart-p16-p14-powered-by-nvidia-rtx-spark-now-available-for-purchase-in-north-america
 https://www.rockpapershotgun.com/the-pleasures-of-double-fines-thank-you-bus-driver-are-not-in-the-destination-nor-the-journey-but-in-slapping-my-disobedient-passengers
 https://www.techradar.com/pro/security/d-link-ubiquiti-devices-hijacked-by-hackers-to-plunder-stolen-bandwidth
@@ -2498,3 +2495,6 @@ https://overclock3d.net/news/software/amds-fsr-4-1-upscaler-now-runs-on-intel-ar
 https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024
 https://www.dexerto.com/entertainment/dallas-cowboys-cheerleaders-unionize-after-years-of-wage-disputes-3421537
 https://wccftech.com/nintendo-shigeru-miyamoto-surprisingly-positive-outlook-generative-ai
+https://www.pcgamer.com/games/horror/the-best-feature-in-the-original-alan-wake-is-an-absence-the-man-has-no-reticle
+https://www.dexerto.com/roblox/roll-a-stickman-codes-3421522
+https://wccftech.com/nvidia-dlss-5-neural-rendering-now-available-in-portal-with-rtx-and-half-life-2-rtx-demo-alongside-6x-multi-frame-generation
