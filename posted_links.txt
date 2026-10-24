@@ -2488,3 +2488,6 @@ https://overclock3d.net/news/cpu_mainboard/amd-zen-6-6c-delivers-huge-single-thr
 https://www.dexerto.com/entertainment/ethan-klein-giving-up-h3-podcast-ownership-after-affair-allegations-3421508
 https://www.pcgamer.com/games/mmo/star-wars-galaxies-just-got-another-massive-update-thanks-to-its-community-restoration-project-including-a-huge-visual-upgrade-and-a-refurb-to-the-wookiees-home-planet
 https://www.techradar.com/pro/vzmore-ax9-max-ai-mini-pc-review
+https://www.tomshardware.com/pc-components/gpus/leaked-video-exposes-how-chinese-factories-are-stripping-rtx-5090s-to-fuel-ai-custom-partner-cards-to-nvidia-founders-editions-on-the-chopping-block
+https://www.techradar.com/health-fitness/fitness-trackers/frontier-x2-review
+https://overclock3d.net/news/misc/asus-issues-wifi-router-updates-to-address-severe-vulnerabilities
