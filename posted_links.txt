@@ -1,6 +1,3 @@
-https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns
-https://www.gamespot.com/articles/silver-pines-is-a-2d-silent-hill-meets-alan-wake-and-it-even-scares-me-at-its-lowest-price
-https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood
 https://insider-gaming.com/wardogs-wipe-issues-bring-season-3-earlier
 https://www.rockpapershotgun.com/we-have-reached-a-new-threshold-in-genai-gloom-with-a-game-dev-cancelling-a-demo-for-fear-of-copycats-ripping-them-off-before-release
 https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent
@@ -2498,3 +2495,6 @@ https://www.techpowerup.com/354116/new-linux-tool-brings-resizable-bar-to-intel-
 https://www.techradar.com/gaming/we-ended-up-with-four-really-big-campaigns-and-70-missions-its-insane-warhammer-40-000-dawn-of-war-4-creative-director-says-king-arts-ideas-snowballed-after-deciding-on-four-faction-campaigns-with-branching-stories
 https://www.pcgamer.com/games/dark-souls/dark-souls-2-seamless-co-op-is-the-chillest-way-to-play-fromsofts-most-frustrating-game
 https://insider-gaming.com/tomb-raider-legacy-of-atlantis-sneak-peek
+https://www.pcgamer.com/games/fps/overwatch-devs-took-one-look-at-jetpack-cat-and-bastions-combo-and-went-oh-thats-a-little-scary
+https://wccftech.com/silent-hill-2-remakes-infamous-traversal-stutters-significantly-reduced-by-new-mod-our-tests-show-52-higher-0-1-lows
+https://www.techradar.com/pro/security/1password-will-now-let-ai-agents-log-in-to-accounts-for-you-without-ever-needing-to-see-your-password
