@@ -1,6 +1,3 @@
-https://www.techradar.com/pro/biomemorys-dna-shield-stores-critical-data-in-synthetic-dna-beyond-the-reach-of-cyberattacks
-https://www.videogameschronicle.com/news/sega-pulls-total-war-shogun-2-complete-edition-from-stores-over-bugs-and-ai-art
-https://www.tomshardware.com/video-games/pc-gaming/epic-introduces-an-improved-version-of-anti-cheat-for-linux-eac-linux-v2-will-finally-allow-linux-gamers-to-play-fortnite
 https://www.guru3d.com/story/pc-shipments-fall-sharply-as-dram-and-ssd-costs-pressure-vendors
 https://www.rockpapershotgun.com/we-were-wrong-wardogs-devs-end-season-2s-team-specific-cash-and-xp-bonus-experiment-after-a-single-tumultuous-day
 https://www.techradar.com/pro/the-collapse-of-web-coding-gigs-is-getting-ugly-ai-takes-over-routine-website-development-jobs-and-business-owners-are-very-happy-with-its-job-so-far
@@ -2498,3 +2495,6 @@ https://wccftech.com/exynos-2700-outpaces-snapdragon-8-elite-extreme-gen-6-inter
 https://www.techpowerup.com/354110/geforce-unlocked-modders-boost-rtx-30-and-rtx-40-compute-performance-by-up-to-2x
 https://www.guru3d.com/story/amd-zen-6c-epyc-9996-single-thread-appears-faster-than-zen-5-in-geekbench
 https://www.techpowerup.com/354110/geforce-unlocked-modders-boost-rtx-20-rtx-30-and-rtx-40-compute-performance-by-up-to-2x
+https://www.rockpapershotgun.com/the-sunday-papers-833
+https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting
+https://wccftech.com/sim-racing-expo-2026-sim-racing-isnt-that-niche-anymore
