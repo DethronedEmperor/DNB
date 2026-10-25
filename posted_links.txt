@@ -1,5 +1,3 @@
-https://www.eurogamer.net/battlefield-6-xp-cap-season-5-reverted
-https://www.eurogamer.net/runescape-reignited-cancelled-two-weeks-player-feedback
 https://www.guru3d.com/story/intel-nova-lakehx-bare-dies-reportedly-show-a-sixtile-design
 https://www.techradar.com/pro/biomemorys-dna-shield-stores-critical-data-in-synthetic-dna-beyond-the-reach-of-cyberattacks
 https://www.videogameschronicle.com/news/sega-pulls-total-war-shogun-2-complete-edition-from-stores-over-bugs-and-ai-art
@@ -2498,3 +2496,5 @@ https://www.techradar.com/gaming/gaming-accessories/crkd-nitro-deck-2-review
 https://www.techradar.com/entertainment/rugby/watch-australia-vs-fiji-free-rugby-league-world-cup-2026
 https://www.techradar.com/pro/ai-agents-go-rogue-chasing-a-gbp350-train-refund-six-personal-assistant-models-spam-politicians-fabricate-lies-and-leak-private-medical-data-after-missing-a-28-day-claim-deadline
 https://wccftech.com/exynos-2700-outpaces-snapdragon-8-elite-extreme-gen-6-internal-tests
+https://www.techpowerup.com/354110/geforce-unlocked-modders-boost-rtx-30-and-rtx-40-compute-performance-by-up-to-2x
+https://www.guru3d.com/story/amd-zen-6c-epyc-9996-single-thread-appears-faster-than-zen-5-in-geekbench
