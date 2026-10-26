@@ -1,7 +1,3 @@
-https://www.tomshardware.com/video-games/retro-gaming/modder-finishes-nine-year-xbox-360-voltage-glitch-mod-with-a-usd4-microcontroller-cracks-the-console-open-tiny-microcontroller-dumps-nand-and-flashes-timing-files-to-bypass-cpu-cryptography
-https://www.techpowerup.com/353808/chinese-startup-unveils-first-homegrown-euv-laser-source
-https://wccftech.com/micron-edge-inference-memory-hbm-power-efficiency-ai-robots
-https://www.techradar.com/pro/lenovo-yoga-pro-7i-gen-11-aura-edition-oled-laptop-review
 https://www.pcgamer.com/games/fps/we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribery-bonus-is-being-dropped
 https://www.dexerto.com/food/texas-woman-sues-torchys-tacos-for-250k-after-finding-cow-tooth-in-her-food-3419519
 https://www.tomshardware.com/pc-components/gpus/grab-an-rtx-5090-for-discounted-usd5-300-as-part-of-an-msi-infinite-zs-prebuilt-gaming-pc-usd7-599-price-includes-other-components-worth-about-usd2-300-on-their-own
@@ -2498,3 +2494,7 @@ https://www.rockpapershotgun.com/32-year-old-ellipsoid-horror-game-ecstatica-get
 https://www.dexerto.com/league-of-legends/league-of-legends-world-champion-cyanide-dies-aged-31-3421799
 https://wccftech.com/cleanyourtv-3-0-lets-you-remove-ads-and-bloatware-from-android-and-google-tvs-now-supports-300-models
 https://www.techradar.com/pro/security/chatgpt-and-claude-blocked-by-swedish-government-over-problematic-security-concerns
+https://www.tomshardware.com/tech-industry/cyber-security/lack-of-funding-likely-led-to-the-recent-php-security-snafu-but-thats-just-the-tip-of-the-iceberg-a-dreary-situation-caused-by-services-running-old-versions-with-no-support
+https://wccftech.com/asus-debuts-rog-nuc-16-phantom-blade-zero-edition
+https://www.kitguru.net/gaming/mustafa-mahmoud/shenmue-3-enhanced-has-been-delayed-to-2027
+https://www.techradar.com/pro/it-and-security-leaders-of-the-ai-era-must-go-back-to-basics-and-beware-the-hype
