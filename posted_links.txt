@@ -1,8 +1,3 @@
-https://www.techradar.com/pro/this-computer-is-going-to-be-incredible-nvidia-ceo-jensen-huang-explains-why-the-new-surface-laptop-ultra-is-really-a-work-of-love
-https://www.techradar.com/televisions/streaming-devices/someone-got-blu-ray-quality-dolby-atmos-truehd-lossless-sound-working-on-the-apple-tv-4k
-https://www.techradar.com/audio/earbuds-airpods/our-top-earbuds-of-2026-so-far-all-the-buds-that-wowed-us-in-testing-including-budget-stunners-that-deliver-stellar-sound-for-under-usd40-gbp30
-https://www.techradar.com/how-to-watch/rugby/fiji-vs-cook-islands-free-rugby-league-world-cup-2026
-https://www.ign.com/articles/dev-behind-russian-roulette-drinking-game-cancels-steam-demo-plans-following-ai-copycat-concerns
 https://www.dexerto.com/gaming/shrek-2-remaster-leaks-early-with-four-player-online-co-op-3419656
 https://www.techradar.com/how-to-watch/cricket/south-africa-vs-australia-2026-2nd-test
 https://www.techradar.com/how-to-watch/cricket/england-pakistan-sri-lanka-odi-tri-series-2026-live-streams
@@ -2498,3 +2493,8 @@ https://www.dexerto.com/gaming/new-steam-game-turns-chess-into-dark-souls-with-b
 https://www.tomshardware.com/tech-industry/chinese-research-vessels-loiter-near-pacific-undersea-cables-more-than-any-other-nation-report-finds-civilian-fleet-using-lawnmower-patterns-may-be-mapping-seafloor-for-future-sabotage
 https://wccftech.com/nvidia-quietly-lowers-vera-rubin-hbm4-bandwidth-by-up-to-26-nvlink-speeds-also-reduced
 https://www.techradar.com/entertainment/tv-shows/how-to-watch-the-mob
+https://www.ign.com/articles/50000-dollar-ps5-exploit-found-with-ai
+https://www.gamespot.com/articles/call-of-duty-movie-will-not-be-about-hey-lets-shoot-them-all-up-director-says
+https://www.rockpapershotgun.com/it-flips-up-fallout-new-vegas-modders-yell-after-releasing-a-funky-pip-boy-based-on-cancelled-entry-van-burens-design-docs
+https://www.dexerto.com/gta/gta-6-fans-are-reselling-rare-merch-for-crazy-amounts-of-money-3421830
+https://www.tomshardware.com/tech-industry/semiconductors/cadence-reveals-maestro-fine-tuned-ai-models-built-to-run-specialized-chip-design-agents-with-early-access-coming-for-select-customers-in-q4-2026-claims-up-to-30-percent-higher-quality-results-and-up-to-5x-token-efficiency-over-a-general-purpose-ai-model
