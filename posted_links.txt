@@ -1,6 +1,3 @@
-https://www.tomshardware.com/tech-industry/drones/f-22-raptor-pilot-successfully-demonstrates-command-of-wingman-fighter-drone-in-simulated-combat-anduril-yfq-44a-fury-test-advances-usafs-program-to-integrate-uncrewed-aircraft-into-fighter-squadrons
-https://www.techpowerup.com/353776/qualcomm-legally-proves-arm-breached-its-license-wins-usd-2
-https://wccftech.com/dell-reportedly-plans-to-increase-monitor-prices-by-3-5
 https://www.pcgamer.com/hardware/gaming-mice/79-percent-of-you-think-razers-new-gaming-mouse-feature-counts-as-cheating
 https://www.rockpapershotgun.com/asha-sharma-announces-xbox-labs-project-to-explore-new-technology-which-sure-sounds-like-tinkering-with-old-games-through-ai
 https://www.eurogamer.net/liquid-swords-samson-developer-bankrupt
@@ -2498,3 +2495,6 @@ https://www.ign.com/articles/interactive-storytelling-app-ooc-introduces-hallowe
 https://insider-gaming.com/blue-archive-expansion-nexon-plan
 https://www.techpowerup.com/354144/nvidia-allegedly-stops-accepting-rtx-5090-orders
 https://wccftech.com/rayneo-air-4-pro-hdr10-ar-glasses-deal-amazon-201-inch-screen-bo-audio
+https://www.ign.com/articles/walter-koenig-star-treks-chekov-dies-at-age-90
+https://www.pcgamer.com/games/card-games/the-best-haunted-card-game-since-inscryption-is-back-with-a-new-mystery-only-solitaire-freaks-can-solve
+https://www.techpowerup.com/354152/surface-laptop-ultra-gets-its-first-firmware-fix-for-flickering-and-slow-reboots
