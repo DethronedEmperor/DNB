@@ -1,4 +1,3 @@
-https://overclock3d.net/news/gpu-displays/nvidia-rtx-5090-models-listed-as-not-carried-by-micro-center
 https://www.guru3d.com/story/intel-core-5-205h-appears-in-passmark-with-eight-cores-and-twelve-threads
 https://www.ign.com/articles/the-street-fighter-movie-makes-a-mistake-mortal-kombat-already-learned-from
 https://www.gamespot.com/articles/you-can-play-wow-forever-for-free-next-week-but-theres-a-catch
@@ -2498,3 +2497,4 @@ https://www.gamespot.com/reviews/phantom-blade-zeros-combat-is-so-good-you-wont-
 https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-26-october-2026
 https://www.techpowerup.com/354125/epic-games-makes-fortnite-x-one-piece-official-mini-season-starts-november-1
 https://www.techradar.com/gaming/nyt-connections-today-answers-hints-26-october-2026
+https://www.techpowerup.com/352133/steamos-3-9-0-preview-launches-with-kde-6-7-3-and-linux-kernel-7-2
