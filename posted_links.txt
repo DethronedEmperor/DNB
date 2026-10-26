@@ -1,10 +1,3 @@
-https://www.techpowerup.com/353786/asus-republic-of-gamers-announces-bulwark-dock-dg310
-https://www.kitguru.net/gaming/matthew-wilson/destiny-1-remaster-rumoured-for-pc-and-consoles
-https://www.techradar.com/audio/wireless-headphones/visceral-sound-these-headphones-promise-better-bass-by-transmitting-it-through-your-skin-not-your-ears-we-tried-the-first-generation-of-the-tech-and-its-astoundingly-good-so-were-excited-by-this-upgraded-version
-https://www.pcgamer.com/games/grand-theft-auto/gta-5-finally-measures-up-to-the-actual-best-gta-game-now-ive-added-a-jetpack
-https://www.rockpapershotgun.com/ubisoft-reportedly-look-to-cut-100-more-jobs-by-proposing-voluntary-redundancies-at-studios-including-lead-anno-devs-ubisoft-mainz
-https://www.eurogamer.net/max-payne-3-rockstar-dan-houser-failure-blame
-https://www.dexerto.com/entertainment/wedding-venue-countersues-bride-over-canceled-wedding-after-fiances-death-3419751
 https://www.tomshardware.com/pc-components/overclocking/cinebench-world-record-that-stood-for-12-years-gets-toppled-oc-expert-scores-10-8cb-in-cinebench-r11-5-using-an-intel-core-i5-4670k-at-6-3-ghz
 https://www.techpowerup.com/353783/team-group-t-create-expert-ai-cqdimm-ddr5-memory-wins-good-design-award-2026
 https://www.kitguru.net/components/cooling/joao-silva/thermaltake-launches-ob360-aio-with-unified-360mm-fan-frame
@@ -2498,3 +2491,10 @@ https://www.eurogamer.net/xbox-ai-microsoft-voluntary-exit-offer-60000
 https://www.techpowerup.com/354143/28-core-intel-nova-lake-s-cpu-shows-promising-performance-boost-in-leaked-benchmark
 https://www.kitguru.net/gaming/operating-systems/joao-silva/microsoft-adds-intel-apx-support-in-latest-windows-11-preview-build
 https://www.techradar.com/vpn/vpn-services/proton-has-launched-its-black-friday-vpn-prices-and-they-might-have-restored-my-faith-in-this-years-deals
+https://www.ign.com/articles/the-street-fighter-movie-cast-reportedly-signed-on-for-three-films
+https://www.pcgamer.com/gaming-industry/an-overdue-conversation-with-jordan-mechner
+https://insider-gaming.com/wordle-hints-answer-october-27-2026-1956
+https://www.dexerto.com/entertainment/instagram-takes-aim-at-youtube-with-new-90-minute-video-test-3422003
+https://www.tomshardware.com/pc-components/cpus/intel-quietly-confirms-raptor-lake-next-cpus-through-internal-driver-publication-lga-1700-chips-also-appear-in-shipping-manifests-dating-back-to-august
+https://www.kitguru.net/components/graphic-cards/joao-silva/amd-fsr-4-1-2-modified-to-run-on-intel-arc-gpus-via-optiscaler
+https://www.techradar.com/tech/proton-is-hosting-a-flock-map-that-shows-where-200-000-of-its-cameras-are-lurking-but-theres-still-a-case-for-using-deflock
