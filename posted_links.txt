@@ -1,7 +1,3 @@
-https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-18-october-2026
-https://www.techpowerup.com/353835/call-of-duty-modern-warfare-4-gets-a-warm-steam-welcome-with-90-positive-reviews
-https://wccftech.com/nvidia-dlss-ray-reconstruction-now-works-on-amd-radeon-gpus-through-new-mod-alongside-dlss-sr-4-5-mfg-dlss-5
-https://www.techradar.com/pro/the-us-air-force-is-spending-millions-on-data-collected-by-massive-autonomous-weather-balloons
 https://www.techradar.com/pro/this-computer-is-going-to-be-incredible-nvidia-ceo-jensen-huang-explains-why-the-new-surface-laptop-ultra-is-really-a-work-of-love
 https://www.techradar.com/televisions/streaming-devices/someone-got-blu-ray-quality-dolby-atmos-truehd-lossless-sound-working-on-the-apple-tv-4k
 https://www.techradar.com/audio/earbuds-airpods/our-top-earbuds-of-2026-so-far-all-the-buds-that-wowed-us-in-testing-including-budget-stunners-that-deliver-stellar-sound-for-under-usd40-gbp30
@@ -2498,3 +2494,7 @@ https://www.dexerto.com/entertainment/university-professor-refuses-to-grade-home
 https://wccftech.com/bioware-mass-effect-universe-absolute-autonomy-technical-director-save-petition-210k
 https://www.kitguru.net/tech-news/mustafa-mahmoud/stalker-2-update-2-1-brings-even-more-improvements-to-its-a-life-system
 https://www.techradar.com/news/live/steam-down-october-2026
+https://www.dexerto.com/gaming/new-steam-game-turns-chess-into-dark-souls-with-brutal-bosses-3421812
+https://www.tomshardware.com/tech-industry/chinese-research-vessels-loiter-near-pacific-undersea-cables-more-than-any-other-nation-report-finds-civilian-fleet-using-lawnmower-patterns-may-be-mapping-seafloor-for-future-sabotage
+https://wccftech.com/nvidia-quietly-lowers-vera-rubin-hbm4-bandwidth-by-up-to-26-nvlink-speeds-also-reduced
+https://www.techradar.com/entertainment/tv-shows/how-to-watch-the-mob
