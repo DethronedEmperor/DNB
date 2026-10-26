@@ -1,7 +1,3 @@
-https://www.tomshardware.com/tech-industry/drones/djis-first-battery-swapping-dock-gets-drones-recharged-and-back-in-the-air-in-under-45-seconds-but-dock-4-has-no-fcc-clearance-for-u-s-sale
-https://www.techpowerup.com/353842/this-week-in-gaming-week-43
-https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-train-ai-to-detect-concealed-handguns-using-wi-fi-signals-open-source-wifirenet-achieves-precision-detection-on-older-802-11a-standard-by-analyzing-how-weapons-distort-wireless-signals
-https://www.techradar.com/entertainment/can-you-escape-the-island-this-30-question-lost-quiz-will-test-everything-you-know-about-the-hit-mystery-show
 https://www.pcgamer.com/games/horror/outlast-designer-says-that-one-playtester-was-so-upset-by-the-horror-series-they-ran-out-of-the-studio-to-go-cry-outside-and-didnt-return
 https://www.videogameschronicle.com/news/samson-developer-liquid-swords-is-facing-bankruptcy
 https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model
@@ -2498,3 +2494,7 @@ https://www.dexerto.com/entertainment/apple-finally-brings-oled-to-the-ipad-mini
 https://www.tomshardware.com/pc-components/dram/micron-plans-to-use-wafer-bonding-and-high-na-euv-for-next-gen-dram-company-also-developing-vertical-high-bandwidth-memory-and-vertical-edge-inference-memory-integrated-directly-on-top-of-processors
 https://wccftech.com/500-dollar-mac-pro-conversion-kit-pc-crowdfunding-struggles
 https://www.techradar.com/pro/security/experts-reveal-another-major-php2shell-bug-and-its-not-getting-an-emergency-patch-this-time
+https://www.pcgamer.com/hardware/phantom-blade-zero-devs-say-the-game-needs-300-gb-of-free-space-for-the-pre-load-process-alongside-updated-system-requirements
+https://www.videogameschronicle.com/news/fanaticals-new-build-your-own-puzzle-adventure-bundle-offers-19-games-from-as-little-as-3-per-game
+https://www.dexerto.com/twitch/twitch-streamer-el-komanche-found-dead-at-home-in-mexico-aged-30-3421870
+https://www.techradar.com/entertainment/football/watch-galatasaray-vs-fenerbahce-turkish-super-lig-2026-27
