@@ -1,9 +1,3 @@
-https://www.tomshardware.com/pc-components/gpus/modders-used-the-official-dlss-5-release-on-unsupported-games-and-are-seeing-up-to-90-percent-better-performance-than-the-leaked-dlss-5-nvidia-says-new-nr-model-uses-20-percent-less-vram-and-processes-neural-workloads-up-to-2x-faster
-https://www.techpowerup.com/353792/msi-launches-limited-msi-geforce-rtx-5080-16g-cod-mw4-edition-oc-graphics-card-inspired-by-call-of-duty-modern-warfare-4
-https://wccftech.com/rtx-3090-4-6x-token-generation-27b-llm-inference-optimizations
-https://www.kitguru.net/tech-news/mustafa-mahmoud/octobers-playstation-plus-extra-premium-line-up-includes-horizon-forbidden-west-mafia-and-more
-https://www.techradar.com/streaming/paramount-plus/mobland-season-2-episode-6-release-date-time
-https://www.gamespot.com/articles/fire-emblems-remarkable-comeback
 https://www.pcgamer.com/games/survival-crafting/valheim-vs-runescape-dragonwilds-vs-enshrouded
 https://www.rockpapershotgun.com/the-rumoured-steam-frame-oled-would-fix-one-of-the-frames-minor-weaknesses-and-do-nothing-for-its-major-ones
 https://www.eurogamer.net/guild-wars-2-living-world-expansions
@@ -2498,3 +2492,9 @@ https://www.rockpapershotgun.com/steams-ai-disclosures-are-akin-to-forcing-devel
 https://www.techpowerup.com/354141/sucker-punch-suffers-layoffs-despite-ghost-of-yoteis-usd-400m-year-1-revenue
 https://www.techradar.com/phones/google-pixel-phones/this-pixel-10-deal-is-going-to-be-hard-to-beat-on-black-friday-save-gbp370-get-double-storage-and-a-pair-of-earbuds-for-gbp1
 https://www.guru3d.com/story/intel-nova-lakes-24core-processor-scores-5210-points-in-passmark-singlethread-benchmark
+https://insider-gaming.com/roblox-race-for-eggs-codes
+https://www.dexerto.com/smash/game-changing-super-smash-bros-melee-mod-transforms-gamecube-classic-into-3d-arena-fighter-3421981
+https://www.techpowerup.com/354142/tsmc-a14-node-to-break-eight-years-of-sram-scaling-stagnation
+https://wccftech.com/claude-code-prompt-hidden-camera-detector-hotel-airbnb-wifi-bluetooth
+https://www.kitguru.net/gaming/matthew-wilson/stalker-2-zone-lookout-update-brings-hundreds-of-fixes
+https://www.techradar.com/health-fitness/sleep/im-a-sleep-expert-these-are-the-relaxation-gadgets-id-recommend-to-beat-the-gloom-this-winter
