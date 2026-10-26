@@ -1,5 +1,3 @@
-https://www.guru3d.com/story/colorful-announces-igame-x870e-ultras
-https://www.ign.com/articles/street-fighter-how-can-there-be-an-ending-explained-when-there-is-no-ending
 https://www.gamespot.com/articles/2027-upcoming-games-release-schedule
 https://www.pcgamer.com/games/world-of-warcraft/discussion-time-do-you-think-zone-chats-in-mmos-are-forces-for-good-or-evil
 https://insider-gaming.com/cody-rhodes-wwe-street-fighter-tournament-picks
@@ -2498,3 +2496,5 @@ https://wccftech.com/5-billion-from-nvidia-amd-and-intel-rumored-to-flow-into-ta
 https://www.ign.com/articles/eric-bauza-voice-acting-legend-behind-bugs-bunny-and-daffy-duck-dead-at-46
 https://www.techradar.com/pro/software-services/movavi-video-editor-27-review
 https://www.guru3d.com/story/thermaltake-ax600-pro-full-tower-supports-dual-atx-power-supplies-and-20-fans
+https://www.techpowerup.com/354133/nvidia-cuts-hbm4-speed-and-nvlink-bandwidth-targets-for-vera-rubin
+https://www.guru3d.com/story/nvidia-updated-vera-rubin-specs-show-lower-hbm-and-nvlink-bandwidth
