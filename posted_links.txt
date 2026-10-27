@@ -1,6 +1,3 @@
-https://www.techpowerup.com/353856/amd-radeon-owners-can-now-run-nearly-every-dlss-feature-through-fan-made-mod
-https://www.techradar.com/pro/arm-agi-cpu-crushes-amd-in-new-agentic-ai-benchmark-but-what-does-its-2x-rack-level-performance-advantage-mean-for-the-future-of-x86-data-centers
-https://www.ign.com/articles/don-bradman-cricket-jr-announced-for-pc-and-consoles
 https://www.ign.com/articles/jesse-eisenberg-says-he-couldnt-get-movie-studio-parts-after-winning-his-batman-v-superman-razzie
 https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-next-fest-has-over-8-000-demos-as-worthless-vibe-coded-slop-levels-up
 https://www.ign.com/articles/the-simpsons-apu-has-finally-spoken-on-the-show-for-the-first-time-in-almost-a-decade
@@ -2498,3 +2495,6 @@ https://insider-gaming.com/infinity-ward-taking-action-against-dmz-duplication-e
 https://www.eurogamer.net/pokemon-unite-closing-date
 https://www.dexerto.com/gaming/super-smash-bros-creator-sakurai-hits-out-at-ai-games-for-just-copying-others-3422041
 https://www.tomshardware.com/tech-industry/semiconductors/nvidia-is-bankrolling-ai-accelerator-supply-chain-buildout-to-reserve-production-capacity-announces-billion-dollar-deals-with-six-major-suppliers-across-substrates-advanced-packaging-semiconductor-testing-and-optical-engines
+https://insider-gaming.com/arc-raiders-2-3-update-adds-new-player-project-and-100-bug-fixes
+https://www.rockpapershotgun.com/steam-frame-kernel-updated-with-external-cd-rom-drive-compatibility-just-one-day-after-a-user-asked-valve-for-it
+https://www.techradar.com/pro/sovereign-ai-is-about-more-than-where-data-resides
