@@ -1,5 +1,3 @@
-https://www.dexerto.com/gaming/new-friendslap-game-is-all-about-keeping-a-balloon-in-the-air-3419818
-https://wccftech.com/exclusive-nvidia-vera-team-says-chiplet-designs-sacrificed-single-threaded-performance-for-core-counts-and-agentic-ai-is-now-forcing-a-reversal
 https://www.pcgamer.com/software/ai/leaked-ai-safety-bill-from-anthropic-only-lets-government-act-if-50-deaths-or-usd1-billion-are-on-the-line
 https://www.eurogamer.net/epic-games-delays-star-wars-marvel-shooter-ai-development
 https://www.dexerto.com/pokemon/tcg-collector-says-100k-psa-card-order-stolen-in-pokemon-mtg-yu-gi-oh-fedex-truck-burglary-3419814
@@ -2498,3 +2496,5 @@ https://wccftech.com/tsmc-cowos-price-hike-20-percent-ai-gpu-asic-demand
 https://www.guru3d.com/story/intel-ceo-reportedly-discussed-possible-cooperation-with-amd
 https://wccftech.com/silent-hill-remake-targeting-2027-release-two-actresses-first-cast-members
 https://www.guru3d.com/story/idcooling-frozn-a612-black-adds-a-thick-dualfan-singletower-cooler
+https://www.techpowerup.com/354167/micron-plans-400-layer-3d-nand-with-wafer-to-wafer-bonding-in-2027
+https://www.guru3d.com/story/msi-launches-a-limited-geforce-rtx-5080-call-of-duty-edition
