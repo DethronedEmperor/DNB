@@ -1,5 +1,3 @@
-https://www.techradar.com/televisions/blu-ray/i-knew-film-restoration-for-4k-blu-ray-couldnt-be-easy-but-after-seeing-the-process-for-hammers-dracula-in-action-i-have-a-newfound-appreciation-for-every-disc
-https://www.ign.com/articles/apple-2026-m6-mac-mini-deal-october-2026
 https://www.dexerto.com/food/burger-king-launches-hello-kitty-kids-meals-with-rare-golden-collectible-toys-3420105
 https://www.techpowerup.com/353881/amd-ryzen-ai-7-hx-455-surfaces-with-16-cu-radeon-graphics
 https://www.techradar.com/pro/ai-is-no-longer-just-supporting-the-business-it-has-become-the-business-model-ibm-vp-tells-us-how-your-business-can-balance-ai-excitement-with-realism-as-governance-becomes-more-important-than-ever
@@ -2498,3 +2496,5 @@ https://www.ign.com/articles/a-lot-of-players-dont-want-to-play-a-monster-wow-fo
 https://www.gamespot.com/articles/official-wow-forever-amv-will-get-you-super-hyped
 https://www.dexerto.com/roblox/a-long-flight-codes-3422189
 https://wccftech.com/rtx-5080-coil-whine-asus-warranty-claim-rejected
+https://www.ign.com/articles/blizzard-reveals-plan-for-world-of-warcraft-forever-update-frequency
+https://www.techpowerup.com/354189/valve-enables-cd-drive-support-in-steam-frame-kernel-after-a-single-request
