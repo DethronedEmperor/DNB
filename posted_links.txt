@@ -1,10 +1,3 @@
-https://www.gamespot.com/articles/castlevania-belmonts-curse-relics-guide
-https://www.eurogamer.net/funcom-dune-awakening-layoffs-restructuring
-https://www.tomshardware.com/pc-components/cpus/arm-claims-agi-cpu-delivers-double-the-performance-per-rack-of-amd-epyc-9755-in-independent-analysis-new-cpu-evaluation-methodology-developed-by-arm-evaluates-agentic-ai-performance-across-seven-workloads
-https://www.techpowerup.com/353869/iqunix-prepares-ev63-edg-edition-keyboard
-https://wccftech.com/rtx-5090-power-limit-jumps-from-600w-to-800w-with-a-custom-vbios-editor
-https://www.techradar.com/audio/turntables/this-wall-mounted-turntable-cd-player-and-cassette-system-is-ideal-for-retro-music-lovers-in-tiny-homes-you-just-need-a-spot-for-a-bluetooth-speaker
-https://www.gamespot.com/articles/street-fighter-movie-box-office-results
 https://www.pcgamer.com/hardware/graphics-cards/rtx-5090-not-dead-says-nvidia-but-its-mysteriously-vanished-from-the-companys-official-marketplace
 https://insider-gaming.com/modern-warfare-4-yolo-explained
 https://www.eurogamer.net/call-of-duty-next-game-new-sub-franchise
@@ -2498,3 +2491,10 @@ https://www.dexerto.com/valorant/valorant-13-09-update-brings-hush-as-new-agent-
 https://www.tomshardware.com/video-games/playstation/hacker-awarded-usd50k-bounty-for-reporting-bug-to-sony-that-allowed-ps5-linux-exploit-move-sparks-backlash-from-jailbreaking-community
 https://wccftech.com/total-war-shogun-2-gets-massive-performance-boosts-with-new-mod-up-to-50-higher-fps-in-battles-and-even-bigger-gains-on-campaign-map
 https://www.techradar.com/pro/security/over-525-000-hit-in-massive-university-of-copenhagen-data-breach
+https://www.gamespot.com/videos/drawquarium-official-release-date-trailer
+https://www.pcgamer.com/games/strategy/peter-molyneux-speaks-candidly-about-ai-we-as-the-industry-are-pretending-were-not-using-ai-but-the-reality-is-its-almost-impossible-to-code-now-without-using-ai
+https://www.videogameschronicle.com/features/interviews/pocketpair-ceo
+https://insider-gaming.com/poppy-playtime-chapter-6-teased-for-2027-in-new-trailer
+https://www.dexerto.com/food/pop-tarts-reveals-liquid-death-orange-flavored-toaster-pastry-and-screaming-alarm-clock-giveaway-3422124
+https://www.tomshardware.com/peripherals/mechanical-keyboards/keybytes-truly-modular-keyboard-starts-with-one-key-and-is-assembled-like-legos-each-magnetic-key-module-has-its-own-risc-v-microcontroller-for-the-ultimate-in-customizability
+https://www.techradar.com/computing/macbooks/apple-reveals-imac-m6-and-macbook-pro-m6-and-the-good-news-is-there-are-no-price-hikes
