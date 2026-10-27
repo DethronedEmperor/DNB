@@ -1,5 +1,3 @@
-https://www.techradar.com/ai-platforms-assistants/is-it-suspicious-that-such-an-obvious-thing-wasnt-discovered-in-25-years-ai-keeps-breaking-old-encryption-mysteries-and-quietly-dunking-on-humans-in-the-process
-https://www.ign.com/articles/hideo-kojima-loved-whalefall-but-it-ruined-eating-squid-for-him
 https://insider-gaming.com/new-valorant-agent-hush-is-a-chinese-duelist-who-wields-telekinesis
 https://www.dexerto.com/entertainment/conjoined-twin-influencers-die-at-27-after-one-suffers-cardiac-arrest-and-the-other-a-heart-attack-3420129
 https://www.techpowerup.com/353854/ps4-exclusive-driveclub-now-runs-natively-on-pc-through-new-recomp
@@ -2498,3 +2496,5 @@ https://www.ign.com/articles/two-creators-of-the-original-doom-are-arguing-about
 https://www.techpowerup.com/354199/zotac-restocks-nvidia-geforce-rtx-5090-solid-oc-in-japan-amid-reports-of-gpus-eol-status
 https://www.techradar.com/pro/security/watch-out-that-microsoft-teams-chat-might-be-hackers-impersonating-your-it-support
 https://www.ign.com/articles/discord-messages-in-discoverable-servers-will-soon-be-searchable-on-google
+https://www.ign.com/articles/acer-nitro-qd-oled-gaming-monitor-deal-october-2026
+https://www.techpowerup.com/354201/samsung-8lpu-gets-floated-as-the-node-for-a-future-switch-2-lite
