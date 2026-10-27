@@ -1,6 +1,3 @@
-https://www.pcgamer.com/hardware/controllers/razer-wolverine-v4-pro-review
-https://www.rockpapershotgun.com/my-idea-of-a-netflix-for-games-doesnt-work-garrys-mod-creator-says-struggling-spiritual-successor-sbox-will-go-free-to-play-as-part-of-major-rethink
-https://www.eurogamer.net/snl-elon-musk-wario-skit-zelda-gta-6
 https://www.dexerto.com/entertainment/teslas-new-flying-roadster-has-the-internet-losing-its-mind-3419334
 https://www.tomshardware.com/3d-printing/formlabs-form-studio-1-review
 https://www.techpowerup.com/353767/micro-center-reportedly-drops-the-rtx-5090-from-its-catalog-as-end-of-life-rumors-pile-up
@@ -2498,3 +2495,6 @@ https://www.techradar.com/gaming/nyt-connections-today-answers-hints-27-october-
 https://www.ign.com/articles/composer-austin-wintory-shares-22-minutes-of-music-created-for-biowares-canceled-mass-effect-5
 https://www.techpowerup.com/354157/anthropic-files-to-go-public-on-nasdaq-reveals-usd-16-3-billion-in-first-half-revenue
 https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-27-october-2026
+https://www.ign.com/articles/turtle-beach-playtrek-nintendo-switch-2-case-deal-october-2026
+https://www.pcgamer.com/software/platforms/the-50-most-played-steam-next-fest-demos-include-7-incremental-games-4-ai-disclosures-and-only-one-instance-of-haystack-slop
+https://www.techradar.com/pro/worlds-largest-cargo-drone-packs-a-50-foot-wingspan-and-4-000lb-payload-but-youll-never-find-a-human-pilot-inside
