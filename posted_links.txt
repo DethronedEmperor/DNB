@@ -1,9 +1,3 @@
-https://insider-gaming.com/xbox-job-listing-suggests-discs-arent-going-anywhere
-https://www.dexerto.com/gaming/these-gaming-gauntlets-have-built-in-heaters-to-keep-your-hands-warm-3419965
-https://www.tomshardware.com/tech-industry/cryptomining/claude-code-ai-agent-caught-a-crypto-miner-hiding-on-a-developers-overheating-mac-xmrig-task-was-hogging-about-1175-percent-cpu-roughly-12-cores-pushing-temps-to-112-degrees
-https://www.techradar.com/computing/windows/windows-11-is-getting-another-free-speed-boost-for-apps-i-just-wonder-why-all-this-performance-tuning-didnt-happen-before-now
-https://www.gamespot.com/articles/all-castlevania-belmonts-curse-weapon-locations
-https://www.techradar.com/health-fitness/smartwatches/this-garmin-feature-is-killing-users-battery-life-heres-how-to-disable-it-and-get-more-juice-from-your-smartwatch
 https://www.gamespot.com/articles/how-to-enter-notre-dame-in-castlevania-belmonts-curse
 https://www.pcgamer.com/hardware/ps5-exclusive-demons-souls-remake-not-only-runs-on-pc-now-its-running-at-twice-the-fps-cap-on-an-rtx-5070-with-frame-gen
 https://www.eurogamer.net/witcher-3-switch-2-patch-update-resolution-brightness
@@ -2498,3 +2492,9 @@ https://www.tomshardware.com/pc-components/external-ssds/samsung-portable-ssd-p9
 https://www.techpowerup.com/354176/apple-introduces-the-new-14-inch-macbook-pro-with-m6
 https://www.kitguru.net/gaming/matthew-wilson/transformers-reactivate-gameplay-trailer-leaks-online
 https://overclock3d.net/news/cpu_mainboard/intel-raptor-lake-next-cpus-appear-in-shipping-records
+https://www.gamespot.com/articles/xbox-workers-are-eligible-for-buyouts-as-part-of-huge-shakeup-at-microsoft
+https://www.pcgamer.com/hardware/graphics-cards/nvidia-may-not-have-discontinued-the-rtx-5090-but-one-aib-partner-says-it-cant-get-hold-of-the-parts-required-to-make-the-card
+https://www.dexerto.com/gaming/wendys-is-releasing-free-final-fantasy-style-rpg-on-steam-3422145
+https://www.tomshardware.com/laptops/gaming-laptops/walmart-slashes-usd750-off-this-msi-gaming-laptop-16-inch-crosshair-sports-an-rtx-5060-gpu-and-a-fast-240hz-qhd-display
+https://www.techpowerup.com/354177/apple-unveils-new-imac-with-m6-delivering-a-major-boost-in-performance-and-ai-capabilities
+https://www.techradar.com/computing/gpu/nvidias-rtx-5090-stock-is-looking-shakier-by-the-day-as-more-rumors-suggest-this-gpu-is-in-vanishingly-short-supply-and-its-set-to-become-even-pricier
