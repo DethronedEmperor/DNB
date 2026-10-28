@@ -1,6 +1,3 @@
-https://www.techradar.com/gaming/nyt-connections-today-answers-hints-20-october-2026
-https://www.ign.com/articles/love-and-deepspace-launches-blade-runner-crossover-as-fans-draw-parallels-to-canceled-character-valko
-https://www.techpowerup.com/353904/amazon-ships-ryzen-9-9950x3d2-with-an-intel-cpu-hiding-underneath
 https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-20-october-2026
 https://www.ign.com/articles/theres-no-one-person-that-has-this-whole-thing-in-their-head-gta-6-devs-had-freedom-to-add-cool-features-just-like-rdr2s-horse-balls
 https://www.techradar.com/gaming/resident-evil-4-for-nintendo-switch-2-review
@@ -2498,3 +2495,6 @@ https://www.rockpapershotgun.com/part-idle-game-part-automation-game-moon-sweepe
 https://www.kitguru.net/gaming/mustafa-mahmoud/job-listing-hints-at-multiplayer-coming-to-cyberpunk-2077-sequel
 https://www.tomshardware.com/tech-industry/robotics/japan-experiments-with-autonomous-ai-chainsaw-wielding-robots-video-shows-rail-truck-mounted-metal-humanoid-cutting-down-tree-branches
 https://wccftech.com/capcom-jun-takeuchi-resident-evil-next-10-years-conclusion-multiple-new-games
+https://www.eurogamer.net/rockstar-union-vote-november
+https://wccftech.com/tweaking-a-single-neuron-inside-qwen3-8-27b-turns-it-into-an-evil-monster-that-wants-to-see-humans-burn-slowly-so-it-could-watch-their-faces-twist-in-agony
+https://www.techradar.com/pro/why-less-data-means-improved-security-for-businesses
