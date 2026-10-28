@@ -1,12 +1,3 @@
-https://www.techradar.com/vpn/vpn-services/nordvpn-patches-clumsy-windows-bug-that-let-attackers-disable-system-services
-https://www.guru3d.com/download/download-intel-wireless-drivers-package
-https://insider-gaming.com/yakuza-voice-actor-hiroshi-tsuchida-passes-away-at-age-54
-https://www.eurogamer.net/umurangi-generation-studio-blocks-penguin-colony-sale-in-isreal-pro-palestine
-https://www.techradar.com/news/live/revolut-lloyds-bank-down-october-2026
-https://www.pcgamer.com/hardware/handheld-gaming-pcs/new-steam-deck-plugin-means-you-can-customise-your-steam-achievement-pop-ups-to-match-xbox-playstation-nintendo-or-anything-your-heart-desires
-https://insider-gaming.com/leaks-suggest-fortnite-sprites-wont-return-for-chapter-8
-https://www.rockpapershotgun.com/helldivers-2s-gameguard-cheat-policing-wasnt-as-effective-as-it-could-have-been-cue-a-switch-to-easy-anti-cheat-as-part-of-a-crackdown-on-cheat-mods
-https://www.dexerto.com/entertainment/ads-in-playgrounds-spark-controversy-by-telling-kids-to-download-a-mobile-game-3420229
 https://www.kitguru.net/gaming/mustafa-mahmoud/lucasfilm-is-exploring-all-kinds-of-different-star-wars-games
 https://www.techradar.com/pro/live/google-cloud-down-major-outage-across-europe-hits-big-brands-banking-apps-and-more
 https://www.guru3d.com/advertorial/ready-for-the-ai-pc-era-get-windows-11-pro-for-211026
@@ -2498,3 +2489,12 @@ https://www.tomshardware.com/video-games/why-native-pc-ports-of-console-games-ar
 https://www.techpowerup.com/354217/tsmc-could-charge-up-to-20-more-for-cowos-packaging-amid-ai-crunch
 https://wccftech.com/discord-will-make-public-server-messages-searchable-on-google-starting-in-december-but-users-can-opt-out
 https://www.techradar.com/pro/security/japanese-internet-giant-gmo-tells-customers-to-shut-down-and-disconnect-pcs-from-the-internet-following-data-breach-and-ransomware-threat
+https://www.pcgamer.com/games/rpg/crimson-desert-charting-the-unknown-dlc-release-date-launch-times
+https://www.videogameschronicle.com/guide/cod-mw4-multiplayer-best-meta-han-86-build
+https://www.rockpapershotgun.com/we-basically-rewrote-the-entire-state-of-decay-game-undead-labs-spent-years-trying-to-make-state-of-decay-3-into-a-full-blown-zombie-apocalypse-mmo
+https://www.dexerto.com/entertainment/college-offers-to-pay-students-tuition-if-they-can-watch-a-full-football-game-3422413
+https://www.tomshardware.com/pc-components/save-usd249-on-32gb-of-ddr5-with-this-9800x3d-parts-bundle-grab-one-of-amds-top-cpus-with-an-msi-x870e-motherboard-and-a-free-aio-cooler-for-under-usd1-100
+https://www.techpowerup.com/354218/palit-denies-galax-gpu-factory-closure-continues-business-as-usual
+https://wccftech.com/asus-rog-720-hz-and-540-hz-25-inch-oled-monitors-are-now-available-at-1099-and-699-respectively
+https://www.kitguru.net/tech-news/mustafa-mahmoud/resident-evil-2-remake-has-officially-surpassed-20-million-copies-sold
+https://www.techradar.com/phones/nokia-phones/your-ancient-nokia-can-now-run-chatgpt-thanks-to-a-vibe-coded-app
