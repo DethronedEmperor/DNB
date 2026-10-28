@@ -1,6 +1,3 @@
-https://www.pcgamer.com/gaming-industry/lucasfilm-wants-to-do-more-star-wars-games-like-zero-company-and-galactic-racer-weve-tried-to-be-more-flexible-about-who-were-willing-to-take-pitches-from
-https://www.techradar.com/pro/this-32gb-corsair-vengeance-lpx-ddr4-kit-is-the-usd205-memory-upgrade-id-give-an-older-pcs
-https://www.ign.com/articles/hellraisers-clive-barker-feared-new-game-would-be-overly-censored-but-is-proud-as-fk-at-the-end-result
 https://www.gamespot.com/videos/stupid-never-dies-26-minute-full-dungeon-run-gameplay
 https://www.techpowerup.com/353897/xbox-strategy-manager-says-studios-avoiding-ai-are-planning-for-a-fake-future
 https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/kia-has-launched-a-car-sharing-trial-using-remote-vehicle-operation-and-this-self-driving-tech-takes-the-pain-out-of-parking
@@ -2498,3 +2495,6 @@ https://wccftech.com/palit-says-galax-is-going-nowhere-continues-to-operate-as-u
 https://www.techpowerup.com/354205/discord-makes-content-on-discoverable-servers-searchable-on-google-and-other-search-engines
 https://www.techpowerup.com/354204/despite-lawsuit-drama-pocketpair-wants-to-bring-palworld-to-nintendo-switch-2
 https://wccftech.com/sk-hynix-memory-shortages-to-persist-through-2030-despite-expansion
+https://wccftech.com/oracle-cloud-infrastructure-brings-nvidia-amd-intel-google-cerebras-sambanova-broadcom-under-one-massive-cloud-roof
+https://www.techradar.com/pro/malwarebytes-personal-data-remover-review
+https://www.guru3d.com/story/asus-brings-snapdragon-x-and-oled-screens-to-new-vivobook-s14-and-s16-laptops
