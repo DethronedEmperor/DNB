@@ -1,9 +1,3 @@
-https://wccftech.com/modal-2x-performance-jump-moving-from-intel-amd-cpus-to-nvidia-vera
-https://www.kitguru.net/components/power-supplies/zardon/corsair-rm1200e-2nd-gen-2026-psu-review
-https://www.techradar.com/gaming/nintendo-switch-sports-resort-review
-https://overclock3d.net/news/cpu_mainboard/amd-zen-6-12-core-leak-details-huge-single-multi-threaded-gains
-https://www.gamespot.com/videos/nintendo-switch-sports-resort-is-the-best-entry-in-the-series-review
-https://www.videogameschronicle.com/review/final-fantasy-resonance
 https://www.eurogamer.net/helldivers-2-easy-anti-cheat-switch-game-guard
 https://www.gematsu.com/2026/10/ys-viii-lacrimosa-of-dana-coming-to-switch-2-on-february-25-2027
 https://www.tomshardware.com/pc-components/gpus/chinas-tech-giants-drop-usd35-billion-on-export-compliant-nvidia-rtx-pro-5500-workstation-gpu-orders-to-power-ai-ambitions-according-to-reports-bytedance-alibaba-and-tencent-order-3-million-cards-despite-warnings-that-only-10-percent-of-orders-are-fulfillable
@@ -2498,3 +2492,9 @@ https://www.gamespot.com/articles/heres-why-state-of-decay-3-has-taken-6-years-t
 https://www.videogameschronicle.com/guide/cod-mw4-multiplayer-best-meta-rezi-12-build
 https://www.dexerto.com/entertainment/scientists-discover-giant-dinosaur-fungus-nicknamed-d-rex-3422457
 https://www.techradar.com/gaming/blizzards-three-part-world-of-warcraft-forever-mockumentary-lets-you-explore-the-strange-and-wonderful-world-of-azeroth-with-comedian-bill-bailey
+https://www.gamespot.com/articles/witchbrook-is-stardew-valley-meets-kikis-delivery-service-and-it-finally-has-a-release-date
+https://insider-gaming.com/palworld-nintendo-switch-2-pocketpair
+https://www.dexerto.com/food/maryland-schools-find-unusual-way-to-fight-invasive-catfish-by-feeding-it-to-students-3422484
+https://www.tomshardware.com/tech-industry/manufacturing/ai-component-hikes-force-the-worlds-largest-pc-makers-to-return-manufacturing-capacity-to-china-brands-to-seek-lower-production-costs-and-efficiency-in-established-supply-chain
+https://www.kitguru.net/gaming/matthew-wilson/cronos-the-new-dawn-gets-new-story-dlc-in-december
+https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages
