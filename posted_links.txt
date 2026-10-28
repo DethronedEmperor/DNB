@@ -1,10 +1,3 @@
-https://www.tomshardware.com/pc-components/gpus/mods-can-almost-double-dlss-5-performance-through-foveation-reducing-resolution-at-the-edges-of-frames-technique-makes-dlss-5-possible-on-high-resolution-ultrawide-monitors
-https://www.techpowerup.com/353910/axiomtek-launches-mano330-compact-thin-mini-itx-industrial-motherboard
-https://wccftech.com/intel-built-first-nova-lake-samples-on-18a-p-then-handed-compute-tiles-to-tsmc-n2p
-https://www.techradar.com/phones/android/this-leaked-google-messages-location-sharing-upgrade-might-actually-make-it-worth-using-over-whatsapp
-https://www.rockpapershotgun.com/the-latest-game-event-to-fall-afoul-of-us-visa-rules-is-a-live-concert-for-horse-girl-racer-umamusume-pretty-derby
-https://www.dexerto.com/entertainment/darth-vader-joining-monday-night-football-to-interview-nfl-players-in-bizarre-star-wars-crossover-3420258
-https://www.tomshardware.com/tech-industry/cyber-security/modern-software-is-built-on-the-backs-of-low-paid-maintainers-opening-the-door-to-potential-threats-report-details-critically-underfunded-projects-that-remain-understaffed-or-unfunded
 https://www.techpowerup.com/353911/espressif-debuts-esp-mosaico-modular-development-platform
 https://wccftech.com/cyberpunk-2077-update-2-5-free-edgerunners-2-content-october-22-netflix
 https://www.techradar.com/pro/nothing-has-to-be-new-york-mayor-zohran-mamdani-tells-citizens-to-fight-back-against-the-ai-doom-and-gloom
@@ -2498,3 +2491,10 @@ https://www.eurogamer.net/steam-ai-clone-game-problem-valve-response
 https://www.dexerto.com/entertainment/phone-scammer-swats-woman-after-she-refuses-to-fall-for-bank-scam-3422449
 https://wccftech.com/rtx-5070-ti-extreme-undervolt-0-67v-52-percent-power-reduction
 https://www.techradar.com/home/smart-speakers/8-new-echo-and-alexa-gadgets-that-amazon-just-announced-from-an-upgraded-echo-dot-to-an-echo-studio-with-a-camera-attached
+https://www.ign.com/articles/valve-ai-slop-on-steam-comments
+https://www.gamespot.com/articles/new-hunger-games-movie-comes-out-the-day-after-gta-6-but-is-the-director-scared
+https://www.pcgamer.com/hardware/memory/elon-musk-says-robot-ram-needs-will-exceed-everything-else-on-earth-but-only-assuming-we-throw-all-the-data-centers-into-space
+https://www.eurogamer.net/mass-effect-universe-trailer-rescore-composer-n7-day
+https://www.dexerto.com/entertainment/ai-expert-refuses-to-pay-into-pension-as-he-fears-ai-will-wipe-out-humans-soon-3422443
+https://www.techpowerup.com/354223/nintendo-switch-2-exclusives-already-booting-on-iphone-and-pc-days-after-first-jailbreak
+https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-uk-government-is-considering-incentivizing-vehicle-to-grid-tech-to-turn-evs-into-powerplants-on-wheels
