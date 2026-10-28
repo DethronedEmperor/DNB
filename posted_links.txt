@@ -1,12 +1,3 @@
-https://insider-gaming.com/arc-raiders-pve-future-revealed-november
-https://www.techpowerup.com/353905/nvidias-faster-dlss-5-model-gets-extracted-from-nba-2k27-modders-report-up-to-90-gains
-https://wccftech.com/capcom-monster-hunter-wilds-switch-2-resolution-stability-comparison-hold-up
-https://www.techradar.com/pro/the-transformation-trap-why-organizations-are-trying-to-change-too-much-too-fast
-https://www.pcgamer.com/hardware/handheld-gaming-pcs/intel-bringing-faster-upscaler-to-valves-proton-xmx-accelerated-xess-could-come-to-steamos-in-boost-to-future-intel-powered-handheld-gaming-pcs
-https://insider-gaming.com/major-google-cloud-outage-hits-europe-impact-gaming
-https://www.dexerto.com/lego/giant-lego-build-of-kpop-demon-hunters-derpy-made-from-over-30000-pieces-3420248
-https://www.tomshardware.com/tech-industry/drones/ukraine-rescues-wounded-soldier-using-hexacopter-drone-in-daring-first-heavy-lift-uav-brought-the-injured-infantryman-11-miles-back-to-safety
-https://www.techradar.com/pro/uk-schools-caught-in-a-learning-technology-balance-gap-as-kids-demand-more-tech-in-the-classroom
 https://www.pcgamer.com/hardware/networking/chinese-company-tp-link-says-it-will-start-making-wi-fi-8-routers-in-the-us-dodging-government-soft-ban-in-one-easy-step
 https://www.videogameschronicle.com/news/revamp-developer-cancels-public-playtest-in-case-ai-users-reverse-engineer-it-and-publish-a-clone-first
 https://insider-gaming.com/call-of-duty-modern-warfare-4-multiplayer-early
@@ -2498,3 +2489,12 @@ https://www.dexerto.com/gta/cliff-richard-has-no-idea-what-gta-6-is-despite-bein
 https://wccftech.com/airpods-pro-3-amazon-deal-199
 https://www.kitguru.net/gaming/matthew-wilson/dont-bother-pre-loading-phantom-blade-0-unless-you-have-300gb-free
 https://www.techradar.com/home/smart-home-hubs/amazons-new-echo-show-16-has-a-thinner-design-a-better-screen-and-a-clever-new-way-to-organize-alexa-conversations
+https://www.gamespot.com/articles/valve-knows-steam-next-fest-has-an-ai-slop-problem-and-its-looking-for-solutions
+https://www.videogameschronicle.com/news/valve-has-a-significant-number-working-on-steams-visibility-dilemma-but-says-it-wont-gatekeep-games-made-with-ai
+https://insider-gaming.com/astralis-restores-jabbi-to-cs-roster
+https://www.gematsu.com/2026/10/neverness-to-everness-version-1-5-update-once-upon-a-glitched-call-launches-november-11
+https://www.dexerto.com/entertainment/endless-cruise-ship-journey-suddenly-ends-despite-passengers-selling-homes-to-live-on-it-3422382
+https://www.tomshardware.com/pc-components/external-hdds/seagates-16tb-external-hdd-falls-to-0-025-cents-per-gb-at-newegg-this-storage-deal-is-usd50-cheaper-than-even-its-prime-day-sale-price
+https://www.techpowerup.com/354219/gta-6-tipped-to-be-a-210-gb-download-on-ps5
+https://wccftech.com/customer-gets-scammed-by-a-fake-ryzen-9-9900x3d
+https://www.techradar.com/pro/the-next-generation-of-ai-will-require-a-diverse-range-of-compute-oracle-deal-means-google-tpus-are-coming-to-a-rival-cloud-for-the-first-time
