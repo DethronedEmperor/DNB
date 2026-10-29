@@ -1,5 +1,3 @@
-https://wccftech.com/intel-amd-onednn-x86-cpu-ai-development-pytorch
-https://www.ign.com/articles/police-confirm-nearly-1-million-worth-of-trading-cards-stolen-in-psa-fedex-truck-heist
 https://www.pcgamer.com/gaming-industry/ea-sports-fc-27-gets-a-pegi-16-rating-in-europe-because-of-loot-boxes
 https://www.techpowerup.com/353940/keychron-launches-j3-se-qmk-wireless-mechanical-keyboard-with-soft-pastel-color-palette
 https://www.techradar.com/entertainment/tv-shows/how-to-watch-i-will-always-love-you-a-celebration-of-dolly-parton-live-stream-online-from-anywhere-in-the-world
@@ -2498,3 +2496,5 @@ https://www.pcgamer.com/games/action/phantom-blade-zero-flesh-lily-location
 https://www.gematsu.com/2026/10/tanuki-pons-summer-adds-ps5-switch-2-and-ps4-versions-launches-november-10
 https://wccftech.com/intel-moon-lake-18a-cpus-to-power-entry-level-laptops-with-just-four-lpe-cores
 https://wccftech.com/nvidia-official-statement-on-vera-rubin-spec-change
+https://www.techradar.com/pro/easyoptouts-data-removal-service-review
+https://www.guru3d.com/story/amd-fsr-sdk-24-extends-ml-upscaling-to-radeon-rx-6000
