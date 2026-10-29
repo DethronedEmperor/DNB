@@ -1,10 +1,3 @@
-https://www.tomshardware.com/pc-components/dram/microns-taiwan-union-will-launch-a-one-day-strike-this-week-threatening-round-the-clock-fab-operations-workers-demand-concrete-terms-for-2026-bonus-and-clearer-profit-sharing-arrangements
-https://wccftech.com/sk-hynix-starts-discussing-mass-production-plans-for-ihbm-memory-chips-that-aim-to-improve-heat-resistance-by-30-says-report
-https://www.techradar.com/pro/many-firms-are-still-falling-behind-when-it-comes-to-getting-their-ai-infrastructure-up-to-speed
-https://www.pcgamer.com/hardware/memory/80-percent-of-samsungs-data-center-memory-is-already-sold-for-2027-meaning-yet-another-double-digit-price-increase-for-ram-expected-and-more-likely-to-come
-https://insider-gaming.com/modern-warfare-4-dmz-how-many-players
-https://www.eurogamer.net/subnautica-2-scariest-region-ever-made-update
-https://www.dexerto.com/call-of-duty/mw4-players-already-want-op-second-life-trait-removed-from-dmz-3420638
 https://www.tomshardware.com/desktops/gaming-pcs/score-a-1440p-ready-gaming-pc-with-an-rtx-5060-ti-16gb-for-under-usd1-500-right-now-saving-you-usd200-abs-cyclone-aqua-rig-ships-with-16gb-ddr5-1tb-ssd-and-a-20-core-intel-cpu
 https://wccftech.com/chinese-tech-giants-reject-huawei-ai-accelerators-favor-nvidia-rtx-pro-5500
 https://www.techradar.com/computing/gpu/nvidias-rtx-6060-gpu-could-disappoint-for-gaming-performance-compared-to-the-ps6-and-it-may-not-arrive-until-2029
@@ -2498,3 +2491,10 @@ https://www.dexerto.com/entertainment/jake-paul-announces-boxing-return-after-ov
 https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ipo-filing-shows-most-of-its-compute-goes-to-r-and-d-not-serving-customers-company-details-massive-usd800-billion-in-tpu-and-gpu-contracts
 https://www.techpowerup.com/354263/microsoft-posts-record-q3-2026-revenue-of-usd-92-3-billion
 https://www.techradar.com/pro/security/data-breach-at-sony-isp-subsidiary-exposes-2-5-million-customer-records-as-japan-hit-with-another-major-cyberattack
+https://www.ign.com/articles/gta-6-dog-poop-gameplay-premieres-in-the-latest-episode-of-south-park
+https://www.gamespot.com/articles/gta-6s-landmass-is-nearly-as-big-as-gta-4-gta-5-and-red-dead-redemption-2-combined
+https://insider-gaming.com/elden-ring-movie-could-be-over-3-hours-long
+https://www.dexerto.com/entertainment/mans-service-dog-denied-boarding-flight-as-hes-told-to-buy-3000-ticket-instead-3422650
+https://www.techpowerup.com/354264/corsair-teams-up-with-embark-studios-for-new-arc-raiders-products
+https://www.techradar.com/pro/oracle-thinks-ai-could-fix-your-customer-service-problems-before-you-even-know-they-exist
+https://overclock3d.net/news/software/modders-bring-8-player-co-op-to-cyberpunk-2077-with-nightcoop
