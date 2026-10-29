@@ -1,7 +1,3 @@
-https://www.ign.com/articles/shrek-2-remastered-reveal-trailer-parodies-gta-6-sets-november-release-date
-https://www.gematsu.com/2026/10/scramble-knights-online-launches-in-early-access-on-october-26
-https://www.dexerto.com/gta/gta-6-beers-could-hit-real-world-stores-after-official-labels-found-in-us-database-3420539
-https://www.techradar.com/computing/laptops/acer-googlebook-14-review
 https://www.ign.com/articles/arctic-eggs-mouthwashing-and-no-im-not-a-human-are-coming-to-xbox-idxbox
 https://www.gematsu.com/2026/10/chronoscript-the-endless-end-adds-xbox-series-version
 https://www.techradar.com/pro/a-nightmare-scenario-for-supermarkets-hidden-daily-passwords-and-command-injection-flaws-leave-thousands-of-danfoss-supermarket-systems-open-to-remote-takeover
@@ -2498,3 +2494,7 @@ https://www.pcgamer.com/games/action/phantom-blade-zero-four-fierce-axes-walkthr
 https://insider-gaming.com/new-grand-theft-auto-6-gameplay-revealed-during-south-park
 https://www.gematsu.com/2026/10/cronos-the-new-dawn-story-dlc-cronos-lazarus-launches-december-3
 https://wccftech.com/samsung-memory-shortages-worse-in-2027-supply-constraints-persist-into-2028
+https://www.gamespot.com/articles/phantom-blade-zero-heros-lament-moji-relic
+https://www.pcgamer.com/games/action/phantom-blade-zero-aberrant-three-faced-puppet-triple-threat
+https://www.gematsu.com/2026/10/bakudo-adds-switch-2-version-launches-in-2027
+https://www.techradar.com/pro/fadu-wants-to-take-the-cpu-out-of-ai-storage-by-putting-the-file-system-inside-the-ssd-but-the-proof-wont-arrive-until-2027
