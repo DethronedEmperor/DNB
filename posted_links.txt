@@ -1,7 +1,3 @@
-https://www.ign.com/articles/slow-horses-season-6-episode-6-review-judgement-day
-https://www.gamespot.com/articles/xbox-cloud-gaming-hourly-prices-revealed-for-non-game-pass-members
-https://insider-gaming.com/ea-new-open-world-experience-football-games
-https://www.dexerto.com/gaming/microsoft-reveals-xbox-cloud-gaming-prices-for-players-without-game-pass-3420908
 https://wccftech.com/new-msi-afterburner-plugin-brings-28-thermal-grizzly-wireview-pro-ii-sensors-to-your-in-game-overlay-including-individual-12v-2x6-pin-monitoring
 https://www.techradar.com/entertainment/sport/how-to-watch-northern-ireland-open-snooker-live
 https://www.ign.com/articles/you-can-save-11-off-gta-6-preorders-today-only
@@ -2498,3 +2494,7 @@ https://www.techradar.com/audio/wireless-bluetooth-speakers/airpods-max-2-are-my
 https://www.ign.com/articles/steelseries-aeon-pro-wireless-gaming-controller-deal-october-2026
 https://www.pcgamer.com/games/rpg/crimson-desert-how-to-start-charting-the-unknown-dlc
 https://www.tomshardware.com/pc-components/cpus/intel-confirms-nova-lake-will-use-advanced-18a-p-node-more-details-at-ces-company-says-its-taking-panther-lake-capacity-offline-to-build-more-granite-rapids-data-center-cpus
+https://www.ign.com/articles/steelseries-arctis-nova-pro-gaming-headset-deal-october-2026
+https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works
+https://insider-gaming.com/rockstar-uk-union-vote-1600-workers
+https://www.techradar.com/audio/portable-media-players/astell-and-kern-pd5-review
