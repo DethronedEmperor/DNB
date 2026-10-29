@@ -1,9 +1,3 @@
-https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-dmz-tips
-https://www.pcgamer.com/software/security/we-expect-mass-attacks-to-start-within-15-minutes-of-the-release-web-admins-braced-for-emergency-php-updates-to-plug-leaked-high-severity-holes
-https://www.videogameschronicle.com/news/ea-sports-fc-and-pokemon-go-age-ratings-bumped-to-16-in-pegi-loot-box-crackdown
-https://insider-gaming.com/modern-warfare-4-dmz-all-operator-traits
-https://www.rockpapershotgun.com/further-xbox-layoff-rounds-reportedly-planned-for-this-month-november-and-january-while-a-game-pass-overhaul-is-in-the-works
-https://www.dexerto.com/entertainment/2-cans-of-soup-are-now-being-listed-for-200-by-resellers-after-flavor-discontinued-3420673
 https://www.tomshardware.com/tech-industry/supercomputers/hpe-says-it-will-run-the-first-supercomputer-benchmarks-on-the-moon-with-its-spaceborne-computer-4-system-will-ride-a-rover-to-the-lunar-south-pole-to-test-linpack-llms-and-lidar-mapping
 https://wccftech.com/xbox-project-helix-waiting-launch-exclusive-holiday-2028-not-hardware
 https://www.kitguru.net/gaming/mustafa-mahmoud/xbox-game-pass-is-reportedly-getting-another-revamp
@@ -2498,3 +2492,9 @@ https://www.tomshardware.com/tech-industry/cyber-security/tech-whizzs-internet-a
 https://www.techpowerup.com/354261/samsung-electronics-announces-third-quarter-2026-results
 https://wccftech.com/grand-theft-auto-vi-record-purchase-intent-us-gamers-rare-moment
 https://www.techradar.com/vpn/vpn-services/try-protons-entire-privacy-ecosystem-for-just-usd1-perfect-if-you-want-to-de-google-your-online-identity-for-the-very-first-time
+https://www.ign.com/articles/helldivers-2-review-bombed-on-steam-anti-cheat
+https://www.pcgamer.com/software/ai/over-usd12-million-worth-of-ai-chips-seized-by-malaysian-authorities-after-suspected-smuggling-syndicate-tries-to-sneak-servers-through-customs-under-false-pretenses
+https://insider-gaming.com/shopify-rebellion-2027-rocket-league-roster
+https://www.dexerto.com/gta/gta-6-forces-you-to-take-your-time-with-the-main-story-instead-of-speedrunning-it-3422697
+https://www.tomshardware.com/tech-industry/artificial-intelligence/dept-of-justice-reportedly-probes-nvidia-over-usd13-billion-hugging-face-ai-platform-acquisition-concerns-raised-over-competition-in-ai-and-pressure-on-customers
+https://www.techradar.com/pro/security/bad-actor-cyberattack-on-fec-obscures-political-spending-by-donors-and-superpacs-days-before-us-midterm-elections
