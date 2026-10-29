@@ -1,10 +1,3 @@
-https://overclock3d.net/news/cpu_mainboard/gigabyte-leak-unveils-24-next-gen-z990-motherboard-models
-https://www.kitguru.net/gaming/mustafa-mahmoud/the-wolf-among-us-remastered-arrives-later-this-month-with-platform-specific-discounts
-https://wccftech.com/vanran-delayed-early-2027-korean-dark-fantasy-rpg-climb-giants
-https://www.pcgamer.com/hardware/graphics-cards/chinese-repair-centre-has-received-7-melted-12-4-pin-nvidia-gpus-in-just-the-past-two-days-alone
-https://www.videogameschronicle.com/news/xbox-series-x-s-and-xbox-rog-ally-x-are-getting-amd-fsr-4-1-upscaling-to-improve-performance
-https://www.tomshardware.com/tech-industry/semiconductors/three-workers-killed-one-in-intensive-care-after-fall-at-tsmcs-2nm-fab-construction-site-in-kaohsiung-broken-bolt-on-a-steel-connection-plate-suspected-as-cause-behind-tragic-accident
-https://www.ign.com/articles/shrek-2-remastered-surprising-pc-requirements
 https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-dmz-tips
 https://www.pcgamer.com/software/security/we-expect-mass-attacks-to-start-within-15-minutes-of-the-release-web-admins-braced-for-emergency-php-updates-to-plug-leaked-high-severity-holes
 https://www.videogameschronicle.com/news/ea-sports-fc-and-pokemon-go-age-ratings-bumped-to-16-in-pegi-loot-box-crackdown
@@ -2498,3 +2491,10 @@ https://www.tomshardware.com/tech-industry/artificial-intelligence/our-first-ste
 https://wccftech.com/amd-releases-fsr-sdk-2-4-with-fsr-4-1-2-support-for-radeon-rx-6000-gpus-ryzen-apus-vulkan-support-and-improved-frame-pacing
 https://www.kitguru.net/gaming/mustafa-mahmoud/modern-warfare-4-season-1-goes-live-next-week
 https://www.techradar.com/televisions/the-five-star-and-techradar-award-winning-lg-c6-oled-tv-drops-to-a-record-low-price-ahead-of-black-friday-the-ideal-upgrade-for-gta-6
+https://www.ign.com/articles/iphone-18-pro-max-review
+https://insider-gaming.com/team-liquid-and-sap-data-race-to-world-first
+https://www.rockpapershotgun.com/call-of-duty-modern-warfare-4-intro-cinematic-is-not-intended-to-reference-or-trivialise-real-world-south-korean-crowd-crush-activision-say-amid-reported-backlash
+https://www.tomshardware.com/tech-industry/cyber-security/tech-whizzs-internet-accessible-synology-nas-gets-bit-by-ransomware-attack-from-18-month-old-remote-code-execution-flaw-security-updates-neglected-in-a-series-of-catastrophic-errors
+https://www.techpowerup.com/354261/samsung-electronics-announces-third-quarter-2026-results
+https://wccftech.com/grand-theft-auto-vi-record-purchase-intent-us-gamers-rare-moment
+https://www.techradar.com/vpn/vpn-services/try-protons-entire-privacy-ecosystem-for-just-usd1-perfect-if-you-want-to-de-google-your-online-identity-for-the-very-first-time
