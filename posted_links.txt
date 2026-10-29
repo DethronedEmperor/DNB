@@ -1,10 +1,3 @@
-https://www.techradar.com/pro/why-enterprise-ai-needs-real-time-conversations-not-just-documents
-https://www.videogameschronicle.com/news/kojima-says-walking-simulator-comments-about-death-stranding-prove-social-media-can-form-hivemind-narratives
-https://www.dexerto.com/twitch/kyedae-hits-back-at-cheating-accusations-over-tenz-breakup-in-twitch-return-3420639
-https://www.techpowerup.com/353957/synaptics-announces-astra-sr200-multimodal-edge-ai-processors-with-google-coral-npu
-https://www.videogameschronicle.com/news/is-control-resonant-teasing-alan-wake-3-resonants-director-explains-remedy-easter-egg
-https://www.eurogamer.net/playstation-physical-disc-sales-statistics-alinea
-https://wccftech.com/playstation-5-emulator-kytyps5-milestone-gran-turismo-7
 https://overclock3d.net/news/cpu_mainboard/gigabyte-leak-unveils-24-next-gen-z990-motherboard-models
 https://www.kitguru.net/gaming/mustafa-mahmoud/the-wolf-among-us-remastered-arrives-later-this-month-with-platform-specific-discounts
 https://wccftech.com/vanran-delayed-early-2027-korean-dark-fantasy-rpg-climb-giants
@@ -2498,3 +2491,10 @@ https://www.tomshardware.com/pc-components/save-usd234-on-32gb-of-ddr5-ram-with-
 https://www.techpowerup.com/354259/zhitai-joins-forces-with-phantom-blade-zero-on-collaboration-ssd-gift-box
 https://wccftech.com/zelda-ocarina-of-time-remake-aonuma-nervous-nintendo-switch-2
 https://www.techradar.com/phones/teardown-reveals-the-trump-phone-to-be-an-htc-u24-pro-in-almost-all-but-name-but-at-least-its-fairly-durable
+https://www.ign.com/articles/phantom-blade-zero-fixes-my-biggest-annoyance-with-boss-fights
+https://www.gamespot.com/articles/south-park-gives-us-another-look-at-gta-6-most-disgusting-feature
+https://insider-gaming.com/gta-6s-story-revolves-around-quitting-crime
+https://www.tomshardware.com/tech-industry/artificial-intelligence/our-first-step-at-defining-a-cpu-benchmark-for-agentic-ai-how-we-can-measure-throughput-of-agentic-ai-workloads-without-any-gpu-involved
+https://wccftech.com/amd-releases-fsr-sdk-2-4-with-fsr-4-1-2-support-for-radeon-rx-6000-gpus-ryzen-apus-vulkan-support-and-improved-frame-pacing
+https://www.kitguru.net/gaming/mustafa-mahmoud/modern-warfare-4-season-1-goes-live-next-week
+https://www.techradar.com/televisions/the-five-star-and-techradar-award-winning-lg-c6-oled-tv-drops-to-a-record-low-price-ahead-of-black-friday-the-ideal-upgrade-for-gta-6
