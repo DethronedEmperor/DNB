@@ -1,6 +1,3 @@
-https://www.techpowerup.com/353946/cyberpunk-2077-update-2-5-leaks-early-brings-console-mods-and-dual-wielding-pistols
-https://www.techradar.com/tablets/ereaders/should-i-buy-a-kindle-scribe-or-a-kindle-scribe-colorsoft-heres-what-you-need-to-know
-https://www.ign.com/articles/mel-brooks-spaceballs-sequel-scenes-filmed-first
 https://www.techradar.com/pro/trump-officials-asked-cisa-to-secretly-hack-a-voting-machine-and-not-disclose-any-vulnerabilities-they-found
 https://www.ign.com/articles/kpop-demon-hunters-2-gets-a-theatrical-release-after-first-movies-smashing-success-on-streaming
 https://www.techpowerup.com/353947/dell-ceo-says-the-memory-shortage-will-get-worse-in-2027
@@ -2498,3 +2495,6 @@ https://www.tomshardware.com/tech-industry/big-tech/flock-ignores-minnesota-city
 https://www.techradar.com/pro/navigating-the-new-normal-ai-powered-exploits-and-discovery
 https://www.kitguru.net/gaming/mustafa-mahmoud/sword-of-the-sea-comes-to-xbox-and-switch-2-today
 https://overclock3d.net/news/gpu-displays/asus-ultra-fast-rog-oled-ace-pro-gaming-monitors-are-now-available-in-the-uk
+https://www.pcgamer.com/hardware/graphics-cards/for-the-second-time-this-year-galax-says-its-not-closing-down-palit-owned-graphics-card-brand-continues-to-operate-as-usual
+https://www.tomshardware.com/software/github-report-highlights-massive-influx-of-ai-generated-code-sixfold-increase-in-activity-over-one-year-required-extra-4-million-cpu-cores-and-160pb-of-storage
+https://wccftech.com/phantom-blade-zero-out-less-1-day-first-mods-nvidia-dlss-5-gameplay-tweaks
