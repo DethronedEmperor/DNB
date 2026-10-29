@@ -1,9 +1,3 @@
-https://www.techpowerup.com/353984/legendary-game-studio-bioware-shuts-down-following-ea-layoffs
-https://www.kitguru.net/peripherals/monitors/joao-silva/philips-reveals-budget-friendly-qhd-gaming-monitors-starting-at-129-99
-https://www.techradar.com/televisions/streaming-devices/amazons-brand-new-and-improved-fire-tv-stick-4k-just-dropped-to-its-lowest-price-ever
-https://www.ign.com/articles/xbox-insiders-can-now-stream-games-by-buying-cloud-playtime-without-game-pass-introductory-launch-pricing-revealed
-https://www.gamespot.com/articles/another-day-another-pokemon-card-heist-worth-nearly-1-million
-https://insider-gaming.com/ea-shutting-down-bioware-cut-400-jobs-across-the-company
 https://www.techpowerup.com/353983/call-of-duty-mw4-launches-cyberpunk-2077-gets-dlss-4-5-and-more-rtx-spark-games-released
 https://www.kitguru.net/gaming/joao-silva/amd-expands-fsr-4-1-to-radeon-rx-6000-gpus-ryzen-apus-and-xbox-consoles
 https://www.techradar.com/gaming/the-ultimate-destination-for-pokemon-fans-the-first-permanent-pokemon-store-outside-asia-is-coming-and-im-already-praying-for-my-bank-account
@@ -2498,3 +2492,9 @@ https://www.dexerto.com/minecraft/minecraft-creator-notch-is-selling-beverly-hil
 https://www.techpowerup.com/354288/ubisoft-has-no-other-assassins-creed-remakes-in-the-works-after-black-flag-resynced
 https://wccftech.com/the-talos-principle-2-gets-a-33-price-increase-on-steam-nearly-three-years-after-launch-sparking-mixed-reactions
 https://www.techradar.com/pro/were-deeply-concerned-underwater-ai-data-centers-proposed-for-maine-and-alaska-but-critics-say-they-could-endanger-whale-species
+https://www.ign.com/articles/apex-legends-new-update-dual-wield-wingman-lifeline-revive-shield
+https://www.gamespot.com/articles/patrick-stewart-dies-at-86
+https://www.rockpapershotgun.com/we-didnt-want-the-brooding-hero-out-for-revenge-how-quiet-lulls-and-a-bird-sketching-lead-make-control-resonant-a-more-introspective-kind-of-action-game
+https://www.techpowerup.com/354291/intel-reports-third-quarter-2026-financial-results
+https://wccftech.com/dell-pro-max-tower-t2-rtx-pro-6000-configuration-price
+https://www.techradar.com/pro/security/report-claims-ai-is-recommending-risky-security-moves-so-maybe-you-shouldnt-hand-over-full-control-of-your-systems-just-yet
