@@ -1,11 +1,3 @@
-https://www.tomshardware.com/tech-industry/supercomputers/hpe-says-it-will-run-the-first-supercomputer-benchmarks-on-the-moon-with-its-spaceborne-computer-4-system-will-ride-a-rover-to-the-lunar-south-pole-to-test-linpack-llms-and-lidar-mapping
-https://wccftech.com/xbox-project-helix-waiting-launch-exclusive-holiday-2028-not-hardware
-https://www.kitguru.net/gaming/mustafa-mahmoud/xbox-game-pass-is-reportedly-getting-another-revamp
-https://www.techradar.com/pro/stop-choosing-the-wrong-agentic-ai-use-cases
-https://overclock3d.net/news/software/xbox-demos-xbox-360-on-a-web-browser-emulation-incoming
-https://www.ign.com/articles/sony-issues-new-ps5-firmware-update-as-jailbreak-race-heats-up-ahead-of-gta-6-release
-https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-dmz-missions-explained
-https://www.pcgamer.com/hardware/graphics-cards/heres-another-gizmo-to-prevent-your-graphics-card-from-melting-wouldnt-it-be-nice-if-12-4-pin-connectors-werent-a-cause-for-concern-at-all
 https://www.videogameschronicle.com/news/the-rest-of-octobers-xbox-game-pass-titles-have-been-revealed-including-final-fantasy-7-remake
 https://insider-gaming.com/modern-warfare-4-dmz-reset-traits
 https://www.eurogamer.net/xbox-layoffs-october-november-january-report
@@ -2498,3 +2490,11 @@ https://insider-gaming.com/shopify-rebellion-2027-rocket-league-roster
 https://www.dexerto.com/gta/gta-6-forces-you-to-take-your-time-with-the-main-story-instead-of-speedrunning-it-3422697
 https://www.tomshardware.com/tech-industry/artificial-intelligence/dept-of-justice-reportedly-probes-nvidia-over-usd13-billion-hugging-face-ai-platform-acquisition-concerns-raised-over-competition-in-ai-and-pressure-on-customers
 https://www.techradar.com/pro/security/bad-actor-cyberattack-on-fec-obscures-political-spending-by-donors-and-superpacs-days-before-us-midterm-elections
+https://www.ign.com/articles/asha-sharma-insists-theres-more-demand-than-consoles-available-as-xbox-hardware-sales-continue-to-plummet
+https://www.videogameschronicle.com/news/world-of-warcraft-forever-controller-support-is-the-first-step-to-playing-anywhere-as-blizzard-prepares-for-xbox-helix
+https://insider-gaming.com/gta-6-roleplay-depth-outlined-you-can-have-your-life-in-the-game
+https://www.rockpapershotgun.com/can-the-sidewinder-game-pad-microsofts-first-game-controller-work-on-modern-pcs-i-bought-three-of-them-to-find-out
+https://www.dexerto.com/entertainment/truth-behind-viral-3-year-old-soccer-prodigy-controversy-revealed-in-police-footage-3422663
+https://www.tomshardware.com/tech-industry/policy/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-spy-plot-through-chinese-intelligence-asset-report-claims-exec-from-firm-under-investigation-for-smuggling-banned-ai-chips-to-china-accused-of-being-a-spy-was-also-feeding-information-to-beijing
+https://wccftech.com/microsoft-unveils-biggest-directx-raytracing-upgrade-since-2018-bringing-more-efficient-ray-tracing-to-nvidia-amd-intel-gpus
+https://www.techradar.com/computing/windows/windows-11s-right-click-menu-gets-a-vital-tune-up-its-now-faster-and-you-can-dump-options-you-dont-want
