@@ -1,4 +1,3 @@
-https://www.techpowerup.com/353999/xbox-labs-revives-the-xbox-360-blades-dashboard-inside-a-pc-browser
 https://www.ign.com/articles/call-of-duty-modern-warfare-4-dmz-review
 https://www.techradar.com/computing/macbooks/it-doesnt-work-steve-jobs-on-why-there-was-never-a-touchscreen-macbook-and-why-i-think-hed-totally-love-whats-coming-next
 https://www.ign.com/articles/david-fincher-tarantino-cliff-booth-script
@@ -2498,3 +2497,4 @@ https://www.ign.com/articles/legend-of-zelda-edition-nintendo-switch-pro-control
 https://www.techradar.com/pro/the-ai-data-center-race-is-now-a-race-to-power
 https://www.techpowerup.com/354311/intel-confirms-nova-lake-uses-18a-p-internal-node-more-details-at-ces
 https://wccftech.com/xbox-asha-sharma-record-minecraft-wow-forever-sales-circana-no-impact-initiatives
+https://www.tomshardware.com/pc-components/cpus/deadly-intel-fab-28-explosion-causes-two-week-shutdown-to-cost-usd600-million-and-severely-disrupt-server-chip-manufacturing-for-six-months-10nm-xeon-shipments-stall-during-largest-shortage-in-memory
