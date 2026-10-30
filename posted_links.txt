@@ -1,8 +1,3 @@
-https://www.techradar.com/pro/live/php-issues-affect-websites-across-the-world-all-the-latest-updates-and-what-you-need-to-know
-https://www.videogameschronicle.com/news/masahiro-sakurai-says-as-ai-games-dominate-steam-developers-who-are-truly-creative-will-become-even-more-important
-https://www.tomshardware.com/tech-industry/cyber-security/480-000-phishing-emails-sent-from-a-pc-hidden-behind-a-fridge-in-a-japanese-hotel-room-chinese-couple-arrested-over-fraud-operation-leaching-hotel-wi-fi
-https://www.techpowerup.com/354012/cherry-launches-mx-illuma-and-mx-emerald-reef-mechanic-keyboard-switches
-https://wccftech.com/nintendo-switch-2-hacked-jailbreak
 https://www.kitguru.net/gaming/mustafa-mahmoud/first-person-soulslike-valor-mortis-is-already-profitable-after-just-one-week
 https://www.techradar.com/pro/security/php-releases-emergency-fixes-as-some-of-the-worlds-biggest-websites-say-they-were-targeted-by-hackers
 https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected
@@ -2498,3 +2493,8 @@ https://www.dexerto.com/entertainment/hyrox-champ-who-pooped-herself-finally-ret
 https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts
 https://wccftech.com/review/corsair-hs80-v2-max-review
 https://www.techradar.com/phones/network-providers/t-mobile-ceo-rejects-potential-starlink-mobile-network-deal-arguing-that-satellite-is-inferior-and-theres-no-space-for-an-mvno-here
+https://www.pcgamer.com/games/world-of-warcraft/oce-players-are-stuck-in-perpetual-night-on-wow-forever-but-its-devs-are-considering-a-fix
+https://www.videogameschronicle.com/news/ubisoft-says-no-more-assassins-creed-remakes-are-planned-as-it-gives-updates-on-invictus-and-hexe
+https://www.dexerto.com/entertainment/bugatti-ceo-says-he-will-stop-leaving-keys-in-cars-after-3m-chiron-stolen-3423132
+https://wccftech.com/playstation-6-xbox-project-helix-cost-more-sony-cloud-gaming-patent
+https://www.techradar.com/pro/security/binance-hit-by-largest-crypto-theft-on-record-as-north-korean-hackers-steal-usd6-3bn-in-just-20-minutes
