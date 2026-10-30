@@ -1,8 +1,3 @@
-https://www.gamespot.com/articles/if-you-want-heartfelt-bioware-eulogies-check-the-comments
-https://insider-gaming.com/first-nintendo-switch-2-jailbreak-exploit-discovered
-https://www.eurogamer.net/video-game-industry-reacts-to-bioware-closure
-https://www.tomshardware.com/tech-industry/cyber-security/leaked-private-keys-for-eight-ca-certificates-let-any-attacker-impersonate-any-domain-billions-of-older-devices-and-software-installations-may-be-vulnerable-after-round-of-fixes-patch-yours-immediately
-https://www.techradar.com/gaming/i-believe-we-were-making-something-special-bioware-dev-says-the-now-canceled-mass-effect-5-offered-a-level-of-autonomy-and-choice-that-no-other-game-has-been-able-to-match
 https://www.gamespot.com/articles/you-could-get-castlevania-belmonts-curse-for-just-1-with-this-whipping-good-deal
 https://www.videogameschronicle.com/news/rockstar-is-quietly-transforming-the-real-miami-into-gta-6s-vice-city
 https://www.gematsu.com/2026/10/famitsu-sales-10-12-26-10-18-26
@@ -2498,3 +2493,8 @@ https://www.pcgamer.com/games/fps/real-world-disaster-footage-in-modern-warfare-
 https://www.dexerto.com/kick/clavicular-sued-by-landlord-over-alleged-fart-spray-parties-vomiting-and-bringing-horse-into-7m-mansion-3423210
 https://www.kitguru.net/gaming/matthew-wilson/ea-reportedly-abandoned-mass-effect-5-for-star-wars
 https://www.techradar.com/tech/techradars-weekly-crossword-puzzle-10-friday-october-30
+https://insider-gaming.com/north-korean-hackers-steal-63-billion-in-crypto
+https://www.rockpapershotgun.com/ea-execs-choosing-star-wars-battlefront-3-over-mass-effect-5-was-the-main-factor-in-biowares-demise-according-to-report
+https://www.dexerto.com/entertainment/most-of-canada-is-ending-daylight-saving-clock-changes-and-it-will-affect-everyone-else-too-3422926
+https://www.techpowerup.com/354316/new-uefi-tool-lifts-nvidias-tensor-cap-on-rtx-20-to-40-series-cards-in-windows
+https://www.techradar.com/pro/security/chinese-hackers-build-php2shell-exploit-use-it-to-root-25-servers-breach-us-government-affiliated-firewalls
