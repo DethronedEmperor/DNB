@@ -1,6 +1,3 @@
-https://www.guru3d.com/story/nvidia-dgx-spark-clusters-can-now-scale-to-eight-systems-and-1tb-of-unified-memory
-https://insider-gaming.com/modern-warfare-4-launch-patch-notes-explained
-https://www.rockpapershotgun.com/development-on-the-next-mass-effect-is-ending-ea-is-shutting-down-rpg-veteran-bioware-to-align-talent-and-investments-where-we-see-the-greatest-opportunities-for-players-and-long-term-growth
 https://www.guru3d.com/download/amd-chipset-drivers-download
 https://www.guru3d.com/story/msi-raider-16-hx-b2w-brings-core-ultra-9-275hx-and-rtx-5070-ti-laptop-graphics
 https://www.gamespot.com/articles/how-to-find-mysidia-in-final-fantasy-resonance
@@ -2498,3 +2495,6 @@ https://www.techpowerup.com/354312/qapla-captain-picard
 https://wccftech.com/crimson-desert-dlc-huge-ocean-map-underwater-exploration-naval-battles-dragons-destroying-ships
 https://www.kitguru.net/peripherals/monitors/matthew-wilson/msi-slashes-gaming-monitor-prices-in-early-black-friday-deals
 https://www.techradar.com/pro/the-ai-acts-longer-runway-is-an-opportunity-to-build-governance-that-lasts
+https://www.ign.com/articles/zelda-chief-eiji-aonuma-says-some-of-the-younger-members-of-the-ocarina-of-time-remake-team-had-never-played-the-original-game-and-thats-a-good-thing
+https://www.tomshardware.com/peripherals/gaming-mice/esports-commentator-builds-his-own-custom-mouse-shell-generator-for-3d-printing-that-doesnt-use-ai-mausstudio-automatically-detects-buttons-screwholes-and-sensor-locations
+https://www.techradar.com/pro/hubspot-aeo-review
