@@ -1,10 +1,3 @@
-https://www.tomshardware.com/tech-industry/sony-japan-marks-last-standalone-4k-blu-ray-player-as-discontinued-playstation-5-now-the-only-blu-ray-player-left-in-sonys-lineup
-https://www.techpowerup.com/354025/innodisk-launches-all-in-one-gmsl2-camera-starter-kit-to-accelerate-edge-ai-vision-deployment
-https://www.techradar.com/computing/gaming-laptops/the-msi-cyborg-15-is-a-solid-budget-gaming-laptop-and-this-rtx-5050-model-with-an-intel-i5-and-16gb-of-ram-is-now-usd899-at-walmart
-https://www.gamespot.com/articles/resident-evil-director-zach-cregger-feels-vindicated-following-gamer-backlash-to-his-highly-successful-movie
-https://www.pcgamer.com/hardware/graphics-cards/no-more-waiting-on-shaders-to-compile-as-nvidias-latest-driver-adds-advanced-shader-delivery-users-report-lower-ram-usage-in-call-of-duty-modern-warfare-4-and-gears-of-war-e-day
-https://insider-gaming.com/marvels-wolverine-was-the-best-selling-game-in-september
-https://www.techpowerup.com/353798/lattepanda-launches-lattepanda-sigma-2-the-embeddable-ai-single-board-server
 https://www.techradar.com/pro/bringing-sre-to-the-digital-workplace-how-it-can-spend-less-time-fixing-problems
 https://www.gamespot.com/articles/xbox-hardware-problem-september-sales-drop-to-new-low-amid-sonys-market-dominance
 https://www.pcgamer.com/gaming-industry/game-industry-legend-warren-spector-blows-up-over-biowares-closure-its-utter-bulls-t
@@ -2498,3 +2491,10 @@ https://www.techpowerup.com/354320/attack-shark-unveils-x60-gaming-headset-with-
 https://wccftech.com/bioware-mass-effect-team-50-star-wars-battlefront-3-ea-laura-miele-sidelined
 https://www.kitguru.net/gaming/matthew-wilson/ubisoft-says-there-are-no-additional-assassins-creed-remakes-in-the-works
 https://www.techradar.com/vpn/vpn-services/ipvanish-finally-launches-a-dedicated-ip-and-it-fixes-one-of-the-vpns-biggest-gaps
+https://www.ign.com/articles/best-buys-doorboosters-sale-2026-is-live
+https://www.pcgamer.com/games/adventure/a-daedalic-adventure-classic-is-free-on-gog
+https://www.eurogamer.net/dark-souls-servers-temporarily-shutting-down-fromsoftware
+https://www.dexerto.com/entertainment/food-influencer-says-couple-hit-her-assistant-and-took-her-sunglasses-during-viral-cafe-clash-3423352
+https://www.techpowerup.com/354321/epomaker-launches-the-em3-carbon-fiber-composite-gaming-mouse
+https://www.kitguru.net/gaming/matthew-wilson/romero-games-revives-shooter-project-with-new-publisher-following-last-years-xbox-cuts
+https://www.techradar.com/pro/its-100-percent-a-national-security-threat-accenture-contractor-connected-an-ai-agent-to-the-pentagons-secure-network-and-then-sent-data-to-a-high-risk-website
