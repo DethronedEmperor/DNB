@@ -1,6 +1,3 @@
-https://www.techpowerup.com/354058/ymtc-to-start-mass-production-of-lpddr5x-with-9-600-mt-s-speed
-https://www.guru3d.com/story/micron-announces-g11-nand-layers-roughly-2x-bit-density-versus-g9-up-to-faster-interface
-https://www.ign.com/articles/avatar-seven-havens-episodes-7-9-recap-and-review
 https://www.guru3d.com/story/amd-explains-why-dual-3d-vcache-fits-broader-workloads-better-than-gaming-alone
 https://www.techradar.com/entertainment/clayface-final-form-exclusive
 https://www.guru3d.com/story/minix-eu738ai-ultra-mini-pc-adds-a-status-screen-for-cpu-gpu-and-npu-activity
@@ -2498,3 +2495,6 @@ https://www.pcgamer.com/games/horror/are-we-going-too-far-with-this-one-of-the-w
 https://wccftech.com/review/scuf-nemesis-pro-8k-pc-review
 https://www.techradar.com/phones/iphone/iphone-duo-vs-iphone-18-pro
 https://www.ign.com/articles/it-welcome-to-derry-drops-surprise-halloween-episode
+https://www.ign.com/articles/whats-new-on-disney-plus-hulu-streaming-bundle-november-2026
+https://www.pcgamer.com/games/action/celeste-and-towerfall-have-delisted-from-xboxs-digital-storefronts-to-support-bds-boycott
+https://www.techpowerup.com/354358/gog-aims-to-revive-physical-pc-games
