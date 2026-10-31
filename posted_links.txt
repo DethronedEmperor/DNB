@@ -1,6 +1,3 @@
-https://www.techradar.com/pro/russias-b-1-bomber-clone-set-to-get-new-avionics-and-a-modular-architecture-new-kit-can-be-added-later-to-boost-longevity-not-unlike-the-b-52-stratofortress
-https://www.gamespot.com/videos/gta-6-and-gasoline-in-video-games
-https://www.pcgamer.com/games/mass-effect/canadian-politician-calls-on-government-to-help-bioware-employees-buy-the-studio-and-run-it-themselves
 https://www.techpowerup.com/354044/borderlands-4-silently-ditches-denuvo-drm-with-reports-citing-notable-fps-increases
 https://www.techradar.com/pro/why-scrutiny-of-facial-recognition-needs-to-extend-beyond-policing
 https://www.pcgamer.com/software/ai/epic-announces-game-jam-where-you-have-to-use-ai
@@ -2498,3 +2495,6 @@ https://www.techradar.com/tech/icymi-the-7-biggest-tech-stories-of-the-week-incl
 https://www.ign.com/articles/avatar-seven-havens-finale-showrunners-ending-explained-biggest-questions
 https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked
 https://www.techradar.com/entertainment/football/watch-man-city-vs-brighton-premier-league-2026-27
+https://www.videogameschronicle.com/news/the-arduview-is-the-worlds-first-fully-transparent-handheld-including-the-screen
+https://www.tomshardware.com/video-games/retro-gaming/developer-builds-a-complete-intel-486-pc-emulator-in-a-browser-100-percent-pure-javascript-retro486-includes-modular-tabs-for-screen-motherboard-storage-expansion-cards-and-more
+https://www.techradar.com/audio/the-cd-renaissance-is-going-strong-and-cd-players-are-looking-a-little-different-this-time-around-here-are-the-quirky-disc-spinners-you-need-to-see
