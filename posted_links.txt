@@ -1,6 +1,3 @@
-https://www.gamespot.com/articles/why-people-think-valve-just-accidentally-confirmed-half-life-3
-https://www.rockpapershotgun.com/robot-smashing-catharsis-game-virtue-and-a-sledgehammer-is-out-next-week-but-theres-an-experimental-visual-novella-prologue-you-can-play-right-now
-https://www.dexerto.com/entertainment/cruise-ship-passengers-heartbroken-after-bahamas-trip-gets-rerouted-to-cold-canada-3421161
 https://www.techpowerup.com/354043/wd-reports-fiscal-first-quarter-2027-financial-results
 https://wccftech.com/intel-arizona-fab-62-targets-2028-ohio-hits-major-construction-milestone
 https://www.techradar.com/pro/gps-is-the-first-operational-link-an-adversary-severs-u-s-navy-tests-software-that-lets-drones-land-on-moving-ships-using-onboard-cameras-alone
@@ -2498,3 +2495,6 @@ https://www.dexerto.com/entertainment/youtube-restores-true-crime-channel-ewus-m
 https://wccftech.com/windows-11-task-manager-lag-heavy-cpu-load-microsoft-veteran-explains
 https://www.tomshardware.com/3d-printing/3d-printed-guns-may-now-have-a-way-to-be-traced-to-their-source-australian-researchers-correctly-identify-26-out-of-28-printed-pla-samples-to-their-filament-product
 https://www.techradar.com/tech/top-tech-of-the-month-the-best-new-gadgets-weve-tested-for-november-2026
+https://www.gamespot.com/articles/the-games-we-couldnt-stop-playing-in-october-2026
+https://www.tomshardware.com/pc-components/liquid-cooling/trashbench-repurposes-a-trash-4-kw-air-conditioner-radiator-for-his-test-bench-to-see-how-well-it-can-cool-a-pc-achieves-a-shocking-28c-on-an-nvidia-rtx-3080
+https://www.techradar.com/audio/earbuds-airpods/apple-airpods-5-with-wireless-charging-review
