@@ -1,5 +1,3 @@
-https://www.techradar.com/pro/gps-is-the-first-operational-link-an-adversary-severs-u-s-navy-tests-software-that-lets-drones-land-on-moving-ships-using-onboard-cameras-alone
-https://www.ign.com/articles/dispatch-gets-over-16-hours-of-new-content-with-commentary-track-mobile-version-and-live-concert-to-celebrate-its-first-anniversary
 https://insider-gaming.com/hunger-game-extraction-rpg-cant-be-missed
 https://wccftech.com/global-pc-shipments-drop-21-percent-q3-as-memory-prices-surge
 https://www.techradar.com/computing/cyber-security/which-major-websites-have-been-hit-by-the-php-security-crisis-here-are-the-biggest-so-far-from-wikipedia-to-the-internet-archive
@@ -2498,3 +2496,5 @@ https://www.tomshardware.com/pc-components/liquid-cooling/trashbench-repurposes-
 https://www.techradar.com/audio/earbuds-airpods/apple-airpods-5-with-wireless-charging-review
 https://www.tomshardware.com/pc-components/ram/veteran-microsoft-engineer-makes-his-own-ram-from-scratch-using-ai-attempts-to-build-4mb-of-1970s-pdp-11-ram-from-scratch
 https://www.techradar.com/ai-platforms-assistants/he-can-pry-it-from-my-cold-dead-hands-sam-altman-says-its-quite-terrible-that-youre-using-ram-in-your-pc-when-theres-not-enough-for-ai-data-centers
+https://www.rockpapershotgun.com/horror-steeped-card-game-forbidden-solitaire-shows-how-a-strong-theme-can-elevate-even-decade-old-mechanics
+https://www.techradar.com/pro/the-intent-compression-paradox-how-llm-developers-are-solving-semantic-erosion-to-keep-human-intent-alive
