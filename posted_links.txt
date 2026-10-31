@@ -1,5 +1,3 @@
-https://www.techradar.com/pro/security/claude-flags-nearly-500-worrying-open-source-security-issues-c-java-and-python-code-all-at-risk-as-one-flaw-wasnt-spotted-for-21-years
-https://www.ign.com/articles/seth-rogen-brad-bird-infinity-festival
 https://www.gamespot.com/articles/free-games-epic-games-store-mobile/1100-6530257
 https://www.videogameschronicle.com/news/mass-effect-universe-trailer-leaks-online-showcases-what-bioware-was-working-on-before-being-shut-down
 https://www.techpowerup.com/354039/gamesir-introduces-g7-pro-8k-pc-x-phantom-blade-zero-edition-controller
@@ -2498,3 +2496,5 @@ https://www.ign.com/articles/vrchat-devs-spark-outrage-after-refusing-to-include
 https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-31-october-2026
 https://www.ign.com/articles/crimson-desert-charting-the-unknown-review
 https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-31-october-2026
+https://www.ign.com/sponsored/why-best-buy-is-a-great-place-to-buy-pokemon-legos-this-holiday-season
+https://www.techradar.com/ai-platforms-assistants/openai/sam-altman-says-openai-wont-slow-science-paper-blitz-even-though-academics-are-calling-it-a-giant-bomb
