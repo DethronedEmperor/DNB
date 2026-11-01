@@ -1,5 +1,3 @@
-https://www.ign.com/articles/exodus-protagonist-jun-makeover
-https://www.gematsu.com/2026/10/troublemaker-3-fallen-dynasty-announced-for-pc
 https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseeks-latest-ai-model-is-smarter-than-ever-but-its-low-running-costs-come-at-a-price-open-weight-model-is-fit-for-agentic-workloads-but-is-more-prone-to-hallucination-than-proprietary-competitors
 https://www.techradar.com/cameras/mirrorless-cameras/sigma-fp2-review
 https://www.gamespot.com/articles/call-of-duty-ads-on-xbox-are-even-more-annoying-this-year-with-modern-warfare-4
@@ -2498,3 +2496,5 @@ https://www.tomshardware.com/peripherals/wearable-tech/elon-musk-says-neuralink-
 https://www.ign.com/articles/uk-deals-aliexpress-has-a-ton-of-early-black-friday-deals-for-gamers
 https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies
 https://www.techradar.com/home/small-appliances/meaco-sefte-tower-fan-19-inch-review
+https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops
+https://www.techradar.com/entertainment/football/liverpool-vs-arsenal-free-premier-league-2026-27
