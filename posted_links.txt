@@ -1,6 +1,3 @@
-https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseeks-latest-ai-model-is-smarter-than-ever-but-its-low-running-costs-come-at-a-price-open-weight-model-is-fit-for-agentic-workloads-but-is-more-prone-to-hallucination-than-proprietary-competitors
-https://www.techradar.com/cameras/mirrorless-cameras/sigma-fp2-review
-https://www.gamespot.com/articles/call-of-duty-ads-on-xbox-are-even-more-annoying-this-year-with-modern-warfare-4
 https://www.pcgamer.com/games/rts/vote-now-the-mammoth-tank-and-priest-go-head-to-head-to-determine-the-best-rts-unit-of-all-time
 https://www.videogameschronicle.com/news/fanatical-halloween-bundle-gives-you-prey-doom-1-2-and-evil-within-1-2-for-11-66
 https://insider-gaming.com/lyon-become-latest-org-to-withdraw-from-valorant
@@ -2498,3 +2495,6 @@ https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unpl
 https://www.techradar.com/home/small-appliances/meaco-sefte-tower-fan-19-inch-review
 https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops
 https://www.techradar.com/entertainment/football/liverpool-vs-arsenal-free-premier-league-2026-27
+https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers
+https://wccftech.com/vantrue-n4-pro-s-n4s-dash-cams-amazon
+https://www.techradar.com/health-fitness/fitness-trackers/i-tested-the-google-fitbit-edge-against-the-garmin-fenix-9-pro-the-fitbits-heart-rate-was-spot-on-but-the-gps-is-another-story
