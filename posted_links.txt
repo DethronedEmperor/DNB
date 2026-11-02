@@ -1,9 +1,3 @@
-https://www.techradar.com/audio/speakers/fyne-audio-cubitt-5-review
-https://www.eurogamer.net/mass-effect-universe-details-dantics-claims
-https://www.pcgamer.com/gaming-industry/game-development/i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game-of-ai-generated-voice-lines-having-previously-described-the-technology-as-anti-human-and-anti-art
-https://insider-gaming.com/stalker-update-leak-2-1-the-zone-lookout
-https://insider-gaming.com/ps6-haptic-patent
-https://wccftech.com/nvidia-geforce-rtx-3090-ti-gets-nearly-80-fp16-bf16-compute-boost-with-linux-based-unlocking-trick
 https://overclock3d.net/news/software/amds-fsr-4-1-upscaler-now-runs-on-intel-arc-xmx-units
 https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024
 https://www.dexerto.com/entertainment/dallas-cowboys-cheerleaders-unionize-after-years-of-wage-disputes-3421537
@@ -2498,3 +2492,9 @@ https://www.gematsu.com/2026/11/harma-launches-in-early-access-on-november-17
 https://www.dexerto.com/gaming/valves-canceled-portal-prequel-made-playable-by-modders-nearly-20-years-later-3424006
 https://www.techpowerup.com/354410/marvell-acquires-lumentum-for-usd-115-billion-all-stock-deal
 https://www.techradar.com/vpn/vpn-services/privadovpn-brings-smartroute-multi-hop-to-iphone-and-you-get-to-choose-what-takes-the-double-hop
+https://www.gamespot.com/articles/phantom-blade-zero-put-up-some-massive-sales-numbers
+https://www.pcgamer.com/gaming-industry/yakuza-creators-studio-and-the-game-it-was-working-on-are-now-officially-gone
+https://www.gematsu.com/2026/11/3d-action-adventure-game-ryn-and-the-thread-of-life-to-be-published-by-top-hat-studios
+https://www.dexerto.com/food/magic-the-gathering-beef-sticks-are-now-a-thing-with-15-mtg-card-flavors-3423986
+https://www.techradar.com/ai-platforms-assistants/elon-musk-tried-to-prove-grok-could-beat-christopher-nolan-instead-he-proved-why-human-filmmakers-matter
+https://www.guru3d.com/story/nvidia-geforce-rtx-5080-24gb-january-launch-looks-increasingly-unlikely
