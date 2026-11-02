@@ -1,6 +1,3 @@
-https://www.dexerto.com/gaming/new-steam-game-challenges-players-to-be-a-banana-for-100-hours-3421581
-https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch
-https://www.tomshardware.com/pc-components/cpus/amd-ceo-lisa-su-proposed-bringing-back-the-ryzen-7-5800x3d-set-plan-in-motion-before-ddr5-shortages-am4-cpu-considered-a-final-gift-to-loyal-fans-of-the-decade-old-socket
 https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/a-formidable-proposition-ive-driven-the-hyundai-ioniq-3-and-it-sets-a-new-benchmark-for-affordable-evs
 https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-isolated-red-team-ai-agents-built-a-hidden-cpu-cache-channel-to-talk-with-no-network-or-shared-files-exploited-cpu-cache-timing-to-bypass-microvm-sandboxes
 https://www.techpowerup.com/354111/this-week-in-gaming-week-44
@@ -2498,3 +2495,6 @@ https://www.pcgamer.com/gaming-industry/xbox-coo-who-left-after-just-3-months-sh
 https://insider-gaming.com/is-gta-6-out-now-launch-day-tracker
 https://www.dexerto.com/gta/staggering-number-of-americans-would-abandon-their-pets-to-play-gta-6-early-3424068
 https://wccftech.com/allstate-denies-walmart-acer-pc-protection-plan-claim-reseated-ram
+https://www.ign.com/articles/asus-rog-xbox-ally-x-handheld-gaming-pc-deal-november-2026
+https://www.gamespot.com/articles/former-xbox-exec-shares-her-side-of-the-story-after-mysterious-depature
+https://insider-gaming.com/former-xbox-coo-denies-being-fired-for-policy-violations
