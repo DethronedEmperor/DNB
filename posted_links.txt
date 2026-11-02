@@ -1,5 +1,3 @@
-https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/a-formidable-proposition-ive-driven-the-hyundai-ioniq-3-and-it-sets-a-new-benchmark-for-affordable-evs
-https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-isolated-red-team-ai-agents-built-a-hidden-cpu-cache-channel-to-talk-with-no-network-or-shared-files-exploited-cpu-cache-timing-to-bypass-microvm-sandboxes
 https://www.techpowerup.com/354111/this-week-in-gaming-week-44
 https://wccftech.com/cxmt-dram-pricing-apple-china-self-sufficiency
 https://www.techradar.com/entertainment/football/watch-man-utd-vs-bournemouth-free-premier-league-2026-27
@@ -2498,3 +2496,5 @@ https://wccftech.com/allstate-denies-walmart-acer-pc-protection-plan-claim-resea
 https://www.ign.com/articles/asus-rog-xbox-ally-x-handheld-gaming-pc-deal-november-2026
 https://www.gamespot.com/articles/former-xbox-exec-shares-her-side-of-the-story-after-mysterious-depature
 https://insider-gaming.com/former-xbox-coo-denies-being-fired-for-policy-violations
+https://www.ign.com/articles/baseus-blade-slim-power-bank-deal-november-2026
+https://www.techradar.com/health-fitness/smartwatches/nobody-wants-to-wear-a-tuna-can-on-their-wrist-garmins-coo-explains-how-the-fenix-9-pro-and-marq-gen-3s-new-nano-molded-titanium-case-stayed-as-small-as-possible-while-still-letting-signals-in-and-out
