@@ -1,10 +1,3 @@
-https://www.techradar.com/computing/chromebooks/google-raised-a-generation-on-chromebooks-now-comes-the-hard-part
-https://www.tomshardware.com/software/maps/proton-hosts-flock-map-revealing-over-300-000-cameras-defying-cease-and-desist-threats-against-creator-privacy-focused-company-hosts-site-on-swiss-servers-says-users-have-the-right-to-know-whos-recording-them
-https://www.techradar.com/computing/the-fcc-has-started-to-ban-gadgets-with-foreign-surveillance-chips-inside-but-grants-intel-a-waiver-for-its-foreign-made-factory-robots
-https://www.rockpapershotgun.com/mass-effect-3-ending-discourse-ignored-the-rpgs-scale-ambition-and-exuberance-including-that-of-its-oddly-great-co-op
-https://www.tomshardware.com/laptops/gaming-laptops/save-up-to-usd800-on-acers-ultra-slim-rtx-5070-ti-gaming-laptop-pay-usd2225-for-the-16gb-ram-model-or-upgrade-to-32gb-for-usd2400
-https://www.techradar.com/ai-platforms-assistants/chatgpts-new-locked-chats-feature-sounds-great-for-privacy-until-you-read-the-fine-print
-https://www.pcgamer.com/gaming-industry/award-winning-sci-fi-author-nk-jemisin-joins-biowares-mourners-and-scorns-a-broken-industry-for-killing-geese-that-laid-the-golden-eggs
 https://www.techradar.com/audio/speakers/fyne-audio-cubitt-5-review
 https://www.eurogamer.net/mass-effect-universe-details-dantics-claims
 https://www.pcgamer.com/gaming-industry/game-development/i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game-of-ai-generated-voice-lines-having-previously-described-the-technology-as-anti-human-and-anti-art
@@ -2498,3 +2491,10 @@ https://www.tomshardware.com/3d-printing/creality-k3-review
 https://www.techpowerup.com/354405/raspberry-pi-5-16-gb-hits-usd-385-following-latest-price-hikes
 https://www.techradar.com/phones/bored-of-cutesy-retro-looking-cassette-players-this-high-tech-industrial-model-is-a-worthy-alternative
 https://overclock3d.net/news/software/windows-cloud-rebuild-feature-enables-reinstalls-without-a-usb-installer
+https://www.gamespot.com/articles/gta-6-buying-guide-get-ready-for-sticker-shock
+https://www.pcgamer.com/hardware/gaming-mice/turtle-beach-command-series-mc7-review
+https://www.rockpapershotgun.com/fewer-genai-clones-of-someone-elses-specific-game-should-flood-the-net-going-forwards-as-anthropic-tell-claude-to-stop-messing-with-some-stuff-other-people-own
+https://www.gematsu.com/2026/11/harma-launches-in-early-access-on-november-17
+https://www.dexerto.com/gaming/valves-canceled-portal-prequel-made-playable-by-modders-nearly-20-years-later-3424006
+https://www.techpowerup.com/354410/marvell-acquires-lumentum-for-usd-115-billion-all-stock-deal
+https://www.techradar.com/vpn/vpn-services/privadovpn-brings-smartroute-multi-hop-to-iphone-and-you-get-to-choose-what-takes-the-double-hop
