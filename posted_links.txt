@@ -1,4 +1,3 @@
-https://www.techpowerup.com/354074/capcom-hit-by-major-account-breach-11-7-million-capcom-id-records-accessed
 https://www.techradar.com/pro/security/php-security-issues-could-also-threaten-your-nas-device-but-not-every-vendor-is-able-to-patch-just-yet
 https://overclock3d.net/news/software/creative-assembly-issues-new-statement-on-ai-use-and-shogun-2
 https://www.ign.com/articles/press-play-amazon-reveals-full-playstation-x-lisa-merch-collection-as-the-blackpink-star-drops-new-ep
@@ -2498,3 +2497,4 @@ https://www.techradar.com/pro/anthropic-wants-to-use-claude-ai-to-help-discover-
 https://www.gematsu.com/2026/11/phantom-blade-zero-sales-top-four-million-in-72-hours
 https://www.gematsu.com/2026/11/nagoshi-studio-shuts-down
 https://www.ign.com/articles/zach-cregger-was-frustrated-the-conversation-around-resident-evil-didnt-have-anything-to-do-with-the-movie
+https://www.pcgamer.com/games/board-games/the-heroquest-board-game-is-coming-to-steam-with-a-quest-editor-and-multiplayer
