@@ -1,10 +1,3 @@
-https://www.techpowerup.com/354084/razer-leak-tips-new-inductive-mouse-viper-mini-hyperspeed-and-v4-special-edition
-https://wccftech.com/nvidia-rtx-remix-1-6-launches-with-dlss-5-6x-multi-frame-generation-minecraft-java-edition-support-and-more
-https://www.techradar.com/pro/plucky-chinese-startup-claims-to-beat-nvidia-dgx-spark-mac-mini-on-qwen-says-its-256-tops-beats-1000-tops-in-prefill-running-16-core-cortex-a55-soc-on-40w
-https://insider-gaming.com/g2-throw-dk-lead-lec-lol-world-2026
-https://www.techradar.com/gaming/at-some-point-we-did-have-a-small-rhythm-game-but-it-didnt-exactly-match-the-feeling-that-youre-promoting-a-show-stranger-than-heaven-director-says-the-showbiz-system-was-a-real-challenge-and-inspired-by-musicians-with-an-antenna-for-music
-https://www.techradar.com/phones/samsungs-next-gen-oled-tech-might-actually-arrive-before-lgs-the-brighter-and-more-efficient-pixels-seem-to-be-aimed-at-phones-and-smartwatches-rather-than-tvs-and-monitors
-https://www.pcgamer.com/gaming-industry/why-private-equity-acquisitions-like-the-one-that-just-claimed-bioware-are-so-dreaded
 https://www.techpowerup.com/354087/audio-technica-introduces-ath-awx7000-closed-back-dynamic-wooden-headphones
 https://www.techradar.com/health-fitness/smartwatches/apple-watch-series-12-review
 https://www.ign.com/articles/mass-effect-fans-call-for-ea-boycott-as-petition-to-save-biowares-canceled-game-garners-more-than-75000-signatures
@@ -2498,3 +2491,10 @@ https://www.videogameschronicle.com/news/zelda-producer-aonuma-wanted-to-remake-
 https://insider-gaming.com/entire-furia-valorant-roster-enters-free-agency
 https://www.techradar.com/computing/memory/is-sam-altman-going-to-break-into-my-house-and-steal-my-ram-no-but-the-ai-memory-crisis-could-be-about-to-get-a-whole-lot-worse
 https://overclock3d.net/news/cpu_mainboard/amd-plans-rdna-5-gpu-architecture-for-early-2029
+https://www.ign.com/articles/niftski-breaks-super-mario-bros-world-record
+https://www.gamespot.com/videos/godzilla-destroy-all-monsters-melee-remastered-is-a-faithful-if-flawed-remaster-review
+https://www.pcgamer.com/games/third-person-shooter/arc-raiders-devs-have-used-a-music-sample-from-a-piano-in-chernobyl-that-someone-had-discovered-in-the-forbidden-zone
+https://insider-gaming.com/bend-studios-next-game-to-be-revealed-in-2027-its-claimed
+https://www.tomshardware.com/tech-industry/cyber-security/nvidia-brev-security-breach-may-have-exposed-ssh-keys-used-to-access-customer-vms-investigation-finds-unauthorized-activity-spanning-16-days-but-no-evidence-of-misuse
+https://wccftech.com/tsmcs-1-nanometer-manufacturing-site-likely-tipped-by-taiwans-minister-in-discussion-that-included-robots
+https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/work-crews-remove-120-defunct-flock-cameras-in-us-county-after-company-fails-to-fulfil-contractual-obligations
