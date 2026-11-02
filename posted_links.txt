@@ -1,9 +1,3 @@
-https://www.techpowerup.com/354087/audio-technica-introduces-ath-awx7000-closed-back-dynamic-wooden-headphones
-https://www.techradar.com/health-fitness/smartwatches/apple-watch-series-12-review
-https://www.ign.com/articles/mass-effect-fans-call-for-ea-boycott-as-petition-to-save-biowares-canceled-game-garners-more-than-75000-signatures
-https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-24-october-2026
-https://www.techpowerup.com/354088/cooler-master-launches-the-qube-540-stainless-steel-special-edition
-https://www.techradar.com/pro/security/this-ai-tool-can-now-turn-ordinary-household-photos-into-location-clues-so-could-law-forces-use-the-technology-to-scope-out-your-home
 https://www.techradar.com/gaming/nyt-connections-today-answers-hints-24-october-2026
 https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-24-october-2026
 https://www.techpowerup.com/354089/microsoft-brings-its-customizable-file-explorer-context-menu-to-windows-11-beta-insiders
@@ -2498,3 +2492,9 @@ https://insider-gaming.com/bend-studios-next-game-to-be-revealed-in-2027-its-cla
 https://www.tomshardware.com/tech-industry/cyber-security/nvidia-brev-security-breach-may-have-exposed-ssh-keys-used-to-access-customer-vms-investigation-finds-unauthorized-activity-spanning-16-days-but-no-evidence-of-misuse
 https://wccftech.com/tsmcs-1-nanometer-manufacturing-site-likely-tipped-by-taiwans-minister-in-discussion-that-included-robots
 https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/work-crews-remove-120-defunct-flock-cameras-in-us-county-after-company-fails-to-fulfil-contractual-obligations
+https://www.gamespot.com/reviews/godzilla-destroy-all-monsters-melee-remastered-is-a-faithful-if-flawed-remaster
+https://insider-gaming.com/star-wars-jedi-3-is-far-in-development
+https://www.eurogamer.net/anthropic-claude-generative-ai-game-clones-update
+https://www.tomshardware.com/laptops/macbooks/apple-finally-has-a-touchscreen-macbook-why-now
+https://www.techpowerup.com/354402/intel-wildcat-lake-powers-zotacs-new-fanless-zbox-mini-pcs
+https://www.techradar.com/pro/google-kills-off-jules-its-ai-coding-agent-which-promised-to-do-all-the-jobs-you-didnt-want-to
