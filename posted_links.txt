@@ -1,7 +1,3 @@
-https://www.techradar.com/pro/security/fbi-tip-line-and-veterans-crisis-site-among-350-federal-web-addresses-exposing-visitors-to-network-spies-senator-warns
-https://www.techradar.com/phones/iphone/ifixit-tears-down-the-iphone-duo-and-awards-it-the-highest-repair-score-yet-for-a-foldable-but-replacing-the-inner-screen-and-hinge-takes-a-lot-of-work
-https://insider-gaming.com/petition-for-dmz-pve-started
-https://www.techradar.com/pro/quote-of-the-day-by-microsoft-ceo-satya-nadella-we-have-to-do-something-useful-with-ai-or-well-quickly-lose-social-permission-challenging-ai-pioneers-to-step-up-their-game
 https://www.ign.com/articles/x-men-actor-christopher-abbott-insists-his-professor-x-is-not-in-doomsday-or-secret-wars
 https://www.techradar.com/pro/first-5k-monitor-built-for-apple-mac-mini-gets-usd999-preorder-price-tag-prisma-is-a-40-inch-curved-display-with-an-ssd-bay-docking-station-charging-pad-and-a-pedestal-for-your-prized-possession
 https://www.ign.com/articles/magic-the-gatherings-top-12-most-powerful-commander-precons-of-all-time
@@ -2498,3 +2494,7 @@ https://overclock3d.net/news/gpu-displays/gpu-distributors-focus-on-rtx-3060-and
 https://www.videogameschronicle.com/news/final-fantasy-7-remake-and-rebirth-currently-have-huge-price-drops-on-the-switch-2-eshop
 https://wccftech.com/samsung-990-pro-4tb-pcie-nvme-ssd-deal
 https://www.techradar.com/ai-platforms-assistants/worst-decision-ever-by-openai-chatgpts-new-usage-limits-may-test-subscribers-patience
+https://www.ign.com/articles/bass-x-machina-episode-1-review-netflix
+https://www.eurogamer.net/control-resonant-remedy-revenue-leaps
+https://www.dexerto.com/gaming/dead-by-daylight-removes-theburntpeanuts-free-dlc-following-backlash-3424207
+https://wccftech.com/anthropic-warns-self-improving-ai-milestone-may-be-imminent-as-claude-writes-over-90-of-its-code
