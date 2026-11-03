@@ -1,7 +1,3 @@
-https://www.techradar.com/pro/microsoft-teams-will-soon-use-ai-to-warn-you-of-sneaky-phishing-scams
-https://www.ign.com/articles/epic-games-boss-tim-sweeney-doubles-down-on-valve-criticism-says-steams-ai-content-disclosure-is-a-political-act
-https://insider-gaming.com/league-of-legends-world-champion-cyanide-31-passes-away
-https://www.tomshardware.com/video-games/retro-gaming/modder-turns-nes-into-a-windows-like-desktop-with-original-hardware-emulates-a-full-retro-experience-with-a-cd-drive-and-slow-internet
 https://wccftech.com/crimson-desert-weekly-patches-charting-the-unknown-forges-damiane-oongka-main-characters
 https://www.techradar.com/audio/earbuds-airpods/samsung-has-new-clip-on-buds-oneplus-has-new-clip-on-buds-when-do-we-say-thats-enough-new-open-earbuds
 https://www.ign.com/articles/xbox-looks-for-development-partner-to-finish-marvels-blade
@@ -2498,3 +2494,7 @@ https://www.dexerto.com/gaming/sony-wants-to-buy-your-ps5-for-up-to-400-if-youre
 https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim
 https://wccftech.com/redditor-uses-deepseek-ai-to-unlock-amd-fluid-motion-frames-3-on-rdna-3-and-rdna-4-gpus-ahead-of-official-release
 https://www.techradar.com/gaming/warhammer-40-000-dawn-of-war-4-creative-director-says-king-art-borrowed-elements-from-dawn-of-war-2-and-3-for-heroes-upgrade-mechanics-and-ui-aspects-because-while-it-loves-the-first-game-its-also-over-20-years-old
+https://www.tomshardware.com/pc-components/ssds/corsair-has-slashed-usd180-off-its-blistering-mp700-se-gen-5-ssd-now-14-cents-per-gb-get-4tb-of-ssd-storage-for-usd579-the-cheapest-drive-on-the-market
+https://www.techpowerup.com/354098/techpowerup-x-chieftec-giveaway-win-cases-coolers-and-psus
+https://www.kitguru.net/tech-news/featured-tech-reviews/leo-waldock/cougar-duoair-review-glass-or-mesh
+https://www.techradar.com/computing/memory/apples-ceo-john-ternus-warns-ram-cost-increases-are-now-unprecedented-and-it-makes-me-fear-the-worst-for-further-mac-price-hikes
