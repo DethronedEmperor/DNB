@@ -1,4 +1,3 @@
-https://www.techradar.com/entertainment/tv-shows/how-to-watch-adultery
 https://insider-gaming.com/xbox-coo-helen-chiang-leaves-microsoft
 https://www.eurogamer.net/save-mass-effect-petition
 https://www.gematsu.com/2026/10/dragon-ball-xenoverse-2-10th-anniversary-update-launches-october-27
@@ -2498,3 +2497,4 @@ https://www.techpowerup.com/354423/rpcs3-emulator-is-making-progress-loadable-ca
 https://www.gematsu.com/2026/11/pikmin-4-nintendo-switch-2-edition-dandori-academy-overview-trailer
 https://www.ign.com/articles/trent-reznor-and-atticus-ross-have-provided-the-score-to-david-finchers-the-further-mis-adventures-of-cliff-booth
 https://www.ign.com/articles/resident-evil-lands-on-digital-after-monstrous-box-office-run
+https://www.techradar.com/ai-platforms-assistants/we-believe-this-is-a-practical-step-toward-an-open-web-dont-want-ai-companies-training-on-your-website-openai-google-and-microsoft-are-backing-a-new-way-to-opt-out
