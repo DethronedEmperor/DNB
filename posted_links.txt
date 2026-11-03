@@ -1,12 +1,3 @@
-https://www.dexerto.com/food/man-who-set-cafe-on-fire-over-missing-mayo-for-sandwich-gets-3-5-years-in-prison-3421862
-https://www.techradar.com/collection/seasonal-sales/amazons-early-black-friday-deals-include-up-to-60-percent-off-blink-ring-fire-tv-and-more-ive-picked-the-16-best-offers
-https://overclock3d.net/news/software/intel-apx-support-arrives-in-windows-11-ready-for-nova-lake
-https://www.gamespot.com/articles/xbox-veteran-who-just-got-promoted-under-asha-sharma-promptly-leaves-amid-mysterious-circumstances
-https://www.pcgamer.com/gaming-industry/events-conferences/the-golden-joystick-awards-ultimate-game-of-the-year-voting-is-a-go-with-games-like-crimson-desert-the-blood-of-dawnwalker-and-big-walk-all-on-the-docket
-https://www.videogameschronicle.com/guide/cod-mw4-multiplayer-best-meta-m4-build
-https://insider-gaming.com/exclusive-mark-darrah-mass-effect-interview-bioware
-https://www.eurogamer.net/steam-personal-calendar-full-release
-https://www.dexerto.com/entertainment/apple-finally-brings-oled-to-the-ipad-mini-with-its-biggest-upgrade-yet-3421861
 https://www.tomshardware.com/pc-components/dram/micron-plans-to-use-wafer-bonding-and-high-na-euv-for-next-gen-dram-company-also-developing-vertical-high-bandwidth-memory-and-vertical-edge-inference-memory-integrated-directly-on-top-of-processors
 https://wccftech.com/500-dollar-mac-pro-conversion-kit-pc-crowdfunding-struggles
 https://www.techradar.com/pro/security/experts-reveal-another-major-php2shell-bug-and-its-not-getting-an-emergency-patch-this-time
@@ -2498,3 +2489,12 @@ https://www.gematsu.com/2026/11/the-elder-scrolls-vi-sentinel-subtitle-announced
 https://www.dexerto.com/valorant/groom-goes-viral-for-having-to-beat-bride-in-valorant-before-he-can-marry-her-3424392
 https://www.tomshardware.com/tech-industry/data-centers/elon-musks-xai-installs-eight-converted-jet-engines-to-power-mississippi-data-center-permits-allow-25-percent-higher-limit-for-pollutants-concerns-raised-over-carbon-monoxide
 https://www.techradar.com/pro/bambu-lab-h3c-3d-printer-review
+https://www.ign.com/articles/go-play-gta-6-says-wardogs-developer
+https://www.gamespot.com/articles/one-popular-pc-game-storefront-has-had-enough-of-ai-slop-and-its-taking-action
+https://www.pcgamer.com/games/the-elder-scrolls/morrowinds-gravity-is-no-longer-0-01-percent-off-in-the-new-release-of-its-fan-made-engine-finally-making-it-playable
+https://www.videogameschronicle.com/news/rockstar-details-grand-theft-auto-6-pre-load-date-and-time-and-file-size
+https://insider-gaming.com/gta-6-pre-load-date-and-time-officially-revealed
+https://www.eurogamer.net/grand-theft-auto-6-pre-load-date
+https://www.dexerto.com/roblox/depth-incremental-codes-3424301
+https://www.tomshardware.com/tech-industry/semiconductors/intel-14a-moves-closer-to-production-as-pdk-0-9-becomes-available-process-design-kit-gives-developers-important-production-milestone-ahead-of-1-0-in-2027
+https://www.techradar.com/pro/security/hackers-are-using-llmjacking-attacks-to-hijack-company-ai-usage-and-run-up-huge-cloud-bills
