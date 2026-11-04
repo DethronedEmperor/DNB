@@ -1,9 +1,3 @@
-https://wccftech.com/security-researcher-claims-samsung-smart-tvs-use-ai-to-monitor-audio-screenshots-and-viewing-habits-for-targeted-ads
-https://www.techradar.com/pro/ai-success-depends-on-business-outcomes-not-usage-vanity-metrics
-https://overclock3d.net/news/misc/tsmc-to-bring-back-sram-scaling-with-its-a14-node
-https://www.videogameschronicle.com/news/bloober-teams-silent-hill-remake-is-set-for-a-2027-release-with-the-first-two-actors-named-report-claims
-https://insider-gaming.com/infinity-ward-taking-action-against-dmz-duplication-exploits
-https://www.eurogamer.net/pokemon-unite-closing-date
 https://www.dexerto.com/gaming/super-smash-bros-creator-sakurai-hits-out-at-ai-games-for-just-copying-others-3422041
 https://www.tomshardware.com/tech-industry/semiconductors/nvidia-is-bankrolling-ai-accelerator-supply-chain-buildout-to-reserve-production-capacity-announces-billion-dollar-deals-with-six-major-suppliers-across-substrates-advanced-packaging-semiconductor-testing-and-optical-engines
 https://insider-gaming.com/arc-raiders-2-3-update-adds-new-player-project-and-100-bug-fixes
@@ -2498,3 +2492,9 @@ https://www.tomshardware.com/desktops/gaming-pcs/save-usd300-on-this-1440p-gamin
 https://www.techpowerup.com/354455/nvidia-dlss-5-arrives-in-hogwarts-legacy-war-thunder-and-where-winds-meet-promising-impressive-performance-boost
 https://wccftech.com/amds-rx-9070-xt-sees-over-50x-fps-boost-and-nearly-90-lower-ray-tracing-memory-usage-with-new-directx-technology
 https://www.techradar.com/gaming/warhammer-40-000-dawn-of-war-4-creative-director-says-making-a-new-entry-for-a-series-with-so-much-lore-was-a-huge-challenge-but-games-workshop-stepped-in-to-help-there-are-too-many-cool-things-in-the-universe
+https://www.gamespot.com/reviews/the-zelda-ocarina-of-time-remake-shows-that-a-masterpiece-is-ageless
+https://www.gematsu.com/2026/11/console-archives-elevator-action-launches-november-5
+https://www.dexerto.com/gaming/uk-plans-to-restrict-voice-chat-in-games-for-under-16s-3424655
+https://www.tomshardware.com/software/applications/disgruntled-software-developers-start-ambitious-open-source-revolt-using-ai-to-clone-common-services-occupysaas-ai-powered-project-wants-to-kick-auth0-salesforce-and-other-pricy-service-as-software-to-the-curb
+https://wccftech.com/intel-ceo-lip-bu-tan-warns-safeguarding-thousand-millions-of-ai-agents-from-unauthorized-actions-is-a-key-challenge-of-the-ai-wave
+https://www.techradar.com/pro/gmktec-evo-x5-pro-mini-pc-review
