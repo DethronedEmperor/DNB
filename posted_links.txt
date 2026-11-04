@@ -1,10 +1,3 @@
-https://www.videogameschronicle.com/news/microsoft-has-offered-a-quarter-of-its-entire-workforce-redundancy
-https://www.rockpapershotgun.com/mass-effect-was-my-ultimate-white-whale-journey-composer-shares-20-minutes-of-music-created-during-talks-to-work-on-biowares-recently-cancelled-rpg
-https://www.tomshardware.com/tech-industry/big-tech/60-000-microsoft-employees-offered-voluntary-buyouts-as-ai-buildout-costs-bite-program-covers-roughly-27-percent-of-workforce-across-us-canada-india-and-the-uk
-https://wccftech.com/ubisoft-farewell-to-assassins-creed-black-flag-resynced-final-1-0-8-patch
-https://www.kitguru.net/gaming/mustafa-mahmoud/pve-extraction-shooter-active-matter-has-sold-half-a-million-copies-so-far
-https://insider-gaming.com/new-dmz-pvp-content-season-1-claimed
-https://www.techpowerup.com/354169/team-group-ace-8k-microsdxc-card-delivers-stable-performance-for-8k-video-capture
 https://wccftech.com/security-researcher-claims-samsung-smart-tvs-use-ai-to-monitor-audio-screenshots-and-viewing-habits-for-targeted-ads
 https://www.techradar.com/pro/ai-success-depends-on-business-outcomes-not-usage-vanity-metrics
 https://overclock3d.net/news/misc/tsmc-to-bring-back-sram-scaling-with-its-a14-node
@@ -2498,3 +2491,10 @@ https://www.tomshardware.com/tech-industry/cyber-security/certified-android-tv-m
 https://www.techpowerup.com/354456/asus-republic-of-gamers-announces-rog-xg-station-3-with-thunderbolt-5
 https://wccftech.com/gta-6-pc-release-date-nvidia-dlss-5-realistic
 https://www.techradar.com/gaming/the-legend-of-zelda-ocarina-of-time-review
+https://www.gamespot.com/videos/the-zelda-ocarina-of-time-remake-shows-that-a-masterpiece-is-ageless-review
+https://www.videogameschronicle.com/guide/dd2-dark-arisen-delicious-in-dungeon-collab-items-bonuses
+https://www.dexerto.com/entertainment/reddit-testing-new-feature-that-puts-ads-in-search-results-3424617
+https://www.tomshardware.com/desktops/gaming-pcs/save-usd300-on-this-1440p-gaming-pc-with-a-9800x3d-and-rtx-5070-right-now-pre-built-cyberpowerpc-machine-ships-with-32gb-ddr5-and-a-2tb-ssd-for-just-usd2-199-99
+https://www.techpowerup.com/354455/nvidia-dlss-5-arrives-in-hogwarts-legacy-war-thunder-and-where-winds-meet-promising-impressive-performance-boost
+https://wccftech.com/amds-rx-9070-xt-sees-over-50x-fps-boost-and-nearly-90-lower-ray-tracing-memory-usage-with-new-directx-technology
+https://www.techradar.com/gaming/warhammer-40-000-dawn-of-war-4-creative-director-says-making-a-new-entry-for-a-series-with-so-much-lore-was-a-huge-challenge-but-games-workshop-stepped-in-to-help-there-are-too-many-cool-things-in-the-universe
