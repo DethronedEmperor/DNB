@@ -1,9 +1,3 @@
-https://www.gamespot.com/videos/should-you-play-the-wolf-among-us-remastered
-https://www.videogameschronicle.com/news/capcom-has-temporarily-delisted-street-fighter-5-and-turned-off-its-servers-as-it-works-on-php-security-issue
-https://insider-gaming.com/canceled-transformers-games-final-trailer-surfaces-online
-https://www.dexerto.com/entertainment/marathon-runners-left-stranded-after-all-their-cars-vanish-during-race-3422116
-https://www.gamespot.com/articles/star-trek-enters-magic-the-gatherings-secret-lair-next-month-here-are-the-cards
-https://www.dexerto.com/valorant/valorant-13-09-update-brings-hush-as-new-agent-and-buff-ability-changes-3422128
 https://www.tomshardware.com/video-games/playstation/hacker-awarded-usd50k-bounty-for-reporting-bug-to-sony-that-allowed-ps5-linux-exploit-move-sparks-backlash-from-jailbreaking-community
 https://wccftech.com/total-war-shogun-2-gets-massive-performance-boosts-with-new-mod-up-to-50-higher-fps-in-battles-and-even-bigger-gains-on-campaign-map
 https://www.techradar.com/pro/security/over-525-000-hit-in-massive-university-of-copenhagen-data-breach
@@ -2498,3 +2492,9 @@ https://www.dexerto.com/entertainment/delivery-driver-goes-viral-throwing-coffee
 https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments
 https://wccftech.com/nvidia-app-quietly-adds-gpu-prioritization-controls-but-the-new-feature-isnt-available-to-everyone
 https://www.techradar.com/entertainment/basketball/how-to-watch-ncaa-college-basketball-2026-27
+https://www.ign.com/articles/rings-of-power-blade-runner-2099-most-anticipated-tv-shows-movies-streaming-in-november
+https://insider-gaming.com/tenz-competitive-valorant-next-year-with-t1
+https://www.eurogamer.net/nintendo-switch-2-cartridge-macronix-ending-rom-manufacturing
+https://www.dexerto.com/food/kfc-reveals-avengers-doomsday-menu-with-black-burgers-green-mayo-and-doom-dust-3424689
+https://www.tomshardware.com/tech-industry/cyber-security/php-vulnerability-post-mortem-reveals-bug-was-known-two-years-ago-small-team-of-maintainers-knew-of-the-issue-before-it-was-made-public-as-new-php2shell-chained-exploit-ravages-servers
+https://www.techradar.com/phones/honor-phones/honor-leak-points-to-smartphone-with-guaranteed-week-long-battery-life-15-000mah-battery-could-provide-taste-of-classic-nokia-longevity
