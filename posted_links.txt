@@ -1,10 +1,3 @@
-https://www.techradar.com/pro/ai-isnt-replacing-thinking-its-changing-where-we-need-to-think
-https://www.gamespot.com/articles/pokemon-unite-is-shutting-down-after-nearly-six-years
-https://insider-gaming.com/the-division-franchise-hits-50-million-lifetime-players-milestone
-https://www.dexerto.com/entertainment/dollar-general-sued-for-overcharging-customers-on-1-items-3422106
-https://www.tomshardware.com/tech-industry/artificial-intelligence/open3dlab-accuses-roblox-of-downloading-145gb-of-3d-assets-for-ai-training-purposes-automated-crawler-ignored-site-rules-to-grab-over-1-000-files-including-adult-content-during-scraping-spree
-https://www.techradar.com/computing/mics-speakers/logitech-yeti-2
-https://www.ign.com/articles/riftbounds-new-radiance-booster-set-brings-an-awesome-new-music-component-to-the-league-of-legends-tcg
 https://www.rockpapershotgun.com/stalker-2s-latest-update-expands-its-a-life-npc-simulation-bubble-seemingly-without-a-scary-performance-tax
 https://wccftech.com/ea-never-understood-bioware-jennifer-hale-mark-darrah-fans-cd-projekt-save-mass-effect
 https://www.techradar.com/computing/windows/windows-11s-built-in-internet-speed-test-is-getting-a-divorce-from-bing-and-its-about-time
@@ -2498,3 +2491,10 @@ https://www.pcgamer.com/hardware/processors/amd-says-its-going-to-beat-intel-in-
 https://insider-gaming.com/zelda-ocarina-of-time-remake-reviews-are-in
 https://www.tomshardware.com/networking/cloudflare-engineers-optimize-dns-build-services-for-twice-the-speed-and-85-percent-lower-ram-usage-finer-grained-processes-only-do-work-and-data-movement-thats-needed
 https://www.techradar.com/tech/uk-policing-minister-promises-new-facial-recognition-camera-laws-after-criticism-of-alarming-escalation-government-admits-we-have-to-use-it-proportionately
+https://www.ign.com/articles/the-elder-scrolls-6-sentinel-timeline
+https://www.eurogamer.net/halo-destiny-composer-martin-o-donnell-projected-lose-us-congress-race
+https://www.dexerto.com/gaming/winnie-the-pooh-turned-into-anime-girl-for-new-psychological-horror-game-3424702
+https://www.tomshardware.com/tech-industry/cryptocurrency/binance-heist-began-with-fake-job-interviews-and-a-malicious-homebrew-download-attackers-used-adulterated-software-and-social-engineering-to-gain-access-to-billions-in-assets
+https://wccftech.com/open-source-project-renders-windows-11-on-npu-2fps-performance
+https://www.techradar.com/pro/canva-reveals-major-restructuring-potentially-affecting-over-a-thousand-jobs
+https://overclock3d.net/news/misc/intel-14a-moves-closer-to-production-with-pdk-0-9
