@@ -1,7 +1,3 @@
-https://www.techradar.com/pro/why-less-data-means-improved-security-for-businesses
-https://www.videogameschronicle.com/news/dead-by-daylight-studio-says-removed-characters-like-chucky-pinhead-and-michael-myers-have-an-open-invitation-to-return
-https://insider-gaming.com/world-war-z-viral-state-update-gta-6
-https://www.tomshardware.com/pc-components/sound-cards/usd4-700-audiophile-grade-network-hub-promises-a-noise-free-experience-and-music-with-emotional-impact-seven-isolation-stages-per-port-were-chosen-with-listening-comparisons
 https://wccftech.com/mario-kart-world-running-macos-iphone-18-pro-nintendo-switch-2-jailbreak
 https://www.techradar.com/pro/why-uk-marketers-need-mobile-grade-measurement-before-ai-can-deliver-on-roi
 https://insider-gaming.com/optic-finish-prestige-race-mw4-mock-kd-sbmm
@@ -2498,3 +2494,7 @@ https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-full-eng
 https://wccftech.com/playstation-profit-record-quarter-ps5-shipments-drop
 https://www.ign.com/articles/adam-driver-confirms-his-role-in-heat-2-comments-on-recent-michael-mann-shooting
 https://www.eurogamer.net/steam-games-approvals-delayed-valve-response
+https://www.videogameschronicle.com/news/nintendo-switch-2-sales-have-dropped-37-but-its-still-comfortably-beating-the-original-console
+https://www.eurogamer.net/playstation-6-sony-financials-2026-hardware
+https://wccftech.com/nintendo-switch-2-lower-sales-higher-revenue
+https://overclock3d.net/news/misc/amd-expects-a-significant-pc-sales-decline-as-higher-costs-hit-the-market
