@@ -1,7 +1,3 @@
-https://www.techpowerup.com/354204/pocketpair-eager-for-nintendo-switch-2-port-despite-pokemon-lawsuit-drama
-https://www.ign.com/articles/blade-runner-2099-the-board-game-will-feature-a-different-story-than-the-tv-series
-https://wccftech.com/palit-says-galax-is-going-nowhere-continues-to-operate-as-usual
-https://www.techpowerup.com/354205/discord-makes-content-on-discoverable-servers-searchable-on-google-and-other-search-engines
 https://www.techpowerup.com/354204/despite-lawsuit-drama-pocketpair-wants-to-bring-palworld-to-nintendo-switch-2
 https://wccftech.com/sk-hynix-memory-shortages-to-persist-through-2030-despite-expansion
 https://wccftech.com/oracle-cloud-infrastructure-brings-nvidia-amd-intel-google-cerebras-sambanova-broadcom-under-one-massive-cloud-roof
@@ -2498,3 +2494,7 @@ https://www.gamespot.com/articles/nintendo-explains-how-it-made-the-zelda-ocarin
 https://www.gamespot.com/videos/ocarina-of-time-original-vs-remake-comparison
 https://www.gamespot.com/articles/how-zelda-ocarina-of-time-benefits-from-a-glaringly-obvious-tactic-that-few-game-devs-follow
 https://www.dexerto.com/roblox/ragdoll-sandbox-codes-3424970
+https://www.gamespot.com/articles/nintendo-wanted-ocarina-of-time-to-feel-better-in-the-remake-not-just-different
+https://www.gematsu.com/2026/11/damon-and-baby-free-update-rise-of-the-oracle-announced-alongside-switch-2-version
+https://www.dexerto.com/youtube/edp445-arrested-and-charged-with-sex-crimes-after-documentary-revived-cupcake-sting-interest-3424958
+https://www.techpowerup.com/354491/intel-releases-arc-gpu-graphics-drivers-101-9175-whql
