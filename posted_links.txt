@@ -1,5 +1,3 @@
-https://www.guru3d.com/story/nvidia-geforce-hotfix-62112-targets-rtx-50-video-freezes-and-black-screens
-https://www.techradar.com/gaming/planet-zoo-2-review
 https://www.guru3d.com/story/xpg-core-reactor-iii-psu-monitors-its-connection-and-can-cut-power
 https://www.techpowerup.com/354178/g-skill-and-newegg-offer-limited-time-amd-ryzen-7-9800x3d-combo-deals-featuring-amd-expo-ull-ddr5-memory
 https://wccftech.com/zelda-tears-of-the-kingdom-native-pc-port-skybound-beta-fsr-ultrawide
@@ -2498,3 +2496,5 @@ https://www.gematsu.com/2026/11/switch-2-worldwide-sales-top-26-35-million-switc
 https://insider-gaming.com/take-two-ceo-faces-bizarre-question-not-enough-hits
 https://www.guru3d.com/story/arm-posts-billion-in-quarterly-revenue-and-raises-its-agi-cpu-ambition
 https://www.guru3d.com/download/cpu-z-download
+https://insider-gaming.com/take-two-addresses-ai-in-gta-6
+https://www.guru3d.com/download/intel-arc-graphics-driver-download-version-30-101-1325
