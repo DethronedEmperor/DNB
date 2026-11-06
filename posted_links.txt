@@ -1,5 +1,3 @@
-https://www.guru3d.com/story/synology-nas-devices-hit-by-l0ck3d-ransomware-campaign
-https://www.ign.com/articles/ramageddon-will-only-get-worse-in-2027-according-to-samsung
 https://www.gamespot.com/articles/wow-forever-controller-support-is-a-first-step-to-playing-the-mmo-on-whatever-you-want
 https://www.pcgamer.com/games/fps/destiny-2-unvaulting-update-it-sure-sounds-like-the-original-destiny-is-finally-coming-to-pc
 https://insider-gaming.com/dont-expect-a-destiny-announcement-bungie-says-about-the-game-awards
@@ -2498,3 +2496,5 @@ https://www.ign.com/articles/mass-effect-is-dead-but-the-official-bioware-store-
 https://www.gamespot.com/articles/we-bet-you-didnt-know-all-25-of-these-things-about-ocarina-of-time
 https://insider-gaming.com/call-of-duty-modern-warfare-4-dmz-mode-free-trial-on-all-platforms
 https://www.techpowerup.com/354550/discord-is-rebuilding-its-app-in-rust-early-build-uses-just-290-mb-of-ram
+https://www.ign.com/articles/dead-by-daylight-jumps-to-positive-ratings-after-steam-hides-off-topic-reviews-following-burntpeanut-backlash
+https://www.gamespot.com/articles/cod-warzones-new-intro-mode-lets-players-buy-a-nuke-which-isnt-very-beginner-friendly
