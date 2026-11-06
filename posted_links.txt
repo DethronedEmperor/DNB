@@ -1,7 +1,3 @@
-https://www.gematsu.com/2026/10/famitsu-sales-10-19-26-10-25-26
-https://www.dexerto.com/gaming/rare-donkey-kong-poster-sold-for-record-breaking-300000-after-almost-going-in-the-trash-3422792
-https://www.kitguru.net/components/cases/matthew-wilson/havn-debuts-new-and-improved-hs-360-and-hs-360-vgpu-pc-cases
-https://www.techradar.com/phones/iphone/need-a-new-case-for-your-iphone-18-pro-here-are-9-of-my-favorite-options-from-moft-casetify-apple-and-more
 https://www.guru3d.com/story/synology-nas-devices-hit-by-l0ck3d-ransomware-campaign
 https://www.ign.com/articles/ramageddon-will-only-get-worse-in-2027-according-to-samsung
 https://www.gamespot.com/articles/wow-forever-controller-support-is-a-first-step-to-playing-the-mmo-on-whatever-you-want
@@ -2498,3 +2494,7 @@ https://www.gamespot.com/articles/can-you-upgrade-to-gta-6s-100-edition-yes-and-
 https://insider-gaming.com/new-gta-6-screenshots-insanely-detailed-cars
 https://www.dexerto.com/gaming/nikke-players-told-to-scan-their-pcs-after-hackers-used-the-games-launcher-to-spread-malware-3425542
 https://www.techpowerup.com/354548/gog-announces-new-galaxy-launcher-for-linux-in-2027-with-faster-launching-for-macos-and-windows-also-coming
+https://www.ign.com/articles/mass-effect-is-dead-but-the-official-bioware-store-is-still-releasing-new-merch-for-n7-day
+https://www.gamespot.com/articles/we-bet-you-didnt-know-all-25-of-these-things-about-ocarina-of-time
+https://insider-gaming.com/call-of-duty-modern-warfare-4-dmz-mode-free-trial-on-all-platforms
+https://www.techpowerup.com/354550/discord-is-rebuilding-its-app-in-rust-early-build-uses-just-290-mb-of-ram
