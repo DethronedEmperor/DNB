@@ -1,11 +1,3 @@
-https://www.eurogamer.net/xbox-financials-sales-asha-sharma-microsoft
-https://www.tomshardware.com/tech-industry/cyber-security/fake-ps5-emulators-are-being-used-to-infect-gamers-computers-with-password-scraping-malware-two-well-known-github-repos-including-anyps5-hit
-https://wccftech.com/square-enix-dragon-quest-viii-ps2-visuals-and-3ds-content-unofficial-pc-port
-https://www.kitguru.net/gaming/mustafa-mahmoud/novembers-playstation-plus-essential-line-up-announced
-https://www.techradar.com/pro/why-ai-smart-glasses-need-a-privacy-first-approach
-https://www.pcgamer.com/hardware/phantom-blade-zero-dev-says-dont-get-the-latest-nvidia-drivers
-https://www.videogameschronicle.com/news/metroid-prime-trilogy-engineer-explains-why-he-thinks-the-motorcycle-sections-in-metroid-prime-4-were-just-a-waste
-https://insider-gaming.com/gta-6-lets-you-choose-what-kind-of-criminal-you-are
 https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-possum-nerf
 https://www.dexerto.com/gta/rumored-gta-6-actor-denies-claims-hes-playing-jason-3422645
 https://www.tomshardware.com/tech-industry/data-centers/fujifilm-plans-5x-production-boost-of-100tb-magnetic-storage-tapes-driven-by-ai-usd63-million-injection-is-the-largest-investment-in-tape-for-20-years
@@ -2498,3 +2490,11 @@ https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-c
 https://www.tomshardware.com/tech-industry/artificial-intelligence/tesla-unveils-ai-accelerator-roadmap-adopts-new-si-branding-in-super-intelligence-push-si6-to-bring-80x-more-compute-performance-dojo-3-headed-to-space
 https://www.techradar.com/live/news/early-black-friday-deals-2026-uk-live
 https://overclock3d.net/news/gpu-displays/msi-confirms-amd-fsr-4-1-upgrade-plans-for-its-claw-a8-handheld
+https://www.pcgamer.com/games/world-of-warcraft/wow-forever-is-working-on-its-server-tech-to-make-cities-less-empty-say-devs
+https://www.videogameschronicle.com/guide/all-inside-the-deku-tree-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2
+https://insider-gaming.com/all-brawlhalla-codes-rewards
+https://www.eurogamer.net/square-enix-nier-automata-update-required-file-size-366gb
+https://www.dexerto.com/gaming/ishowspeed-falls-for-zeldas-oldest-trick-in-the-book-in-ocarina-of-time-remake-3425376
+https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits
+https://wccftech.com/nvidia-vera-delivers-2x-the-agent-speed-of-amds-256-core-epyc-venice
+https://www.techradar.com/pro/the-progress-is-real-deloitte-report-claims-some-firms-are-finally-seeing-return-on-ai-investment-but-still-lack-insight-into-what-actually-works
