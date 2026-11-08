@@ -1,6 +1,3 @@
-https://www.tomshardware.com/pc-components/cpus/benchmarking-nvidias-vera-cpu-for-the-data-center-standalone-vera-tested-against-granite-rapids-ap-and-epyc-turin
-https://www.techpowerup.com/354312/qapla-captain-picard
-https://wccftech.com/crimson-desert-dlc-huge-ocean-map-underwater-exploration-naval-battles-dragons-destroying-ships
 https://www.kitguru.net/peripherals/monitors/matthew-wilson/msi-slashes-gaming-monitor-prices-in-early-black-friday-deals
 https://www.techradar.com/pro/the-ai-acts-longer-runway-is-an-opportunity-to-build-governance-that-lasts
 https://www.ign.com/articles/zelda-chief-eiji-aonuma-says-some-of-the-younger-members-of-the-ocarina-of-time-remake-team-had-never-played-the-original-game-and-thats-a-good-thing
@@ -2498,3 +2495,6 @@ https://www.tomshardware.com/maker-stem/pc-air-duster-motors-power-21-inch-diy-r
 https://www.techradar.com/audio/turntables/audio-technica-at-lp7x-review
 https://www.techpowerup.com/354580/this-week-in-gaming-week-46
 https://wccftech.com/asus-launches-xg-core-radeon-rx-9060-xt-lp-external-graphics-card
+https://www.videogameschronicle.com/guide/zelda-oot-remake-fishing-pond-sinking-lure-rewards
+https://www.tomshardware.com/video-games/pc-gaming/wow-forever-launch-used-70-480-cpu-cores-and-251-terabytes-of-ram-3-924-virtual-machines-powered-one-of-world-of-warcrafts-smoothest-launches-ever
+https://www.techradar.com/phones/ios/a-very-light-touch-form-of-censorship-the-iphone-has-a-gray-list-of-words-and-phrases-that-apple-wont-auto-complete-for-you
