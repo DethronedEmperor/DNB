@@ -1,6 +1,3 @@
-https://wccftech.com/rtx-5080-disappears-nvidia-marketplace-24gb-variant-coming
-https://www.kitguru.net/gaming/mustafa-mahmoud/fromsoftwares-the-duskbloods-has-been-delayed-to-2027
-https://www.techradar.com/pro/sovereignty-is-a-spectrum-and-not-a-one-size-fits-all-approach
 https://overclock3d.net/news/gpu-displays/earlier-than-expected-rtx-5080-24gb-launch-timing-leaks
 https://www.pcgamer.com/movies-tv/kane-parsons-believes-his-interpretation-of-the-backrooms-is-minor-cultural-shorthand-for-the-abstract-space-just-look-at-south-parks-recent-episode
 https://www.eurogamer.net/mouthwashing-movie-rights-sony-director
@@ -2498,3 +2495,6 @@ https://www.tomshardware.com/pc-components/ram/pcs-with-64gb-of-ram-plummet-18-p
 https://www.eurogamer.net/wow-forever-biggest-launch-world-of-warcraft-history-concurrent-players
 https://www.tomshardware.com/tech-industry/artificial-intelligence/two-chinese-companies-cleared-to-buy-banned-nvidia-ai-chips-have-empty-offices-and-unknown-addresses-investigation-reveals-businesses-have-ties-to-sanctioned-chinese-military-suppliers
 https://wccftech.com/amd-ryzen-7-9800x3d-drops-to-399-at-newegg
+https://www.pcgamer.com/games/the-elder-scrolls/this-massive-mod-essentially-turns-skyrim-into-a-persistent-mmo-where-player-actions-create-lasting-consequences
+https://www.eurogamer.net/among-us-missing-teen-rescued-utah-oregon
+https://www.tomshardware.com/tech-industry/data-centers/hundreds-arrested-after-microsoft-data-center-protest-turns-violent-stop-dirty-data-centers-coalition-demands-halt-to-ai-data-center-expansion-dutch-police-seize-break-in-tools-suspected-stolen-items-from-construction-site
