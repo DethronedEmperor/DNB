@@ -1,6 +1,3 @@
-https://www.ign.com/articles/legend-of-zelda-edition-nintendo-switch-pro-controller-deal-october-2026-updated
-https://www.techradar.com/pro/the-ai-data-center-race-is-now-a-race-to-power
-https://www.techpowerup.com/354311/intel-confirms-nova-lake-uses-18a-p-internal-node-more-details-at-ces
 https://wccftech.com/xbox-asha-sharma-record-minecraft-wow-forever-sales-circana-no-impact-initiatives
 https://www.tomshardware.com/pc-components/cpus/deadly-intel-fab-28-explosion-causes-two-week-shutdown-to-cost-usd600-million-and-severely-disrupt-server-chip-manufacturing-for-six-months-10nm-xeon-shipments-stall-during-largest-shortage-in-memory
 https://www.videogameschronicle.com/news/aaa-publishers-abusing-early-access-are-setting-unrealistic-expectations-say-deadhaus-sonata-leads
@@ -2498,3 +2495,6 @@ https://www.techpowerup.com/354574/cpu-z-data-shows-16-gb-ram-gaining-ground-whi
 https://www.techradar.com/pro/drones-can-now-be-tracked-down-by-mobile-networks-alone-could-this-new-ericsson-tech-spell-the-end-for-the-current-crop-of-flying-uavs
 https://wccftech.com/user-builds-frankenstein-homelab-stripping-old-msi-laptop-motherboard-wall-mount
 https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-8-november-2026
+https://www.techpowerup.com/354575/epic-games-names-steamos-among-planned-linux-targets-for-its-new-launcher
+https://wccftech.com/nvidia-custom-hbm-samsung-tsmc-3nm-base-die
+https://www.techradar.com/gaming/nyt-connections-today-answers-hints-8-november-2026
