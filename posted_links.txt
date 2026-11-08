@@ -1,6 +1,3 @@
-https://overclock3d.net/news/gpu-displays/rtx-mia-rtx-5080-disappears-from-nvidias-us-marketplace
-https://www.ign.com/articles/whats-new-on-paramount-plus-november-2026
-https://www.videogameschronicle.com/blog/podcast/podcast-we-pitch-xboxs-800-million-netflix-empire
 https://insider-gaming.com/gta-6-release
 https://www.eurogamer.net/crimson-desert-free-demo-xbox-playstation
 https://www.dexerto.com/entertainment/cinema-is-hypnotizing-fans-to-make-them-forget-their-favorite-movies-3423151
@@ -2498,3 +2495,6 @@ https://wccftech.com/nvidia-announces-a-board-investigation-into-a-purported-for
 https://www.pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chinese-spy-as-company-board-launches-investigation
 https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-admits-to-having-an-affair-with-suspected-chinese-spy-jensen-apologizes-in-letter-to-staff-company-board-forms-independent-committee-to-investigate
 https://www.ign.com/articles/best-deals-for-november-8-2026
+https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that
+https://insider-gaming.com/jensen-huang-suspected-chinese-spy-investigation
+https://www.techradar.com/pro/sam-altman-wont-like-it-bosgame-intros-mini-pc-with-192gb-ram-for-usd6-199-m5-max-has-a-ryzen-ai-max-pro-495-apu-plus-an-oculink-connector
