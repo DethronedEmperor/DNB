@@ -1,6 +1,3 @@
-https://www.techradar.com/seasonal-sales/argos-black-friday-sale-starts-now-ive-found-the-14-best-early-deals-on-dyson-shark-garmin-samsung-and-more
-https://www.ign.com/articles/star-trek-online-players-form-galaxy-class-honor-guard-to-pay-tribute-to-captain-picard-actor-sir-patrick-stewart
-https://insider-gaming.com/golden-joystick-awards-2026-all-award-nominees
 https://www.rockpapershotgun.com/helldivers-2-boss-can-absolutely-see-making-a-game-parody-of-generative-ai-but-it-would-need-to-be-quirky-rather-than-doom-laden
 https://wccftech.com/amd-to-implement-another-gpu-price-hike-in-november
 https://www.kitguru.net/tech-news/mustafa-mahmoud/silent-hill-townfall-update-adds-new-difficulty-mode-dlss-ray-reconstruction-and-more
@@ -2498,3 +2495,6 @@ https://www.kitguru.net/peripherals/keyboards/joao-silva/keychron-launches-four-
 https://www.pcgamer.com/games/sim/inspired-by-dark-messiah-and-thief-this-stealth-game-sees-you-sneak-through-a-medieval-megastructure-prowled-by-undead-guards
 https://www.tomshardware.com/peripherals/gaming-mice/logitech-g502-x-lightspeed-review
 https://www.kitguru.net/peripherals/monitors/joao-silva/msi-unveils-24-5-inch-1440p-360hz-gaming-monitor
+https://www.dexerto.com/entertainment/developer-creates-script-to-email-sam-altman-about-his-unused-ram-every-day-3425821
+https://www.tomshardware.com/pc-components/cooling/diamond-foundry-creates-worlds-first-200mm-single-crystal-diamond-wafer-massive-gem-aims-to-solve-ai-chip-cooling-crisis-envisioned-as-a-cooling-material-for-semiconductors
+https://www.kitguru.net/gaming/joao-silva/gog-galaxy-overhaul-planned-for-2027-with-linux-support
