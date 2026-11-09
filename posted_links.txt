@@ -1,5 +1,3 @@
-https://www.dexerto.com/entertainment/most-of-canada-is-ending-daylight-saving-clock-changes-and-it-will-affect-everyone-else-too-3422926
-https://www.techpowerup.com/354316/new-uefi-tool-lifts-nvidias-tensor-cap-on-rtx-20-to-40-series-cards-in-windows
 https://www.techradar.com/pro/security/chinese-hackers-build-php2shell-exploit-use-it-to-root-25-servers-breach-us-government-affiliated-firewalls
 https://www.gamespot.com/articles/new-assassins-creed-game-is-out-now-if-you-dont-mind-being-board
 https://www.videogameschronicle.com/news/activision-apologizes-and-says-it-will-remove-south-korean-crush-footage-from-modern-warfare-4-after-victims-families-speak-out
@@ -2498,3 +2496,5 @@ https://www.guru3d.com/story/cpuz-data-shows-a-yearoveryear-retreat-in-32gb-and-
 https://www.guru3d.com/story/microsoft-plans-a-major-windows-11-27h2-update-instead-of-windows-12
 https://www.guru3d.com/download/furmark-1-8-2
 https://www.guru3d.com/story/intel-razor-lakes-reportedly-targets-2028-and-may-retain-lga-1954
+https://wccftech.com/assassins-creed-hexe-delayed-2028-codename-mars-rome-leak
+https://www.guru3d.com/story/asus-lists-24gb-zenbook-16-air-snapdragon-model-at
