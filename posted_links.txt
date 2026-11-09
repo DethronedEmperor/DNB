@@ -1,6 +1,3 @@
-https://www.techradar.com/tech/icymi-the-7-biggest-tech-stories-of-the-week-including-apples-first-touchscreen-macbook-and-our-favorite-tech-of-2026
-https://www.ign.com/articles/avatar-seven-havens-finale-showrunners-ending-explained-biggest-questions
-https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked
 https://www.techradar.com/entertainment/football/watch-man-city-vs-brighton-premier-league-2026-27
 https://www.videogameschronicle.com/news/the-arduview-is-the-worlds-first-fully-transparent-handheld-including-the-screen
 https://www.tomshardware.com/video-games/retro-gaming/developer-builds-a-complete-intel-486-pc-emulator-in-a-browser-100-percent-pure-javascript-retro486-includes-modular-tabs-for-screen-motherboard-storage-expansion-cards-and-more
@@ -2498,3 +2495,6 @@ https://insider-gaming.com/sjokz-had-to-switch-worlds-hotel-room-after-criticisi
 https://www.rockpapershotgun.com/warhammer-40000-dark-heresy-releases-in-january-leaving-not-very-long-to-prepare-for-all-the-crunchy-crpg-choices-and-secret-wars-itll-lob-your-way
 https://wccftech.com/google-pairs-its-new-tpu-8tx-with-custom-amd-epyc-cpus-hosts-while-the-tpu-8i-max-combines-two-tpu-8i-chips-in-a-single-package-to-offer-phenomenal-compute-and-memory-density
 https://www.techradar.com/health-fitness/smartwatches/the-new-york-marathon-winner-wasnt-wearing-a-fancy-garmin-or-apple-watch-ultra-but-something-much-cheaper-heres-why-this-coros-model-is-a-great-running-watch-to-look-out-for-on-black-friday
+https://www.pcgamer.com/hardware/graphics-cards/jensen-huangs-affair-with-alleged-chinese-spy-highlights-how-the-gpu-companys-dealings-are-now-everyones-business
+https://insider-gaming.com/when-is-spotify-wrapped-coming-out
+https://www.techradar.com/pro/phone-communications/8849-tank-5-pro-review-the-rugged-projector-phone-that-can-project-light-and-see-heat
