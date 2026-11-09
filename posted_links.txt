@@ -1,12 +1,3 @@
-https://www.ign.com/articles/hbos-harry-potter-series-finds-its-sorting-hat-fat-lady-and-ghosts
-https://www.pcgamer.com/games/mmo/star-trek-online-players-are-holding-public-vigils-to-mourn-patrick-stewart
-https://www.dexerto.com/pokemon/pokemon-unveils-red-and-green-fender-guitars-with-special-8-bit-sound-feature-3423371
-https://www.techpowerup.com/353798/lattepanda-launches-lattepanda-sigma-2-the-embeddable-ai-single-board-server
-https://wccftech.com/amd-adrenalin-26-10-2-patches-driver-timeouts-and-crashes-on-radeon-rx-9000-7000-series
-https://www.techradar.com/pro/i-still-think-the-mac-mini-m4-is-the-best-small-form-factor-pc-in-the-world-and-its-usd150-off-at-best-buy
-https://www.ign.com/articles/baseus-blade-slim-power-bank-deal-october-2026
-https://www.eurogamer.net/blizzard-console-port-hints-world-of-warcraft-forever
-https://www.techradar.com/pro/the-geekom-air12-lite-is-the-kind-of-tiny-low-cost-pc-id-set-up-for-basic-browsing-and-email-and-its-usd269-at-best-buy
 https://www.ign.com/articles/pokemon-announces-newest-collab-and-its-withfender-guitars
 https://www.gamespot.com/articles/2027-upcoming-games-release-schedule
 https://www.pcgamer.com/games/new-pc-games-2027
@@ -2498,3 +2489,12 @@ https://www.dexerto.com/entertainment/hatsune-miku-and-umamusume-cars-crash-on-f
 https://www.tomshardware.com/tech-industry/huawei-develops-entirely-chinese-homegrown-desktop-pc-system-features-10-core-20-thread-kirin-x90-consumer-cpu-and-huaweis-own-harmonyos-operating-system-but-western-supply-chain-lingers
 https://wccftech.com/deep-tempest-ai-intercepts-hdmi-electromagnetic-leak-pc-screen-spying
 https://www.techradar.com/pro/this-represents-an-important-evolution-in-ai-governance-infosys-lays-out-how-your-business-can-thrive-with-the-new-generation-of-autonomous-ai-agents
+https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-designer-gives-the-most-succinct-summary-of-bethesdas-design-ive-ever-heard-youre-not-playing-my-game-im-making-your-game
+https://www.videogameschronicle.com/guide/zelda-oot-remake-full-gerudo-proving-grounds-walkthrough
+https://insider-gaming.com/was-iem-beijing-2026-victory-a-breakthrough-for-mouz
+https://www.rockpapershotgun.com/rockstar-were-definitely-thinking-about-giving-a-japanese-studio-the-keys-to-gta-says-former-tech-director-i-have-a-name-but-im-not-gonna-say-it
+https://www.dexerto.com/entertainment/viral-campaign-urged-people-to-push-chicagos-bean-to-help-man-trapped-inside-3426031
+https://www.tomshardware.com/pc-components/ram/spoof-program-monitors-and-emails-your-ram-usage-to-sam-altman-if-under-90-percent-utilization-ram-altman-logs-usage-and-reports-you-for-wasting-memory
+https://www.techpowerup.com/354591/microsoft-showcases-modernized-registry-editor-as-winui-3-sample
+https://wccftech.com/amdlss5-2-0-brings-faster-dlss-5-neural-rendering-to-radeon-gpus-claims-64-higher-fps
+https://www.techradar.com/computing/memory/tongue-in-cheek-app-writes-to-sam-altman-once-a-day-to-report-the-ram-he-missed-in-your-pc-following-openai-ceos-recent-blunder
