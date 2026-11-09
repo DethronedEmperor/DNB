@@ -1,4 +1,3 @@
-https://www.techradar.com/pro/security/chinese-hackers-build-php2shell-exploit-use-it-to-root-25-servers-breach-us-government-affiliated-firewalls
 https://www.gamespot.com/articles/new-assassins-creed-game-is-out-now-if-you-dont-mind-being-board
 https://www.videogameschronicle.com/news/activision-apologizes-and-says-it-will-remove-south-korean-crush-footage-from-modern-warfare-4-after-victims-families-speak-out
 https://www.dexerto.com/entertainment/chilis-restaurant-forced-to-close-after-serving-cleaning-chemicals-in-margaritas-3423205
@@ -2498,3 +2497,4 @@ https://www.guru3d.com/download/furmark-1-8-2
 https://www.guru3d.com/story/intel-razor-lakes-reportedly-targets-2028-and-may-retain-lga-1954
 https://wccftech.com/assassins-creed-hexe-delayed-2028-codename-mars-rome-leak
 https://www.guru3d.com/story/asus-lists-24gb-zenbook-16-air-snapdragon-model-at
+https://www.guru3d.com/story/seasonic-noctua-power-cables-reported-damaged-in-dual-rtx-pro-6000-workstation
