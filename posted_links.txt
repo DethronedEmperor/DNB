@@ -1,10 +1,3 @@
-https://www.dexerto.com/food/starbucks-wants-to-use-ai-to-personalize-drive-thru-menus-for-every-customer-3423386
-https://www.tomshardware.com/pc-components/gpus/nvidia-store-quietly-pulls-the-rtx-5080-following-rtx-5090-removal-street-prices-climb-to-2-2x-over-msrp
-https://www.techpowerup.com/354318/rtx-5080-vanishes-from-nvidias-us-marketplace-two-weeks-after-the-rtx-5090
-https://www.techradar.com/pro/oracle-co-founder-larry-ellison-thinks-ai-could-make-us-all-rich-through-a-universal-high-income-but-governments-will-need-to-change
-https://www.ign.com/articles/its-better-if-you-dont-have-many-expectations-hideki-kamiya-opens-up-on-okami-sequel
-https://www.gamespot.com/articles/high-stakes-higher-boots-here-are-horror-games-best-dressed-women
-https://insider-gaming.com/roblox-inside-brainrot-head-codes
 https://www.rockpapershotgun.com/warframes-fantasy-pilled-sister-soulframe-finally-goes-open-to-all-this-november-though-digital-extremes-are-nervous-about-certain-changes
 https://www.tomshardware.com/pc-components/cpus/intels-woes-wipe-out-usd1-trillion-of-semiconductor-market-cap-in-one-day-pc-market-bloodbath-leaves-few-chip-stocks-unscathed
 https://www.techpowerup.com/354329/hp-introduces-series-3-pro-34-inch-120hz-ultrawide-professional-monitor-with-90w-usb-c-power-delivery
@@ -2498,3 +2491,10 @@ https://www.eurogamer.net/ocarina-of-time-support-studios-confirmed-switch-2
 https://www.dexerto.com/gaming/ex-playstation-boss-says-ps6-needs-to-be-cheaper-not-more-powerful-3426042
 https://www.tomshardware.com/pc-components/cpus/grab-amds-fastest-mainstream-gaming-cpu-for-a-record-low-usd399-99-right-now-powerhouse-ryzen-7-9800x3d-chip-is-a-must-buy-upgrade-for-any-am5-gaming-pc-build
 https://wccftech.com/nvidias-lyra-2-0-turns-a-single-image-into-an-explorable-3d-world-with-persistent-environments-and-real-time-rendering
+https://www.ign.com/articles/selfridges-gta-6-takeover-varsity-jacket
+https://www.gamespot.com/articles/2027-upcoming-games-release-schedule
+https://insider-gaming.com/blast-eyes-2-million-deal-to-bring-cs2-major-to-las-vegas
+https://www.dexerto.com/pokemon/pokemon-winds-and-waves-reportedly-had-2026-launch-planned-before-last-minute-delay-3426027
+https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-builds-private-ai-server-with-eight-used-nvidia-v100-gpus-up-to-215-tokens-per-second-to-keep-legal-files-offline-costing-about-usd2-400-per-four-gpu-board
+https://www.techpowerup.com/354605/amd-confirms-excessive-ssd-writes-in-radeon-drivers-fix-coming-with-adrenalin-26-11-1
+https://wccftech.com/minisforum-brings-radeon-8060s-to-a-1559-t5-max-388-mini-pc
