@@ -1,11 +1,3 @@
-https://www.eurogamer.net/bloodborne-251-000-sales-in-2016-ps4
-https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineer-successfully-compiles-a-32-bit-risc-v-cpu-in-qwen-3-5-4b-llm-inserted-directly-into-its-weights-built-in-cpu-can-run-processor-arithmetic-operations-code-and-of-course-doom
-https://www.techradar.com/computing/windows/windows-11s-new-internet-speed-test-was-built-in-a-flash-by-agentic-ai-which-is-both-impressive-and-worrying
-https://www.ign.com/articles/elon-musk-joins-growing-backlash-over-openai-sam-altmans-ram-comments
-https://www.gamespot.com/articles/xbox-game-pass-is-losing-14-games-in-november
-https://www.pcgamer.com/games/card-games/monster-train-2-the-punished-review
-https://www.videogameschronicle.com/news/zelda-producer-aonuma-wanted-to-remake-ocarina-of-time-to-trigger-new-insights-in-the-teams-younger-developers
-https://insider-gaming.com/entire-furia-valorant-roster-enters-free-agency
 https://www.techradar.com/computing/memory/is-sam-altman-going-to-break-into-my-house-and-steal-my-ram-no-but-the-ai-memory-crisis-could-be-about-to-get-a-whole-lot-worse
 https://overclock3d.net/news/cpu_mainboard/amd-plans-rdna-5-gpu-architecture-for-early-2029
 https://www.ign.com/articles/niftski-breaks-super-mario-bros-world-record
@@ -2498,3 +2490,11 @@ https://www.techpowerup.com/354654/owc-upgrades-thunderbay-4-with-thunderbolt-5-
 https://wccftech.com/alleged-chinese-spy-alice-huang-flaunted-bond-nvidia-jensen-huang-7-5-billion-ai-gpu-network
 https://www.techradar.com/vpn/vpn-services/ipvanish-quietly-brings-quantum-resistant-wireguard-to-iphone-and-ipad-heres-all-we-know
 https://www.guru3d.com/review/nzxt-c1000-platinum-2026-psu-review
+https://www.pcgamer.com/games/call-of-duty/note-to-self-if-playing-call-of-duty-in-an-airport-dont-say-words-like-bomb-lest-you-want-to-evacuate-an-entire-plane
+https://insider-gaming.com/gta-6-most-pre-ordered-game-playstation-xbox
+https://www.rockpapershotgun.com/company-of-heroes-3-developer-admits-it-was-a-lot-to-make-the-30-overhaul-patch-alongside-regular-updates-singleplayer-dlc-and-a-whole-spinoff-game
+https://www.tomshardware.com/pc-components/cpus/amd-vp-and-chief-zen-architect-rebuke-claims-that-nvidia-and-arm-made-cpus-for-agentic-ai-we-didnt-magically-know-four-years-ago-that-agentic-was-going-to-be-a-thing
+https://www.techpowerup.com/354650/keychron-launches-g25-he-46-g-gaming-mouse-with-razer-viper-mini-shape-and-analog-switches
+https://wccftech.com/amd-mext-memory-solution-flash-repaces-dram-same-performance
+https://www.techradar.com/computing/websites-apps/get-you-out-of-your-device-and-back-to-your-vacation-disneys-new-ai-experiment-could-change-how-you-explore-disneyland-whether-youre-using-an-iphone-ray-ban-metas-or-airpods
+https://www.guru3d.com/story/amd-says-zen-6-delivers-its-biggest-performance-jump-since-the-original-zen
