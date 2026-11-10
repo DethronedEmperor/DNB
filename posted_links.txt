@@ -1,10 +1,3 @@
-https://www.dexerto.com/gaming/alanah-pearce-reveals-heartbreaking-meaning-behind-her-dispatch-characters-name-3423935
-https://wccftech.com/windows-11-can-now-reinstall-itself-from-the-cloud-even-when-the-os-fails-to-boot
-https://www.techradar.com/computing/gaming-pcs/this-is-genuinely-the-most-beautiful-setup-ive-seen-from-design-to-function-this-wooden-pc-could-be-the-neatest-gaming-rig-ever-made-with-a-surprising-hidden-trick
-https://www.gamespot.com/articles/we-finally-know-who-made-the-zelda-ocarina-of-time-remake
-https://www.videogameschronicle.com/news/classic-pc-strategy-game-dune-2-is-a-holy-grail-re-release-but-its-a-licensing-nightmare-gog-says
-https://insider-gaming.com/all-gta-6-locations-revealed-so-far
-https://www.dexerto.com/entertainment/supermarket-fridges-hacked-again-as-cyberattack-turns-them-up-to-122-degrees-3423916
 https://www.techpowerup.com/354406/steam-hardware-survey-old-leaders-return-as-16-gb-ram-and-rtx-3060-are-back-on-top
 https://wccftech.com/nvidia-rtx-5090-records-a-staggering-370-hike-in-price-since-launch
 https://www.kitguru.net/peripherals/monitors/matthew-wilson/msis-latest-oled-monitor-bundle-includes-some-of-the-biggest-games-of-the-year
@@ -2498,3 +2491,10 @@ https://www.dexerto.com/food/viral-steak-pop-up-shut-down-after-beef-with-neighb
 https://www.techpowerup.com/354655/firefox-160-releases-with-new-mini-floating-windows-and-ui-improvements
 https://www.kitguru.net/gaming/joao-silva/nacons-new-revo-controllers-bring-hall-effect-sticks-to-the-budget-market
 https://www.techradar.com/computing/gpu/nvidia-rtx-5080-to-cost-usd3-000-and-the-rtx-5070-ti-at-usd2-000-rumored-gpu-price-hikes-could-be-the-finishing-blow-for-high-end-pc-gaming-in-the-ram-crisis
+https://www.ign.com/articles/marathon-free-symbiosis-pve
+https://www.videogameschronicle.com/news/marvel-rivals-confirms-nightcrawler-and-dracula-as-playable-characters
+https://insider-gaming.com/nyt-connections-hints-solutions-november-11-1249
+https://www.dexerto.com/pokemon/pokemon-collectors-fear-fake-psa-slabs-after-aliexpress-sells-custom-labels-and-cases-for-any-card-3427092
+https://www.techpowerup.com/354660/amd-unveils-6th-gen-epyc-embedded-processors
+https://www.kitguru.net/components/graphic-cards/joao-silva/amd-investigating-radeon-driver-bug-causing-excessive-ssd-writes
+https://www.techradar.com/pro/workers-are-increasingly-looking-for-ways-to-hide-their-ai-usage-at-work
