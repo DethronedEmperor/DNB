@@ -1,9 +1,3 @@
-https://www.ign.com/articles/dune-messiah-book-1-adapts-frank-herberts-sci-fi-epic-to-comics
-https://www.gamespot.com/articles/what-went-wrong-with-league-of-legends-classic
-https://insider-gaming.com/zeus-hanwha-life-esports-hle-failed-renegotiation
-https://www.eurogamer.net/world-of-warcraft-forever-first-person-mod-rpg
-https://www.gematsu.com/2026/11/thief-the-dark-project-remastered-launches-december-3
-https://www.dexerto.com/gaming/prince-of-persia-fan-offers-ubisoft-5-8-million-to-finish-canceled-remake-3423945
 https://www.tomshardware.com/tech-industry/data-centers/america-hates-data-centers-new-database-reveals-more-than-90-percent-of-10-000-public-comments-are-negative-only-21-percent-mention-ai-73-percent-of-meetings-had-no-data-center-supporters-water-is-the-number-one-concern
 https://www.techpowerup.com/354404/amd-zen-7-grimlock-apus-to-feature-new-rdna-5-graphics-in-2029-leaker-claims
 https://wccftech.com/vendors-are-now-recommending-distributors-to-focus-on-older-rtx-30-series-and-amd-gpus
@@ -2498,3 +2492,9 @@ https://www.techpowerup.com/354658/otto-introduces-otto-one-the-personal-ai-comp
 https://wccftech.com/amd-epyc-embedded-9006-cpus
 https://www.kitguru.net/gaming/joao-silva/microsoft-explores-paying-users-for-idle-gpu-compute
 https://www.techradar.com/home/home-security/wyze-just-launched-a-smart-lock-that-you-can-install-in-moments-with-a-philips-screwdriver-plus-a-solar-security-camera-that-stays-charged-on-an-hour-of-sunlight-per-day-and-theyre-both-surprisingly-cheap
+https://www.ign.com/articles/playstation-plus-pc-app-will-go-offline-december-10-as-sony-continues-to-retreat-from-pc
+https://www.videogameschronicle.com/news/overwatch-brings-back-6v6-role-queue-following-player-feedback
+https://insider-gaming.com/lol-patch-26-23-preview-buffs-nerfs
+https://www.gematsu.com/2026/11/the-outer-worlds-2-dlc-side-effects-guaranteed-launches-december-2
+https://www.dexerto.com/entertainment/hidden-valley-ranch-will-pay-for-your-wedding-if-you-can-prove-your-love-for-ranch-3427137
+https://www.techradar.com/pro/security/hearing-aid-giant-amplifon-reveals-data-breach-hits-thousands-of-us-customers-social-security-numbers-and-medical-information-stolen
