@@ -1,12 +1,3 @@
-https://www.guru3d.com/story/galax-metal-master-t8-adds-a-sliding-center-fan-to-a-dualtower-cooler
-https://www.eurogamer.net/phantom-blade-zero-4-million-copies-steam-biggest-launch
-https://www.kitguru.net/tech-news/mustafa-mahmoud/sonys-bend-studio-will-reportedly-release-its-next-game-in-2027
-https://www.techradar.com/pro/everyone-should-be-building-with-ai-and-everyone-should-know-its-cost
-https://www.guru3d.com/story/ai-demand-is-now-also-tightening-pcb-supply-reported-lead-times-reaching-30-months
-https://www.techradar.com/pro/the-in-store-telemetry-blackout-costing-retailers-billions
-https://overclock3d.net/news/software/the-elder-scrolls-vi-has-been-named-sentinel-and-could-be-unveiled-soon
-https://www.guru3d.com/story/microsoft-previews-gpudriven-directx-raytracing-scene-updates
-https://www.ign.com/articles/yakuza-series-creator-toshiro-nagoshis-studio-has-officially-shut-down-before-releasing-a-game
 https://www.videogameschronicle.com/news/days-gone-developer-bend-studios-next-game-will-be-revealed-and-released-next-year-report-claims
 https://wccftech.com/elon-musk-rumored-to-soften-stance-on-tsmc-for-terafab-after-calling-it-a-subcontractor-at-best-with-operational-control-and-joint-investment-on-the-table
 https://www.techradar.com/pro/virgin-media-o2-reportedly-set-to-cut-thousands-of-jobs-in-a-bid-to-save-costs
@@ -2498,3 +2489,12 @@ https://www.eurogamer.net/digital-fairness-act-eu-europe-loot-boxes-regulation
 https://www.gematsu.com/2026/11/2d-action-platformer-isekizima-ruins-and-tails-journey-launches-january-19-2027-for-pc-later-for-switch
 https://www.dexerto.com/valorant/valorant-13-10-update-bring-sentinel-buffs-and-big-changes-to-assists-3426986
 https://www.techradar.com/ai-platforms-assistants/claude/it-feels-like-working-with-another-staff-level-engineer-anthropic-lifts-the-veil-on-the-latest-features-for-fable-5-2-and-mythos-5-2-built-for-the-most-ambitious-open-ended-technical-work-and-its-already-built-an-operating-system-from-scratch
+https://www.gamespot.com/articles/big-walks-ai-usage-was-tiny-but-its-disclosure-has-sparked-a-bigger-debate
+https://www.pcgamer.com/games/horror/how-silent-hill-townfalls-developer-created-a-fictional-town-thats-still-real-it-exists-its-there
+https://insider-gaming.com/rockstar-games-confirms-30-fps-on-console-all-ps5-pro-features
+https://www.rockpapershotgun.com/a-fight-for-all-workers-sag-aftra-throw-weight-behind-emerging-rockstar-union-ahead-of-its-gta-6-release-week-vote
+https://www.eurogamer.net/gta-6-30-fps-platforms-absolute-limit
+https://www.dexerto.com/call-of-duty/warzone-players-blocked-from-multiplayer-for-using-apps-to-find-easy-lobbies-3427019
+https://www.techpowerup.com/354644/grand-theft-auto-vi-runs-at-30-fps-ps5-pro-gets-pssr-and-ray-tracing
+https://www.techradar.com/audio/apple-music/dont-like-apple-musics-new-white-icon-me-neither-heres-how-to-get-the-classic-red-icon-back-on-your-iphone
+https://overclock3d.net/news/software/havn-launches-its-hs-420-mercedes-amg-petronas-f1-team-edition-pc-case
