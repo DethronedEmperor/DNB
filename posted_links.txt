@@ -1,9 +1,3 @@
-https://www.techradar.com/computing/memory/is-sam-altman-going-to-break-into-my-house-and-steal-my-ram-no-but-the-ai-memory-crisis-could-be-about-to-get-a-whole-lot-worse
-https://overclock3d.net/news/cpu_mainboard/amd-plans-rdna-5-gpu-architecture-for-early-2029
-https://www.ign.com/articles/niftski-breaks-super-mario-bros-world-record
-https://www.gamespot.com/videos/godzilla-destroy-all-monsters-melee-remastered-is-a-faithful-if-flawed-remaster-review
-https://www.pcgamer.com/games/third-person-shooter/arc-raiders-devs-have-used-a-music-sample-from-a-piano-in-chernobyl-that-someone-had-discovered-in-the-forbidden-zone
-https://insider-gaming.com/bend-studios-next-game-to-be-revealed-in-2027-its-claimed
 https://www.tomshardware.com/tech-industry/cyber-security/nvidia-brev-security-breach-may-have-exposed-ssh-keys-used-to-access-customer-vms-investigation-finds-unauthorized-activity-spanning-16-days-but-no-evidence-of-misuse
 https://wccftech.com/tsmcs-1-nanometer-manufacturing-site-likely-tipped-by-taiwans-minister-in-discussion-that-included-robots
 https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/work-crews-remove-120-defunct-flock-cameras-in-us-county-after-company-fails-to-fulfil-contractual-obligations
@@ -2498,3 +2492,9 @@ https://www.techpowerup.com/354650/keychron-launches-g25-he-46-g-gaming-mouse-wi
 https://wccftech.com/amd-mext-memory-solution-flash-repaces-dram-same-performance
 https://www.techradar.com/computing/websites-apps/get-you-out-of-your-device-and-back-to-your-vacation-disneys-new-ai-experiment-could-change-how-you-explore-disneyland-whether-youre-using-an-iphone-ray-ban-metas-or-airpods
 https://www.guru3d.com/story/amd-says-zen-6-delivers-its-biggest-performance-jump-since-the-original-zen
+https://www.ign.com/articles/legos-star-wars-battle-droid-with-stap-gets-early-black-friday-discount-at-amazon-of-40-off
+https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-is-the-most-pre-ordered-game-of-all-time-on-both-xbox-and-playstation
+https://insider-gaming.com/doomsday-begins-in-marvel-rivals-season-11-as-nightcrawler-dracula-are-unveiled
+https://www.techpowerup.com/354656/gxtrust-launches-volyx-ultra-lightweight-tri-mode-gaming-mouse
+https://wccftech.com/amd-verano-epyc-9006-lp-cpus-agentic-ai-up-to-192-cores-lpddr5x-memory
+https://www.techradar.com/pro/adobe-wants-you-to-spend-less-time-editing-and-more-time-creating-creative-cloud-opens-its-doors-to-third-party-ai-agents
