@@ -1,7 +1,3 @@
-https://www.techpowerup.com/354387/samsung-hosts-openais-sam-altman-for-ai-seminar-no-supply-deal-announced
-https://www.techradar.com/pro/google-is-building-nasa-a-robot-doctor-for-use-on-future-deep-space-missions
-https://www.ign.com/articles/petit-planet-switch-2-release-date
-https://insider-gaming.com/nyt-connections-hints-solutions-november-2-1240
 https://www.ign.com/articles/robert-downey-jr-and-pedro-pascal-swap-places-for-halloween-with-mister-fantastic-and-doctor-doom-costumes
 https://insider-gaming.com/all-gta-games-ranked-worst-to-best
 https://www.techpowerup.com/354388/microsoft-adds-cloud-rebuild-recovery-to-windows-11-in-latest-preview-update
@@ -2498,3 +2494,7 @@ https://www.gematsu.com/2026/11/hunger-launches-in-early-access-on-december-3
 https://www.tomshardware.com/software/linux/linus-torvalds-says-that-ai-fixes-drove-most-of-the-progress-in-latest-linux-kernel-bpf-saw-more-ai-written-fixes-than-bug-reports-possibly-indicating-a-tidal-shift-for-open-source-maintainers-tired-of-flood-of-junk-reports
 https://wccftech.com/asrock-rolls-out-new-rx-7900-xtx-vbios-after-previous-update-bricked-gpus
 https://www.techradar.com/computing/gpu/microsoft-patent-points-to-a-future-where-your-spare-gpu-resources-could-be-used-to-train-ai-but-windows-11-users-would-need-a-lot-of-convincing
+https://www.pcgamer.com/games/grand-theft-auto/rockstar-is-putting-on-a-last-minute-live-music-festival-featuring-travis-scott-and-cardi-b-to-celebrate-gta-6s-launch
+https://www.tomshardware.com/tech-industry/policy/president-trump-says-the-fbi-is-investigating-jensen-huangs-affair-nvidia-also-accused-of-intervening-in-megaspeed-chip-smuggling-investigation
+https://wccftech.com/zelda-ocarina-of-time-remake-online-multiplayer-mod-pc
+https://www.techradar.com/pro/the-telecoms-industry-needs-to-think-differently-about-climate-resilience
