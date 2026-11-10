@@ -1,5 +1,3 @@
-https://www.techradar.com/entertainment/tv-shows/how-to-watch-the-gilded-age-season-4
-https://www.techpowerup.com/354372/dragging-the-windows-taskbar-to-move-it-is-dead-and-thats-a-feature
 https://www.techradar.com/pro/anthropic-hiring-manager-says-he-stopped-giving-coding-interviews-because-claude-is-better-at-them-and-tells-junior-engineers-that-hunger-beats-tenure
 https://www.techpowerup.com/354373/over-80-of-robloxs-top-100-games-are-ai-asissted-topping-70-000-ai-games
 https://www.techpowerup.com/354374/days-gone-2-wont-be-bend-studios-next-game-slated-for-2027-launch
@@ -2498,3 +2496,5 @@ https://www.ign.com/articles/a-real-life-gta-6-car-is-being-sold-for-13-million
 https://www.pcgamer.com/games/grand-theft-auto/the-experiences-on-console-and-pc-tend-to-be-roughly-the-same-says-take-two-ceo-in-response-to-question-about-gta-roleplaying
 https://www.techpowerup.com/354629/dlss-5-on-radeon-gets-faster-with-amdlss5-2-0-up-to-64-performance-uplift
 https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-10-november-2026
+https://www.ign.com/articles/gta-6-caused-some-gamers-to-hold-off-on-buying-new-games-including-take-twos-own-nba-2k27-strauss-zelnick-says
+https://www.techpowerup.com/354616/gta-6s-playstation-store-data-hints-at-multiplayer-support
