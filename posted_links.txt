@@ -1,11 +1,3 @@
-https://www.tomshardware.com/tech-industry/cyber-security/nvidia-brev-security-breach-may-have-exposed-ssh-keys-used-to-access-customer-vms-investigation-finds-unauthorized-activity-spanning-16-days-but-no-evidence-of-misuse
-https://wccftech.com/tsmcs-1-nanometer-manufacturing-site-likely-tipped-by-taiwans-minister-in-discussion-that-included-robots
-https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/work-crews-remove-120-defunct-flock-cameras-in-us-county-after-company-fails-to-fulfil-contractual-obligations
-https://www.gamespot.com/reviews/godzilla-destroy-all-monsters-melee-remastered-is-a-faithful-if-flawed-remaster
-https://insider-gaming.com/star-wars-jedi-3-is-far-in-development
-https://www.eurogamer.net/anthropic-claude-generative-ai-game-clones-update
-https://www.tomshardware.com/laptops/macbooks/apple-finally-has-a-touchscreen-macbook-why-now
-https://www.techpowerup.com/354402/intel-wildcat-lake-powers-zotacs-new-fanless-zbox-mini-pcs
 https://www.techradar.com/pro/google-kills-off-jules-its-ai-coding-agent-which-promised-to-do-all-the-jobs-you-didnt-want-to
 https://www.gamespot.com/articles/gears-of-war-e-day-apparent-500-million-budget-may-not-tell-the-full-story-report
 https://insider-gaming.com/fortnite-pirate-token
@@ -2498,3 +2490,11 @@ https://insider-gaming.com/doomsday-begins-in-marvel-rivals-season-11-as-nightcr
 https://www.techpowerup.com/354656/gxtrust-launches-volyx-ultra-lightweight-tri-mode-gaming-mouse
 https://wccftech.com/amd-verano-epyc-9006-lp-cpus-agentic-ai-up-to-192-cores-lpddr5x-memory
 https://www.techradar.com/pro/adobe-wants-you-to-spend-less-time-editing-and-more-time-creating-creative-cloud-opens-its-doors-to-third-party-ai-agents
+https://www.ign.com/articles/ps5-prism-collection-dualsense-controllers-console-covers-where-to-buy
+https://www.pcgamer.com/software/windows/ms-has-messily-patched-a-microsoft-paint-security-vulnerability-but-the-update-still-isnt-showing-up-for-some
+https://insider-gaming.com/devolver-digital-reveals-its-first-aaa-game
+https://www.rockpapershotgun.com/nvidia-shareholders-have-filed-a-lawsuit-against-the-tech-company-over-claims-that-they-were-misled-regarding-ceo-jensen-huangs-affair
+https://www.dexerto.com/food/mcdonalds-new-chicken-sandwiches-are-so-popular-theyre-being-pulled-from-menus-3427093
+https://www.tomshardware.com/tech-industry/policy/microsoft-lobbies-against-potential-ban-on-chinese-optical-networking-gear-for-ai-data-centers-as-fcc-mulls-restricting-imports-industry-group-says-move-could-grind-data-center-rollout-to-a-halt
+https://wccftech.com/microsoft-vp-creates-open-source-gpu-task-manager-that-shows-exactly-whats-using-your-vram
+https://www.techradar.com/pro/security/new-bluephishing-scam-sees-criminals-spoof-ai-agents-to-get-access-to-corporate-environments
