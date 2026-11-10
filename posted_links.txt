@@ -1,6 +1,3 @@
-https://www.techradar.com/gaming/nyt-connections-today-answers-hints-1-november-2026
-https://www.ign.com/articles/input-lag-is-so-bad-in-call-of-duty-modern-warfare-4-on-nintendo-switch-2-that-players-suffer-from-a-competitive-disadvantage
-https://www.techpowerup.com/354377/the-elder-scrolls-vi-reportedly-titled-sentinel-set-in-hammerfell
 https://www.techradar.com/pro/this-truly-modular-keyboard-can-be-built-like-a-lego-set-meaning-you-can-add-as-many-keys-as-you-like
 https://www.ign.com/articles/save-mass-effect-graffiti-reportedly-spray-painted-outside-ea-building
 https://www.ign.com/articles/star-wars-actor-hayden-christensen-says-a-man-who-burgled-his-house-recognized-him-then-gave-his-stuff-back-mid-robbery
@@ -2498,3 +2495,6 @@ https://www.ign.com/articles/skydance-games-confirms-layoffs-following-warner-br
 https://wccftech.com/ai-9-hx-470-mini-pc-deal-229-off-vzmore-ax9-max-advanced-vapor-chamber-cooling-and-powerful-ai-performance
 https://www.ign.com/articles/the-dcu-and-james-gunns-batman-was-dead-before-it-was-even-born
 https://www.techradar.com/pro/amd-says-it-will-outsell-intel-for-the-first-time-in-its-history-as-epyc-and-instinct-sales-soar-on-ai-demand
+https://www.ign.com/articles/call-of-duty-facetime-chat-causes-plane-to-be-evacuated
+https://www.gematsu.com/2026/11/switch-2-and-switch-system-updates-version-23-5-0-now-available
+https://www.techpowerup.com/354630/microsoft-patent-describes-paying-pc-owners-to-train-ai-on-idle-gpus
