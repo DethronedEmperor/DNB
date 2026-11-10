@@ -1,13 +1,3 @@
-https://www.eurogamer.net/id-software-doing-great-losing-half-the-studio
-https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-mocks-openai-ceo-sam-altmans-claim-that-pcs-having-ram-is-terrible-the-people-deserve-to-have-their-ram-too
-https://wccftech.com/october-2026-steam-hardware-survey-16-gb-ram-reclaims-top-spot-intel-gains-cpu-share-linux-approaches-4
-https://www.techradar.com/tablets/ereaders/amazons-ask-this-book-feature-is-finally-rolling-out-to-kindles-but-certain-models-and-regions-may-be-excluded
-https://www.tomshardware.com/tech-industry/data-centers/spacex-loses-bid-to-dismiss-lawsuit-over-xai-data-center-pollution-judge-rules-mississippi-gas-turbines-are-not-exempt-from-the-clean-air-act
-https://wccftech.com/playstation-firmware-war-gta-6-firmware-requirements
-https://www.kitguru.net/desktop-pc/mustafa-mahmoud/phantom-blade-zero-launches-to-over-800000-concurrent-players-on-steam-alone
-https://overclock3d.net/news/gpu-displays/nvidia-hasnt-sent-rtx-5080-24gb-design-kits-to-partners-report-claims
-https://insider-gaming.com/kru-blaze-wins-valorant-game-changers-championship-2026
-https://www.rockpapershotgun.com/delve-into-a-deep-underground-facility-full-of-secrets-and-horrors-in-the-latest-fallout-4-quest-mod-from-the-commonwealth-story-expansion-project
 https://www.tomshardware.com/tech-industry/cyber-security/hackers-claim-to-have-stolen-23tb-of-data-from-russian-statistics-body-including-ukraine-war-casualty-figures-russian-federal-state-statistics-service-admits-its-servers-were-hit-by-coordinated-cyberattacks
 https://wccftech.com/nvidia-geforce-rtx-5080-24-gb-may-miss-january-2027-launch-as-board-partners-still-await-design-kits
 https://www.techradar.com/pro/bizarre-dell-pro-max-tower-t2-workstation-pricing-quirk-makes-it-cheaper-than-the-nvidia-blackwell-gpu-inside-it
@@ -2498,3 +2488,13 @@ https://wccftech.com/nvidia-ceo-huangs-troubles-send-shockwaves-across-ai-chip-s
 https://www.kitguru.net/gaming/matthew-wilson/gta-6-targets-30fps-with-ray-tracing-reserved-for-ps5-pro
 https://www.techradar.com/pro/claude-can-now-join-your-weekly-meeting-to-take-notes-and-even-start-work-for-you-and-thats-not-all-with-new-spreadsheet-whiteboard-tools-and-more-helping-conquer-the-world-of-frontier-work
 https://www.guru3d.com/story/amd-gfx13-linux-patches-show-nextgeneration-radeon-driver-work-advancing
+https://www.ign.com/articles/is-the-dc-cinematic-universe-just-cursed
+https://www.gamespot.com/articles/death-stranding-2-headlines-playstation-plus-game-catalog-for-november
+https://www.pcgamer.com/games/roguelike/i-fought-queens-and-knights-but-somehow-my-hardest-opponents-in-stack-order-the-next-great-deckbuilder-were-2-birds
+https://www.videogameschronicle.com/news/nintendo-is-hiring-someone-to-document-the-history-of-its-games
+https://insider-gaming.com/gta-6-ps5-vs-xbox-specs
+https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history
+https://www.gematsu.com/2026/11/playstation-plus-game-catalog-and-classics-catalog-lineup-for-november-2026-announced
+https://www.techpowerup.com/354651/arm-expands-its-portfolio-with-new-arm-cortex-m42-processors
+https://www.techradar.com/seasonal-sales/your-black-friday-cheat-sheet-to-all-the-biggest-tech-sales-tell-us-which-gadgets-youre-after-and-get-personalized-recommendations
+https://www.guru3d.com/story/nzxt-launches-h7-and-h5-cases-with-curved-glass-and-new-kraken-coolers
