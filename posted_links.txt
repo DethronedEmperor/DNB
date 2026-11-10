@@ -1,9 +1,3 @@
-https://www.techpowerup.com/354386/resizable-bar-comes-to-haswell-motherboards-thanks-to-a-community-uefi-driver
-https://www.techradar.com/entertainment/think-youre-a-james-cameron-superfan-prove-it-with-this-quiz
-https://www.ign.com/articles/heat-director-michael-mann-hospitalized-after-accidentally-shooting-himself-in-the-leg
-https://www.dexerto.com/entertainment/fanfiction-library-ao3-could-remain-offline-for-up-to-four-weeks-after-security-incident-3423732
-https://www.ign.com/articles/taika-waititi-blasts-critics-as-irrelevant-out-of-touch-obsolete-following-klara-and-the-suns-negative-reviews
-https://insider-gaming.com/zach-creggers-resident-evil-crosses-400m-worldwide
 https://www.techpowerup.com/354387/samsung-hosts-openais-sam-altman-for-ai-seminar-no-supply-deal-announced
 https://www.techradar.com/pro/google-is-building-nasa-a-robot-doctor-for-use-on-future-deep-space-missions
 https://www.ign.com/articles/petit-planet-switch-2-release-date
@@ -2498,3 +2492,9 @@ https://www.tomshardware.com/laptops/usd10-programmer-saves-bios-locked-lenovo-t
 https://wccftech.com/fromsoftware-the-duskbloods-closed-beta-pc
 https://www.kitguru.net/tech-news/mustafa-mahmoud/multiple-capcom-franchises-hit-new-sales-milestones
 https://www.techradar.com/pro/security/france-accuses-iran-of-supermarket-freezer-hacking-slams-the-first-cyber-offensive-campaign-carried-out-purely-for-the-purpose-of-sabotage-on-national-territory
+https://www.pcgamer.com/hardware/graphics-cards/law-firms-lining-up-for-a-chance-to-bop-nvidias-nose-on-behalf-of-its-own-shareholders-president-trump-says-fbi-are-sniffing-around-the-case
+https://insider-gaming.com/ea-sports-fc-27-update-v1-2-0-patch-notes
+https://www.gematsu.com/2026/11/hunger-launches-in-early-access-on-december-3
+https://www.tomshardware.com/software/linux/linus-torvalds-says-that-ai-fixes-drove-most-of-the-progress-in-latest-linux-kernel-bpf-saw-more-ai-written-fixes-than-bug-reports-possibly-indicating-a-tidal-shift-for-open-source-maintainers-tired-of-flood-of-junk-reports
+https://wccftech.com/asrock-rolls-out-new-rx-7900-xtx-vbios-after-previous-update-bricked-gpus
+https://www.techradar.com/computing/gpu/microsoft-patent-points-to-a-future-where-your-spare-gpu-resources-could-be-used-to-train-ai-but-windows-11-users-would-need-a-lot-of-convincing
