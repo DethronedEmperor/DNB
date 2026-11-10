@@ -1,11 +1,3 @@
-https://wccftech.com/acer-predator-27-inch-500-hz-oled-monitor-drops-to-499
-https://www.techradar.com/pro/security/ai-is-not-creating-the-problem-openai-ceo-sam-altman-says-ai-is-merely-uncovering-all-the-vulnerabilities-weve-accumulated-over-the-years
-https://www.pcgamer.com/gaming-industry/game-development/its-not-just-steam-new-game-pages-created-per-day-on-itch-io-has-doubled-in-the-last-two-months-with-ai-slop-the-likely-culprit
-https://www.dexerto.com/pokemon/pokemon-world-champion-selling-2022-championship-trophy-for-400000-3423697
-https://www.techradar.com/gaming/tales-of-eternia-remastered-review
-https://www.eurogamer.net/persona-1-remake-be-your-true-mind-leak
-https://www.dexerto.com/entertainment/woman-arrested-for-blocking-uber-delivery-robots-path-as-part-of-anti-robot-protest-3423687
-https://www.pcgamer.com/games/fps/an-absolute-behemoth-wildly-ambitious-fps-selaco-is-getting-a-massive-update-that-doubles-its-size-and-adds-a-heavy-machinegun-that-fires-literal-explosions
 https://www.pcgamer.com/games/composer-and-designer-lena-raine-explains-how-pigstep-altered-minecrafts-approach-to-music-the-prompt-i-keep-hearing-is-oh-pigstep-was-such-a-banger-that-they-want-more-bangers
 https://wccftech.com/sim-racing-expo-2026-someone-turned-a-real-audi-r8-lms-gt3-into-a-racing-simulator-and-its-for-a-good-cause
 https://www.techradar.com/home/coffee-machines/looking-for-a-non-toxic-coffee-maker-im-a-certified-barista-and-these-are-my-top-3-bpa-free-picks-for-great-taste-and-peace-of-mind
@@ -2498,3 +2490,11 @@ https://www.tomshardware.com/pc-components/ddr5/grab-32gb-ddr5-for-usd371-in-thi
 https://wccftech.com/msi-launches-meg-x-flagship-qd-oled-monitor-with-5th-gen-oled
 https://www.techradar.com/home/small-appliances/i-fell-in-love-with-ninjas-genius-belgian-waffle-maker-and-now-i-have-a-serious-out-of-control-waffle-problem
 https://overclock3d.net/news/software/amd-confirms-radeon-bug-causing-excessive-ssd-writes
+https://www.pcgamer.com/games/horror/phasmophobia-raises-over-usd200-000-for-charity-in-the-annual-ghost-hunts-for-hearts-collaboration-with-the-american-heart-association
+https://insider-gaming.com/bandai-namco-announces-reflector-entertainment-liquidation
+https://www.rockpapershotgun.com/following-site-wide-discussion-on-ai-use-nexus-mods-add-a-daily-limit-to-the-spots-in-the-new-mods-tab-one-person-can-hog-via-multiple-rapid-fire-uploads
+https://www.tomshardware.com/pc-components/external-ssds/seagate-resurrects-hybrid-storage-hands-on-with-the-firecuda-forge-8-or-20tb-external-hard-drive-requires-you-to-bring-your-own-nvme-ssd
+https://www.techpowerup.com/354639/rapidus-could-miss-2-nm-mass-production-timeline-amid-sram-issues
+https://wccftech.com/amd-radeon-driver-bug-degrades-ssd-health-atieclxx-excessive-writes
+https://www.kitguru.net/gaming/mustafa-mahmoud/street-fighter-6-is-500k-copies-away-from-becoming-the-best-selling-entry-in-the-franchise
+https://www.techradar.com/pro/ai-made-coding-faster-it-didnt-make-software-simpler
