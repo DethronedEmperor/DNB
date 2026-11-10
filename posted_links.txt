@@ -1,7 +1,3 @@
-https://www.techradar.com/phones/a-year-after-europes-repairability-rules-came-in-are-smartphones-and-laptops-actually-getting-easier-to-repair
-https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy
-https://wccftech.com/snapdragon-x2-elite-adreno-driver-32-0-181-0-slowdown-local-ai-premiere
-https://www.dexerto.com/twitch/valkyrae-calls-out-fans-demanding-she-play-gta-rp-instead-of-cs2-3423672
 https://www.tomshardware.com/tech-industry/drones/california-county-secures-autonomous-firefighting-drones-with-500-gallon-foam-payload-to-deal-with-wildfires-five-drone-strike-team-can-be-controlled-by-a-single-operator-conduct-nighttime-ops-and-access-difficult-terrain
 https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/big-car-energy-ive-driven-vws-new-id-polo-this-small-ev-nails-the-basics-and-finally-brings-back-physical-buttons
 https://www.tomshardware.com/tech-industry/cyber-security/lenovo-fingerprint-usb-stick-sold-as-aes-256-encrypted-had-a-plain-sd-card-inside-ai-assisted-follow-up-finds-a-backdoor-and-hardcoded-keys-in-other-secure-usb-products
@@ -2498,3 +2494,7 @@ https://www.rockpapershotgun.com/dont-be-fooled-by-horses-of-hoofprint-bays-hand
 https://www.gematsu.com/2026/11/nightmare-operator-to-be-published-by-shueisha-games
 https://www.techradar.com/gaming/original-mass-effect-composer-says-working-on-mass-effect-2s-suicide-mission-was-one-of-his-favorite-memories-working-at-bioware-probably-one-of-the-10-best-endings-for-a-video-game-ever
 https://www.guru3d.com/story/qnap-launches-a-24bay-dualcontroller-nvme-allflash-array
+https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-switch-2-best-week-sales
+https://www.techpowerup.com/354636/anthropics-fable-5-2-one-shots-a-playable-fps-game-in-just-8-hours
+https://www.kitguru.net/gaming/mustafa-mahmoud/gta-vi-appears-to-include-pssr-and-40fps-support-on-ps5-pro
+https://www.guru3d.com/story/ocypus-limitededition-360-mm-cooler-opens-its-pump-head-under-load
