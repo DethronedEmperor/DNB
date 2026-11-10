@@ -1,6 +1,3 @@
-https://www.tomshardware.com/tech-industry/drones/california-county-secures-autonomous-firefighting-drones-with-500-gallon-foam-payload-to-deal-with-wildfires-five-drone-strike-team-can-be-controlled-by-a-single-operator-conduct-nighttime-ops-and-access-difficult-terrain
-https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/big-car-energy-ive-driven-vws-new-id-polo-this-small-ev-nails-the-basics-and-finally-brings-back-physical-buttons
-https://www.tomshardware.com/tech-industry/cyber-security/lenovo-fingerprint-usb-stick-sold-as-aes-256-encrypted-had-a-plain-sd-card-inside-ai-assisted-follow-up-finds-a-backdoor-and-hardcoded-keys-in-other-secure-usb-products
 https://www.techradar.com/pro/marginal-gains-and-reliability-matter-everywhere-how-a-key-sap-upgrade-is-helping-mercedes-soar-to-formula-1-triumph-in-2026
 https://insider-gaming.com/how-to-pre-register-petit-planet-launch
 https://www.ign.com/articles/everyone-is-running-a-con-in-you-can-see-everything
@@ -2498,3 +2495,6 @@ https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-switch-2-best-week
 https://www.techpowerup.com/354636/anthropics-fable-5-2-one-shots-a-playable-fps-game-in-just-8-hours
 https://www.kitguru.net/gaming/mustafa-mahmoud/gta-vi-appears-to-include-pssr-and-40fps-support-on-ps5-pro
 https://www.guru3d.com/story/ocypus-limitededition-360-mm-cooler-opens-its-pump-head-under-load
+https://www.eurogamer.net/switch-2-and-switch-consoles-updated-to-version-2350-as-nintendo-quietly-re-introduces-eshop-gifting
+https://wccftech.com/nvidias-jensen-huang-now-faces-a-class-action-lawsuit-for-material-omission-and-misleading-conduct-in-his-extramarital-affair-with-alice-huang
+https://overclock3d.net/news/cpu_mainboard/intel-razor-lake-cpus-slated-for-2028-launch
