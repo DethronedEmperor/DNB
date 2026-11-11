@@ -1,11 +1,3 @@
-https://www.tomshardware.com/desktops/mini-pcs/amazon-closes-ai-creators-account-after-he-attempts-to-buy-seven-nvidia-dgx-spark-mini-pcs-epic-ceo-tim-sweeney-says-his-regular-orders-were-canceled-before-arrival-after-he-tried-to-buy-two-gpus
-https://wccftech.com/amds-biggest-pcie-graphics-card-surfaces-online-with-four-rx-470-gpus-and-32-gb-gddr5-memory
-https://www.kitguru.net/tech-news/mustafa-mahmoud/call-of-duty-modern-warfare-2-2009-appears-on-game-ratings-board
-https://www.techradar.com/pro/now-is-the-time-for-employers-to-be-open-about-what-they-track-and-why-employees-say-more-bosses-are-using-tracking-software-and-want-it-to-be-publicly-declared
-https://www.tomshardware.com/software/windows/developer-manages-to-run-windows-11-26h2-with-just-128mb-of-ram-just-3-1-percent-of-recommended-minimum-stripped-down-installation-can-access-desktop-file-explorer-and-notepad
-https://www.techradar.com/pro/beyond-the-hype-ai-not-for-ais-sake
-https://www.pcgamer.com/games/mmo/upcoming-final-fantasy-14-update-should-massively-cut-down-on-dungeon-queue-times
-https://www.rockpapershotgun.com/theres-always-a-night-when-rome-burns-south-of-midnight-director-says-that-xbox-funding-it-was-unsustainable-at-least-in-hindsight
 https://www.dexerto.com/entertainment/thieves-steal-5000-endangered-ants-from-nature-reserve-in-bizarre-theft-3424290
 https://www.techpowerup.com/354427/nvidia-geforce-rtx-50-series-scheduled-for-up-to-usd-500-price-hike-this-week
 https://wccftech.com/intel-might-discontinue-arc-b580-to-focus-on-higher-margin-ai-centric-products-such-as-arc-pro-b50
@@ -2498,3 +2490,11 @@ https://www.dexerto.com/entertainment/man-installs-outdoor-cooling-system-to-sto
 https://www.tomshardware.com/tech-industry/policy/congress-could-issue-subpoena-to-nvidia-ceo-jensen-huang-if-he-doesnt-respond-by-today-to-request-for-a-joint-closed-door-briefing-us-representatives-want-to-discuss-companys-security-protocols-against-foreign-adversary-espionage
 https://wccftech.com/fairgames-canceled-playstation-live-service
 https://www.techradar.com/pro/we-test-what-others-dont-do-sap-tells-us-how-it-is-helping-tsg-hoffenheims-football-journey-hit-new-heights-and-why-its-ai-efforts-in-sport-are-only-getting-started
+https://www.ign.com/articles/nintendo-switch-2-drops-to-all-time-low-price-of-309-in-early-black-friday-deal
+https://insider-gaming.com/elder-scrolls-sentinel-no-news-today-anniversary
+https://www.rockpapershotgun.com/lootboxes-pay-to-win-virtual-currencies-and-other-blights-unto-gaming-face-heavy-regulation-as-the-eu-tables-new-digital-fairness-act
+https://www.gematsu.com/2026/11/shade-of-the-marionette-the-story-of-piyorita-debut-trailer
+https://www.dexerto.com/entertainment/man-rushed-to-hospital-after-drying-his-hair-too-aggressively-3427328
+https://www.tomshardware.com/software/linux/cyanogen-co-founder-unveils-kora-a-linux-os-that-splits-ai-models-across-the-cpu-gpu-and-npu-snapdragon-x2-elite-and-hexagon-npu-get-full-support-first
+https://wccftech.com/amd-radeon-ssd-write-bug-gets-a-fix-from-necanditool
+https://www.techradar.com/audio/wireless-headphones/sony-wh-ch530-review
