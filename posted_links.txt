@@ -1,5 +1,3 @@
-https://www.techradar.com/ai-platforms-assistants/the-gruffalos-illustrator-is-seriously-considering-suing-ai-companies-so-i-tested-whether-chatgpt-and-gemini-would-recreate-his-famous-characters
-https://www.ign.com/articles/dead-by-daylight-developer-apologizes-again-removes-free-items-from-theburntpeanuts-account
 https://www.gamespot.com/articles/wow-forever-shamans-are-protesting-class-changes-after-being-completely-ignored
 https://www.rockpapershotgun.com/the-citadel-project-is-a-thief-inspired-dark-fantasy-survival-horror-lite-stealth-em-up-with-some-lovely-shadows-set-in-a-medieval-megastructure
 https://www.techradar.com/audio/speakers/wharfedale-denton-1s-review
@@ -2498,3 +2496,5 @@ https://www.ign.com/articles/dandys-world-1-0-update
 https://www.techradar.com/pro/today-i-learned-the-worlds-first-mass-produced-drone-was-built-by-a-hollywood-actor
 https://www.ign.com/articles/gta-6-fans-think-a-beloved-legacy-character-from-a-previous-game-is-hiding-in-the-latest-trailer
 https://overclock3d.net/news/misc/nvidia-prepares-to-oust-jensen-huang-as-ceo-report-claims
+https://www.ign.com/articles/henry-cavill-is-open-to-returning-as-superman-once-again
+https://www.pcgamer.com/software/ai/nvidia-ceo-jensen-huang-allegedly-had-a-second-affair-with-another-nvidia-exec
