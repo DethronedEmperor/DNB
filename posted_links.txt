@@ -1,9 +1,3 @@
-https://www.gematsu.com/2026/11/bill-teds-excellent-adventure-arcade-announced-for-ps5-xbox-series-switch-and-pc
-https://www.dexerto.com/gta/police-mock-man-for-missing-gta-6-after-dangerous-car-chase-leads-to-arrest-3424379
-https://www.tomshardware.com/3d-printing/bambu-lab-h3c-3d-printer-review
-https://wccftech.com/war-thunder-dlss-5-neural-rendering-4k-400-fps
-https://www.techradar.com/pro/security/traditional-cyber-defenses-alone-are-no-longer-sufficient-openai-is-raising-its-bug-bounty-rewards-for-security-researchers-as-ai-attack-worries-grow
-https://www.ign.com/articles/itch-deletes-a-couple-of-terabytes-of-ai-slop
 https://www.gamespot.com/articles/south-of-midnight-director-says-he-would-not-have-funded-the-game
 https://www.pcgamer.com/games/fps/the-overwatch-devs-hear-your-complaints-about-skin-distribution-but-concede-that-some-cosmetics-need-to-support-the-actual-bottom-line-business
 https://insider-gaming.com/dambi-leaves-nongshim-redforce-valorant
@@ -2498,3 +2492,9 @@ https://www.dexerto.com/entertainment/vigilante-called-the-templar-wears-medieva
 https://wccftech.com/katsuhiro-harada-criticizes-xbox-series-s-performance
 https://www.techradar.com/pro/women-in-tech-are-reporting-higher-levels-of-burnout-than-ever-before-with-ai-office-attendance-and-visibility-issues-all-blamed
 https://www.guru3d.com/story/amd-and-intel-publish-ace-v2-and-avx103-specifications
+https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-players-are-gathering-in-virtual-vigils-to-honour-the-passing-of-the-games-most-prestigious-bass-player
+https://www.videogameschronicle.com/news/fan-mod-beyond-skyrim-bruma-gets-huge-update-and-playstation-port
+https://www.rockpapershotgun.com/there-were-47-graphics-chip-makers-in-1998-where-did-they-all-go
+https://www.dexerto.com/entertainment/discord-teases-long-awaited-mobile-feature-as-it-prepares-major-app-upgrade-3427354
+https://www.tomshardware.com/video-games/pc-peripheral-maker-logitech-giving-all-of-its-7-000-employees-the-day-off-to-play-gta-6-company-announces-game-day-initiative-dedicated-vacation-day-to-play-video-games
+https://www.techradar.com/computing/internet/forget-broadband-buffering-chinese-researchers-use-hollow-core-fiber-to-send-64-terabits-of-data-per-second-across-626-miles-enough-to-download-160-4k-movies-a-second-and-cutting-latency-by-30-percent
