@@ -1,9 +1,3 @@
-https://www.videogameschronicle.com/guide/cod-mw4-multiplayer-best-meta-vel-46-build
-https://insider-gaming.com/the-elder-scrolls-6-sentinel-is-still-years-away
-https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-teaser-all-but-confirms-hammerfell-setting-and-means-we-can-finally-stop-using-that-eight-year-old-header-image-with-the-hills
-https://www.gematsu.com/2026/11/popucom-for-ps5-launches-november-17
-https://www.dexerto.com/gaming/indie-game-platform-itch-io-says-it-deleted-a-couple-terabytes-of-ai-slop-3424393
-https://www.tomshardware.com/tech-industry/data-centers/openai-introduces-program-to-reduce-ai-data-center-energy-demand-during-peak-hours-company-testing-grid-protectors-program-system-in-georgia
 https://www.techpowerup.com/354437/global-semiconductor-sales-increase-24-1-from-q2-2026-to-q3-2026
 https://wccftech.com/s-game-first-phantom-blade-zero-patch-difficulty-ray-traced-ambient-occlusion
 https://www.kitguru.net/gaming/matthew-wilson/the-elder-scrolls-vi-sentinel-revealed-in-new-teaser
@@ -2498,3 +2492,9 @@ https://www.dexerto.com/gaming/free-pc-game-lets-you-collect-pokemon-style-creat
 https://wccftech.com/windows-11-startup-apps-taking-forever-to-load-a-simple-registry-tweak-cut-one-users-wait-by-80
 https://www.kitguru.net/gaming/matthew-wilson/new-elgato-bundle-pairs-a-4k-capture-card-with-extra-ps5-storage-just-in-time-for-gta-6
 https://www.techradar.com/pro/security/model-weights-need-the-same-level-of-scrutiny-as-code-microsoft-researchers-find-ai-agents-can-be-backdoored-by-editing-just-a-few-neurons
+https://www.ign.com/articles/the-lego-up-scaled-santa-minifigure-has-hit-a-new-low-price-in-early-black-friday-deal-at-amazon
+https://insider-gaming.com/gta-6-surpasses-1-billion-presales
+https://www.eurogamer.net/gta-6-censored-japan-smaller-install-size
+https://www.dexerto.com/gta/gta-6-fans-fear-censored-content-as-file-size-is-smaller-in-certain-regions-3427438
+https://www.techpowerup.com/354704/nintendo-dmca-notice-takes-down-144-switch-modchip-firmware-repos-on-github
+https://www.techradar.com/computing/keyboards/corsair-skiff-100-review
