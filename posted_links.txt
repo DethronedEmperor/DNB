@@ -1,11 +1,3 @@
-https://www.dexerto.com/entertainment/thieves-steal-5000-endangered-ants-from-nature-reserve-in-bizarre-theft-3424290
-https://www.techpowerup.com/354427/nvidia-geforce-rtx-50-series-scheduled-for-up-to-usd-500-price-hike-this-week
-https://wccftech.com/intel-might-discontinue-arc-b580-to-focus-on-higher-margin-ai-centric-products-such-as-arc-pro-b50
-https://www.techradar.com/pro/wd-red-pro-18tb-nas-drive-deal-this-4-star-hard-drive-hits-the-sweet-spot-for-storage-expansion
-https://www.videogameschronicle.com/news/dead-by-daylight-studio-apologises-for-gifting-offensive-streamer-dlc-and-telling-them-we-can-take-the-heat
-https://insider-gaming.com/all-jason-lucia-romance-options-in-gta-6-explained
-https://www.eurogamer.net/itchio-generative-ai-filters-slop
-https://www.dexerto.com/gaming/publisher-blames-ai-slop-on-steam-as-their-game-only-gets-15-players-at-launch-3424285
 https://www.tomshardware.com/tech-industry/semiconductors/ai-chip-smugglers-exploit-trade-control-loophole-to-bring-banned-hbm-from-south-korea-into-china-expensive-memory-chips-packaged-with-cheap-unsanctioned-processors-to-become-legal-exports
 https://wccftech.com/29-year-xbox-veteran-shannon-loftis-call-xbox-clownship
 https://www.techradar.com/pro/when-ai-finds-the-path-you-didnt-know-existed
@@ -2498,3 +2490,11 @@ https://www.dexerto.com/entertainment/man-rushed-to-hospital-after-drying-his-ha
 https://www.tomshardware.com/software/linux/cyanogen-co-founder-unveils-kora-a-linux-os-that-splits-ai-models-across-the-cpu-gpu-and-npu-snapdragon-x2-elite-and-hexagon-npu-get-full-support-first
 https://wccftech.com/amd-radeon-ssd-write-bug-gets-a-fix-from-necanditool
 https://www.techradar.com/audio/wireless-headphones/sony-wh-ch530-review
+https://www.ign.com/articles/ps5-hits-100-million-units-sold-mark-6-years-after-launch-heres-how-it-compares-to-other-playstation-consoles
+https://www.videogameschronicle.com/news/nintendo-absolutely-hated-this-two-unrelated-games-called-piece-by-piece-are-launching-together-in-a-switch-bundle
+https://insider-gaming.com/all-gta-6-radio-stations-songs-full-soundtrack
+https://www.gematsu.com/2026/11/the-legend-of-zelda-ocarina-of-time-remake-sales-top-5-2-million-in-four-days
+https://www.dexerto.com/lego/lego-yoshi-set-for-adult-collectors-confirmed-by-nintendo-3427270
+https://www.tomshardware.com/video-games/nintendo/nintendo-unleashes-dmca-takedown-wave-against-open-source-switch-modchip-firmware-144-tools-disabled-picofly-sx-core-and-hwfly-among-casualties-following-criminal-trial-victory
+https://wccftech.com/microsoft-auto-sr-exits-preview-on-rog-xbox-ally-x-new-performance-mode-raises-fps-limit-to-120
+https://www.techradar.com/ai-platforms-assistants/our-industry-does-a-terrible-job-of-marketing-our-benefits-googles-former-ceo-eric-schmidt-thinks-ai-has-a-pr-problem-but-maybe-people-understand-it-just-fine
