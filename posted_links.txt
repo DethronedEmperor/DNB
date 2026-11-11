@@ -1,9 +1,3 @@
-https://www.techradar.com/pro/security/when-money-appears-out-of-nowhere-how-small-businesses-can-spot-and-stop-payment-scams
-https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-global-release-times
-https://insider-gaming.com/ubisoft-division-2-project-conflict-gta-6-launch
-https://www.dexerto.com/pokemon/pokemon-collector-reveals-660000-dream-card-was-actually-fake-3424266
-https://www.tomshardware.com/tech-industry/chinese-survey-ship-loitering-near-undersea-cable-ignores-philippine-demands-to-withdraw-evasive-action-point-to-growing-prc-threats-to-data-lines-in-the-pacific
-https://wccftech.com/remedy-control-resonant-1-million-sales-milestone
 https://www.techradar.com/computing/social-media/reddit-attacks-australias-inept-social-media-ban-as-the-government-says-its-pushing-back-against-sustained-ideological-attack
 https://www.dexerto.com/gaming/sony-wants-to-buy-your-ps5-for-up-to-400-if-youre-not-using-it-3424219
 https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim
@@ -2498,3 +2492,9 @@ https://www.dexerto.com/gta/gta-6-fans-convinced-iconic-gta-4-characters-cameo-h
 https://www.tomshardware.com/pc-components/gpus/asrock-attempts-to-correct-botched-radeon-rx-7000-firmware-release-with-new-version-revised-release-should-work-ok-but-company-provides-no-explanation-for-bricked-cards
 https://www.techradar.com/pro/ai-has-made-developers-more-powerful-than-ever-why-arent-they-happy
 https://overclock3d.net/news/misc/makera-teases-its-a1s-desktop-cnc
+https://www.ign.com/articles/elder-scrolls-oblivion-remastered-switch-2-physical-edition-in-stock
+https://www.gamespot.com/videos/this-game-is-stealing-all-my-free-time
+https://www.pcgamer.com/hardware/processors/amds-zen-6-gaming-cpus-might-be-absolute-monsters-by-the-looks-of-the-server-chips-and-theres-a-3d-v-cache-variant-to-keep-an-eye-on
+https://insider-gaming.com/modern-warfare-4-ranked-mode-coming-in-season-2
+https://www.tomshardware.com/tech-industry/data-centers/softbank-loses-usd3-7-billion-on-canceled-ai-data-center-gas-turbine-orders-days-after-denying-elon-musks-claim-it-was-defaulting-company-kills-reserved-13-gigawatts-of-power-more-than-six-hoover-dams-worth-of-capacity
+https://www.techradar.com/entertainment/tv-shows/how-to-watch-the-curse-of-oak-island-season-14-online-from-anywhere-for-free
