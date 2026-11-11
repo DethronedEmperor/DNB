@@ -1,9 +1,3 @@
-https://www.guru3d.com/story/msi-mag-276qr42-goes-retail-with-1440p-at-425hz
-https://www.guru3d.com/story/steam-october-survey-puts-the-rtx-3060-back-at-the-a-sampling-caveat
-https://wccftech.com/asus-gaming-monitor-stops-stray-bullet-saves-gamer-life
-https://www.guru3d.com/story/raspberry-pi-5-16gb-rises-to-as-memory-shortages-deepen
-https://www.eurogamer.net/sony-bend-studio-next-playstation-game-2027
-https://www.techpowerup.com/354427/nvidia-geforce-rtx-50-series-scheduled-for-a-price-hike-this-week-up-to-usd-500
 https://wccftech.com/south-of-midnight-director-david-sears-xbox-funding
 https://www.techradar.com/science/robotics/metas-rumored-humanoid-robot-is-another-ai-services-trojan-horse-and-this-is-how-you-end-up-paying-for-the-robot-and-ai-revolution
 https://overclock3d.net/news/gpu-displays/gpu-distributors-focus-on-rtx-3060-and-rtx-3050-as-rtx-50-shortages-deepen
@@ -2498,3 +2492,9 @@ https://insider-gaming.com/pgl-singapore-major-2026-opening-matchups
 https://wccftech.com/phantom-blade-zero-high-bar-s-games-next-update-nemesis-system-difficulty
 https://www.kitguru.net/desktop-pc/mustafa-mahmoud/sony-is-discontinuing-its-playstation-plus-streaming-app-on-pc
 https://www.techradar.com/phones/millions-of-uk-smart-meters-will-need-replacing-thanks-to-the-3g-and-2g-switch-offs-and-it-wont-be-cheap
+https://www.pcgamer.com/hardware/handheld-gaming-pcs/microsofts-own-upscaler-and-alternative-to-fsr-just-landed-on-xbox-ally-x-handhelds-actually-uses-an-npu-for-something-useful
+https://www.videogameschronicle.com/news/we-see-it-as-an-opportunity-indie-studios-releasing-games-this-month-explain-how-it-feels-to-go-up-against-gta-6
+https://insider-gaming.com/gta-6-physical-edition-unboxing-videos-show-off-poster-and-discless-case
+https://www.dexerto.com/entertainment/deer-rescued-after-spending-10-days-with-halloween-pumpkin-stuck-on-its-head-3427297
+https://www.tomshardware.com/pc-components/cpus/amd-shares-how-it-can-retain-95-percent-of-server-performance-with-just-half-the-dram-sidestepping-memory-shortages-with-mext-tech-powers-over-100-servers-already-running-with-plans-to-expand-to-2-000-servers-in-2027
+https://www.techradar.com/pro/chatgpt-is-adding-verified-business-agents-to-help-you-shop-more-effectively
