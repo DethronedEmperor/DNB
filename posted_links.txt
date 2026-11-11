@@ -1,9 +1,3 @@
-https://www.techradar.com/computing/social-media/reddit-attacks-australias-inept-social-media-ban-as-the-government-says-its-pushing-back-against-sustained-ideological-attack
-https://www.dexerto.com/gaming/sony-wants-to-buy-your-ps5-for-up-to-400-if-youre-not-using-it-3424219
-https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim
-https://wccftech.com/redditor-uses-deepseek-ai-to-unlock-amd-fluid-motion-frames-3-on-rdna-3-and-rdna-4-gpus-ahead-of-official-release
-https://www.techradar.com/gaming/warhammer-40-000-dawn-of-war-4-creative-director-says-king-art-borrowed-elements-from-dawn-of-war-2-and-3-for-heroes-upgrade-mechanics-and-ui-aspects-because-while-it-loves-the-first-game-its-also-over-20-years-old
-https://www.tomshardware.com/pc-components/ssds/corsair-has-slashed-usd180-off-its-blistering-mp700-se-gen-5-ssd-now-14-cents-per-gb-get-4tb-of-ssd-storage-for-usd579-the-cheapest-drive-on-the-market
 https://www.techpowerup.com/354098/techpowerup-x-chieftec-giveaway-win-cases-coolers-and-psus
 https://www.kitguru.net/tech-news/featured-tech-reviews/leo-waldock/cougar-duoair-review-glass-or-mesh
 https://www.techradar.com/computing/memory/apples-ceo-john-ternus-warns-ram-cost-increases-are-now-unprecedented-and-it-makes-me-fear-the-worst-for-further-mac-price-hikes
@@ -2498,3 +2492,9 @@ https://www.pcgamer.com/hardware/processors/amds-zen-6-gaming-cpus-might-be-abso
 https://insider-gaming.com/modern-warfare-4-ranked-mode-coming-in-season-2
 https://www.tomshardware.com/tech-industry/data-centers/softbank-loses-usd3-7-billion-on-canceled-ai-data-center-gas-turbine-orders-days-after-denying-elon-musks-claim-it-was-defaulting-company-kills-reserved-13-gigawatts-of-power-more-than-six-hoover-dams-worth-of-capacity
 https://www.techradar.com/entertainment/tv-shows/how-to-watch-the-curse-of-oak-island-season-14-online-from-anywhere-for-free
+https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-is-a-huge-success-for-nintendo-and-just-broke-a-switch-2-sales-record
+https://www.gamespot.com/articles/before-gta-online-gta-4-free-mode-was-the-best-playground
+https://www.pcgamer.com/hardware/gaming-keyboards/glorious-gmmk-eternal-review
+https://www.videogameschronicle.com/news/katsuhiro-harada-says-he-wishes-xbox-series-s-didnt-exist-because-its-like-doing-extra-work-for-a-slightly-weaker-child
+https://www.techradar.com/pro/security/cloud-hosting-firm-railway-says-recent-breach-leads-to-usd740-000-in-fraudulent-ai-charges
+https://www.guru3d.com/story/nvidia-reportedly-shelves-the-geforce-rtx-5080-24gb
