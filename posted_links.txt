@@ -1,5 +1,3 @@
-https://www.videogameschronicle.com/news/xboxs-first-wave-of-november-game-pass-releases-includes-vampire-crawlers
-https://www.kitguru.net/gaming/matthew-wilson/ubisoft-and-others-reportedly-make-offers-to-buy-arkane-studios
 https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/tesla-forced-to-rename-misleading-full-self-driving-technology-in-the-uk-and-europe-as-bmw-readies-its-own-automated-driving-rival-for-2027
 https://www.videogameschronicle.com/news/ubisoft-has-reportedly-offered-to-buy-arkane-lyon-from-xbox
 https://www.techpowerup.com/354445/gpu-prices-up-again-in-october-rtx-5090-now-sells-for-262-over-msrp-worldwide
@@ -2498,3 +2496,5 @@ https://www.techpowerup.com/354719/radeon-users-get-a-stopgap-open-source-fix-fo
 https://www.techradar.com/audio/earbuds-airpods/forget-waiting-for-black-friday-my-favourite-apple-earbuds-just-got-a-massive-aud130-discount
 https://www.ign.com/articles/2026-lego-star-wars-advent-stock-update-black-friday
 https://www.techradar.com/televisions/projectors/xgimi-elfin-flip-4k-review
+https://www.ign.com/articles/marvel-1943-rise-of-hydra-is-reportedly-close-to-done-though-at-the-cost-of-cutting-back-on-content-and-length
+https://www.techradar.com/pro/teams-are-moving-to-new-models-almost-as-fast-as-labs-release-them-vercel-data-reveals-ai-models-now-have-a-half-life-of-just-six-weeks-with-most-most-ai-traffic-running-on-models-less-than-two-months-old
