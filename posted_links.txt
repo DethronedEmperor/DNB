@@ -1,10 +1,3 @@
-https://www.eurogamer.net/halo-destiny-composer-martin-o-donnell-projected-lose-us-congress-race
-https://www.dexerto.com/gaming/winnie-the-pooh-turned-into-anime-girl-for-new-psychological-horror-game-3424702
-https://www.tomshardware.com/tech-industry/cryptocurrency/binance-heist-began-with-fake-job-interviews-and-a-malicious-homebrew-download-attackers-used-adulterated-software-and-social-engineering-to-gain-access-to-billions-in-assets
-https://wccftech.com/open-source-project-renders-windows-11-on-npu-2fps-performance
-https://www.techradar.com/pro/canva-reveals-major-restructuring-potentially-affecting-over-a-thousand-jobs
-https://overclock3d.net/news/misc/intel-14a-moves-closer-to-production-with-pdk-0-9
-https://insider-gaming.com/iem-beijing-playoffs-set-falcons-humiliated-as-navi-and-betboom-advance
 https://www.rockpapershotgun.com/fate-of-the-galaxy-is-a-huge-fully-featured-star-wars-space-combat-sim-that-thanks-to-being-a-total-conversion-mod-for-freespace-open-even-runs-on-my-rubbish-laptop
 https://www.dexerto.com/entertainment/delivery-driver-goes-viral-throwing-coffee-at-customer-after-delivering-it-to-her-3424709
 https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments
@@ -2498,3 +2491,10 @@ https://www.rockpapershotgun.com/the-hills-are-alive-with-the-sound-of-fury-a-fa
 https://www.dexerto.com/entertainment/spotify-finally-lets-users-turn-off-its-ai-dj-heres-how-3427731
 https://www.techpowerup.com/354735/ucie-consortium-advances-from-chiplet-connectivity-to-system-level-integration-with-ucie-4-0-specification
 https://www.techradar.com/pro/security/antifox-ai-agents-hijacked-by-hackers-to-carry-out-theft-of-aws-credentials
+https://www.ign.com/articles/paper-tiger-review
+https://www.pcgamer.com/hardware/fear-not-nvidians-the-man-who-wrote-the-book-on-nvidia-says-the-companys-success-doesnt-rely-on-jensen-huang
+https://www.gematsu.com/2026/11/grime-ii-coming-to-switch-2-switch-on-november-27-alongside-a-final-coda-update
+https://www.dexerto.com/roblox/do-not-stop-codes-3427673
+https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-it-would-be-an-honor-to-hire-ousted-nvidia-ceo-jensen-huang-possible-projects-could-include-terafab-spacexs-planned-gpu-manufacturing-or-teslas-ai-accelerators
+https://www.techpowerup.com/354736/axelera-ai-unveils-titania-architecture
+https://www.techradar.com/vpn/vpn-services/beyond-data-breaches-nordvpns-new-tool-promises-to-help-you-shrink-your-full-digital-footprint
