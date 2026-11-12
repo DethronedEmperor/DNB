@@ -1,5 +1,3 @@
-https://www.techradar.com/computing/gpu/the-probability-is-extremely-high-that-nvidias-rumored-rtx-5080-super-has-been-delayed-and-with-gpu-prices-rocketing-upwards-the-future-looks-bleak
-https://www.ign.com/articles/video-game-release-dates-ps4-ps5-xbox-one-series-x-nintendo-switch
 https://www.videogameschronicle.com/news/xboxs-first-wave-of-november-game-pass-releases-includes-vampire-crawlers
 https://www.kitguru.net/gaming/matthew-wilson/ubisoft-and-others-reportedly-make-offers-to-buy-arkane-studios
 https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/tesla-forced-to-rename-misleading-full-self-driving-technology-in-the-uk-and-europe-as-bmw-readies-its-own-automated-driving-rival-for-2027
@@ -2498,3 +2496,5 @@ https://www.techradar.com/pro/thailand-says-new-data-centers-cant-be-louder-than
 https://www.ign.com/articles/constantine-director-hopeful-for-sequel-after-dc-studios-shakeup
 https://www.techpowerup.com/354719/radeon-users-get-a-stopgap-open-source-fix-for-amds-ssd-write-bug
 https://www.techradar.com/audio/earbuds-airpods/forget-waiting-for-black-friday-my-favourite-apple-earbuds-just-got-a-massive-aud130-discount
+https://www.ign.com/articles/2026-lego-star-wars-advent-stock-update-black-friday
+https://www.techradar.com/televisions/projectors/xgimi-elfin-flip-4k-review
