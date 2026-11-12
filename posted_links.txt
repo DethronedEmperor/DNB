@@ -1,9 +1,3 @@
-https://www.tomshardware.com/pc-components/dram/micron-details-ambitious-dram-and-nand-roadmap-3d-nand-high-na-euv-new-materials-and-custom-silicon-makes-a-comeback
-https://www.techpowerup.com/354461/hp-inc-appoints-emma-walmsley-as-chief-executive-officer
-https://wccftech.com/chuwi-crams-intel-core-i9-14900hx-with-geforce-rtx-5060-inside-18-inch-gamebook-max-at-2099
-https://www.techradar.com/gaming/call-of-duty-modern-warfare-4-composer-says-to-capture-the-tone-of-multiplayer-maps-you-have-to-play-a-lot-of-multiplayer-as-its-a-completely-different-vibe-from-the-campaign-i-was-trying-to-capture-forward-momentum-and-pure-adrenaline
-https://www.gamespot.com/articles/steam-is-tightening-its-game-submission-rules-as-ai-slop-floods-the-store
-https://wccftech.com/lords-of-the-fallen-ii-combat-overhaul-epic-exclusivity
 https://www.techradar.com/pro/the-goal-cant-simply-be-ai-usage-new-report-finds-people-using-ai-are-working-up-to-90-minutes-extra-every-day
 https://www.guru3d.com/download/nvidia-geforce-62114-whql-driver-download
 https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course
@@ -2498,3 +2492,9 @@ https://www.techpowerup.com/354738/gigabytes-aorus-c510-glass-infinity-chassis-r
 https://wccftech.com/homelabber-runs-massive-2-8-trillion-parameter-ai-model-on-discontinued-intel-optane-memory-without-a-gpu
 https://www.techradar.com/entertainment/football/italy-vs-france-free-nations-league-2026-27
 https://overclock3d.net/news/gpu-displays/apex-compute-unveils-dlss-beating-apex-neural-rendering-anr-technologies
+https://www.ign.com/articles/pokemon-fan-who-spent-thousands-on-ai-tools-upset-as-anthropic-finally-begins-enforcing-copyright
+https://www.pcgamer.com/hardware/trump-says-the-only-man-who-should-replace-ex-nvidia-ceo-jensen-huang-is-tim-cook-of-apple-fame
+https://www.dexerto.com/entertainment/mayor-wins-really-weird-election-after-name-gets-picked-out-of-bag-3427740
+https://www.techpowerup.com/354742/silicon-motion-showcases-next-generation-enterprise-storage-solutions-at-sc26
+https://wccftech.com/red-dead-redemption-2-ray-tracing-cuts-rtx-5080-performance-4k
+https://www.techradar.com/computing/gpu/nvidia-is-now-in-a-post-jensen-huang-world-heres-why-that-could-be-a-disaster-for-pc-gamers
