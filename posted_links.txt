@@ -1,11 +1,3 @@
-https://wccftech.com/sony-wh-1000xm5-wireless-headphones-deal
-https://www.techradar.com/computing/cybercrime/hackers-target-french-blood-banks-in-latest-freezer-attack-as-uk-cybersecurity-chief-warns-of-sliding-doors-moment-for-unprecedented-threat
-https://www.ign.com/articles/nexus-mods-forces-mandatory-generative-ai-disclosures-and-filters
-https://www.pcgamer.com/hardware/processors/amd-says-its-going-to-beat-intel-in-total-revenue-for-the-very-first-time-by-the-end-of-2026
-https://insider-gaming.com/zelda-ocarina-of-time-remake-reviews-are-in
-https://www.tomshardware.com/networking/cloudflare-engineers-optimize-dns-build-services-for-twice-the-speed-and-85-percent-lower-ram-usage-finer-grained-processes-only-do-work-and-data-movement-thats-needed
-https://www.techradar.com/tech/uk-policing-minister-promises-new-facial-recognition-camera-laws-after-criticism-of-alarming-escalation-government-admits-we-have-to-use-it-proportionately
-https://www.ign.com/articles/the-elder-scrolls-6-sentinel-timeline
 https://www.eurogamer.net/halo-destiny-composer-martin-o-donnell-projected-lose-us-congress-race
 https://www.dexerto.com/gaming/winnie-the-pooh-turned-into-anime-girl-for-new-psychological-horror-game-3424702
 https://www.tomshardware.com/tech-industry/cryptocurrency/binance-heist-began-with-fake-job-interviews-and-a-malicious-homebrew-download-attackers-used-adulterated-software-and-social-engineering-to-gain-access-to-billions-in-assets
@@ -2498,3 +2490,11 @@ https://www.ign.com/articles/jensen-huang-resigns-as-nvidia-boss-amid-honeytrap-
 https://insider-gaming.com/xbox-ceo-asha-sharmas-full-memo-on-25-years-of-xbox
 https://www.dexerto.com/entertainment/man-buys-two-bedroom-apartment-for-just-1-70-in-chinas-black-friday-style-sale-3427680
 https://www.techradar.com/phones/fairphone-signs-first-us-carrier-partnership-making-the-easily-repairable-fairphone-6-plus-more-widely-available
+https://www.ign.com/articles/elon-musk-says-it-would-be-an-honor-to-hire-jensen-huang-as-the-nvidia-ceos-future-hangs-in-the-balance
+https://www.pcgamer.com/games/call-of-duty/conor-mcgregor-picked-up-and-flipped-a-call-of-duty-dev-during-the-making-of-infinite-warfare-i-wanted-him-to-do-something-really-physical-to-demonstrate-how-capable-he-is
+https://www.videogameschronicle.com/news/gta-6-map-seemingly-leaks-at-selfridges-merch-drop
+https://insider-gaming.com/gta-6-full-map-leak-online-from-collectors-box
+https://www.rockpapershotgun.com/the-hills-are-alive-with-the-sound-of-fury-a-fantasy-musical-hack-n-slash-about-weaponising-pianos-to-fight-the-devil
+https://www.dexerto.com/entertainment/spotify-finally-lets-users-turn-off-its-ai-dj-heres-how-3427731
+https://www.techpowerup.com/354735/ucie-consortium-advances-from-chiplet-connectivity-to-system-level-integration-with-ucie-4-0-specification
+https://www.techradar.com/pro/security/antifox-ai-agents-hijacked-by-hackers-to-carry-out-theft-of-aws-credentials
