@@ -1,8 +1,3 @@
-https://www.techradar.com/computing/mice/steelseries-rival-pro-review
-https://www.techradar.com/gaming/nyt-connections-today-answers-hints-4-november-2026
-https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-4-november-2026
-https://www.techradar.com/pro/major-pc-makers-are-shifting-production-back-to-china-as-costs-rise-hp-asus-among-firms-moving-work-in-efficiency-push
-https://www.techradar.com/pro/the-hidden-growth-opportunity-inside-uk-payment-operations
 https://www.techradar.com/entertainment/tv-shows/how-to-watch-awkwafina-the-unlikely-cook
 https://www.ign.com/articles/marvels-visionquest-episode-7-review-immolation
 https://www.techradar.com/entertainment/tv-shows/how-to-watch-the-greatest
@@ -2498,3 +2493,8 @@ https://www.kitguru.net/gaming/mustafa-mahmoud/sonys-ps5-has-officially-sold-ove
 https://www.eurogamer.net/marvel-1943-rise-of-hydra-not-cancelled-skydance-says
 https://www.tomshardware.com/desktops/gaming-pcs/save-usd350-on-this-all-amd-1440p-gaming-desktop-with-9800x3d-rx-9070-also-features-32gb-of-ram-and-a-1tb-ssd-for-just-usd1-949
 https://www.techradar.com/pro/security/hackers-are-more-excited-for-black-friday-than-uk-shoppers-but-not-for-the-same-reasons
+https://www.videogameschronicle.com/news/a-group-of-developers-laid-off-from-id-software-have-formed-new-studio-hidden-horses
+https://www.dexerto.com/gta/new-gta-6-gameplay-is-so-realistic-fans-cant-believe-its-not-real-life-3427610
+https://www.tomshardware.com/tech-industry/artificial-intelligence/google-adds-two-new-specialized-chips-for-ai-agents-and-security-to-8th-gen-tpu-lineup-tpu-8i-max-puts-two-chips-on-one-package-for-long-context-work-tpu-8tx-swaps-arm-hosts-for-amd-epyc
+https://wccftech.com/fromsoftwares-bloodborne-path-tracing-pc-remake
+https://www.techradar.com/computing/gpu/nvidia-rtx-5080-super-gpu-is-canned-rumor-claims-and-im-not-surprised-in-the-slightest
