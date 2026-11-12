@@ -1,6 +1,3 @@
-https://www.techradar.com/entertainment/tv-shows/how-to-watch-the-remarried-empress
-https://www.ign.com/articles/sony-wh1000xm5-noise-canceling-wireless-headphone-deal-november-2026
-https://www.techpowerup.com/354446/amd-reports-record-usd-13-4b-third-quarter-2026-revenue
 https://www.techradar.com/pro/bambu-lab-black-friday-3d-printer-sale-our-expert-tested-them-all-and-picked-these-3-to-buy
 https://www.ign.com/articles/amazon-early-black-friday-audible-deal-2026
 https://www.pcgamer.com/software/ai/google-criticized-by-nyc-mayor-zohran-mamdani-following-ai-policy-change-google-is-trying-to-use-its-monopoly-power-to-force-ai-into-our-public-schools
@@ -2498,3 +2495,6 @@ https://www.guru3d.com/story/nvidia-board-reportedly-weighs-jensen-huang-future-
 https://wccftech.com/marvel-1943-rise-of-hydra-not-canceled-over-budget
 https://www.guru3d.com/story/amd-radeon-ssdwrite-workaround-arrives-while-official-driver-fix-is-pending
 https://www.guru3d.com/story/november-patchday-closes-1094-vulnerabilities-in-windows-11-and-related-products-windows-11-gains-new-rightclick
+https://wccftech.com/review/steelseries-aeon-pro-review
+https://www.kitguru.net/gaming/mustafa-mahmoud/sony-has-officially-cancelled-its-unreleased-live-service-heist-shooter-fairgame
+https://www.guru3d.com/story/intel-256core-diamond-rapids-package-appears-in-new-photographs
