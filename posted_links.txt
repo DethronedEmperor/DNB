@@ -1,7 +1,3 @@
-https://www.gamespot.com/articles/gta-6-looks-pretty-realistic-until-it-comes-to-gym-etiquette
-https://www.rockpapershotgun.com/nvidia-ensure-unboxing-a-ludicrously-expensive-new-graphics-card-isnt-limited-to-real-life-in-these-ram-crisis-times-by-releasing-a-geforce-8800-gtx-unpacking-sim
-https://www.dexerto.com/entertainment/viral-red-baron-worker-pauses-787k-fundraiser-as-he-steps-away-from-spotlight-3425225
-https://www.tomshardware.com/tech-industry/policy/chinese-ai-lab-moonshot-reportedly-looked-at-european-data-centers-to-access-nvidia-chips-report-claims-kimi-maker-primarily-interested-in-inferencing-capacity-but-also-asked-about-training-clusters
 https://www.techradar.com/vpn/vpn-services/expressvpn-makes-its-ai-assistant-and-tracker-blocking-available-to-all-users
 https://www.guru3d.com/story/asus-rog-xg-station-3-adds-thunderbolt-5-egpu-support-and-btf-power
 https://www.gamespot.com/articles/free-games-epic-games-store-mobile/1100-6530257
@@ -2498,3 +2494,7 @@ https://www.ign.com/articles/rainbow-six-vegas-reportedly-returning-with-new-ins
 https://www.pcgamer.com/games/fps/a-survival-game-we-once-called-stalker-and-tarkovs-alien-baby-is-closing-down-less-than-a-year-after-launch
 https://www.gematsu.com/2026/11/sturmjager-co-op-trailer
 https://www.techpowerup.com/354806/colorful-launches-igame-x870e-senna-v14-motherboard
+https://www.ign.com/articles/robert-pattinsons-james-bond-deal-offers-higher-pay-for-fewer-films-than-rivals
+https://www.eurogamer.net/blood-of-dawnwalker-new-game-plus
+https://www.dexerto.com/gta/kick-and-twitch-are-giving-away-thousands-of-gta-6-codes-to-viewers-before-launch-3428151
+https://www.tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void
