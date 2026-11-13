@@ -1,9 +1,3 @@
-https://wccftech.com/discord-is-ditching-electron-for-rust-with-early-windows-build-using-just-290mb-of-ram
-https://www.kitguru.net/gaming/matthew-wilson/arkane-union-accuses-xbox-of-sabotaging-marvels-blade
-https://www.techradar.com/seasonal-sales/6-of-the-best-deals-from-the-samsung-black-friday-sale-up-to-gbp300-off-the-galaxy-z-fold-8-galaxy-s26-buds-4-pro-micro-led-tvs-and-more
-https://www.ign.com/articles/gog-announces-road-rash-touch-up-new-publishing-arm
-https://www.gamespot.com/articles/gta-6-lots-of-new-images-have-been-released
-https://www.videogameschronicle.com/news/007-first-lights-opening-can-now-be-played-for-free
 https://insider-gaming.com/best-gaming-gifts-for-kids-2026
 https://www.eurogamer.net/grand-theft-auto-6-38-new-screenshots
 https://www.dexerto.com/pokemon/pokemon-cards-can-now-be-delivered-in-15-minutes-with-massive-discounts-on-rare-cards-3425137
@@ -2498,3 +2492,9 @@ https://www.pcgamer.com/games/grand-theft-auto/new-grand-theft-auto-6-trailer-is
 https://www.techpowerup.com/354801/kowin-high-performance-storage-products-empowering-the-all-electric-society
 https://wccftech.com/tcl-showcases-worlds-fastest-laptop-oled-panel-at-360-hz-on-lenovo-legion-prototype
 https://overclock3d.net/news/gpu-displays/oc3d-exclusive-the-reason-jensen-huang-resigned
+https://www.ign.com/articles/curt-pires-and-ryan-quackenbush-announce-sci-fi-graphic-novel-content
+https://www.gamespot.com/articles/gta-6-could-sell-55-million-copies-by-early-next-year-report-says-and-average-selling-price-could-be-90
+https://www.pcgamer.com/software/microsoft-deeply-apologizes-for-global-service-outage-says-no-ai-or-hackers-are-to-blame
+https://www.eurogamer.net/legend-of-zelda-smaller-before-breath-of-the-wild
+https://www.dexerto.com/gta/can-gta-6-download-codes-be-seen-through-sealed-boxes-warning-goes-viral-days-before-launch-3428147
+https://www.techpowerup.com/354804/intels-isa-reference-confirms-razor-lake-desktop-and-laptop-model-ids
