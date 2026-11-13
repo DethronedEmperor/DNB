@@ -1,7 +1,3 @@
-https://wccftech.com/nvidia-rtx-5080-sees-over-220x-fps-boost-with-new-directx-raytracing-technology-outpaces-rx-9070-xt-by-3-4x
-https://www.techradar.com/pro/most-companies-dont-think-they-could-leave-their-main-cloud-provider-quickly-should-the-worst-happen
-https://www.pcgamer.com/hardware/handheld-gaming-pcs/switch-2-sales-dropped-37-percent-this-summer-mostly-before-the-price-hike-hit-nintendo-now-expects-sales-to-slump-16-9-percent-in-consoles-second-year
-https://insider-gaming.com/playstation-digital-sales-continue-to-increase-year-over-year
 https://www.dexerto.com/gaming/free-zelda-ocarina-of-time-collector-bundle-being-resold-for-almost-1000-on-ebay-3425067
 https://www.tomshardware.com/tech-industry/two-dead-five-injured-in-taiwan-pcb-factory-explosion-panasonic-industrial-devices-materials-facility-fire-prompts-emergency-response
 https://www.techpowerup.com/354494/qualcomm-announces-fourth-quarter-and-fiscal-2026-results
@@ -2498,3 +2494,7 @@ https://www.techpowerup.com/354786/lexar-launches-the-diamond-cfexpress-4-0-type
 https://wccftech.com/quick-spectral-super-resolution-six-ps5-games
 https://www.kitguru.net/components/cooling/joao-silva/noctua-introduces-carbon-nanotube-thermal-pad-that-never-needs-repasting
 https://www.techradar.com/pro/security/thousands-of-github-repositories-targeted-in-widespread-attack-4-800-accounts-already-compromised-to-steal-cloud-credentials
+https://www.gamespot.com/articles/gta-6-in-game-tv-show-macca-friends-looks-ridiculous-in-the-best-way
+https://insider-gaming.com/playstation-wrapped-2026
+https://www.eurogamer.net/gdc-report-40-percent-developers-generative-ai
+https://www.gematsu.com/2026/11/strategy-rpg-guild-saga-vanished-worlds-coming-to-ps5-in-may-2027
