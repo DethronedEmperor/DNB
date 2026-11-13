@@ -1,6 +1,3 @@
-https://www.ign.com/articles/gta-6-rakes-in-over-750-million-in-pre-orders-two-weeks-ahead-of-release-date
-https://www.ign.com/articles/best-deals-for-november-4-2026
-https://www.ign.com/articles/adam-driver-says-hes-done-playing-kylo-ren-but-would-return-if-someone-revived-his-canceled-solo-film
 https://www.techradar.com/pro/security/harvard-university-reveals-data-breach-exposed-851-000-accounts
 https://www.gematsu.com/2026/11/honkai-nexus-anima-launches-in-spring-2027-final-closed-beta-test-begins-november-25
 https://www.gematsu.com/2026/11/my-hero-ultra-rumble-coming-to-ios-android
@@ -2498,3 +2495,6 @@ https://www.eurogamer.net/halo-campaign-evovled-firefight-mode
 https://wccftech.com/china-advancing-billion-dollar-nvidia-ai-clusters-sanctions
 https://www.kitguru.net/gaming/mustafa-mahmoud/resident-evil-requiem-wins-ultimate-game-of-the-year-at-the-golden-joystick-awards
 https://www.techradar.com/pro/the-hidden-costs-of-repurposing-laptops
+https://www.gamespot.com/articles/wolfenstein-3-is-officially-in-production-at-machinegames
+https://www.tomshardware.com/software/macos/macos-on-pc-becomes-possible-again-thanks-to-apple-silicon-translator-for-x86-64-hackintosh-revival-project-currently-slow-and-not-very-stable
+https://overclock3d.net/news/gpu-displays/amd-fixes-excessive-write-bugs-with-amd-software-26-11-1
