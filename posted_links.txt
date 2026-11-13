@@ -1,11 +1,3 @@
-https://www.ign.com/articles/nintendo-rules-out-further-switch-2-price-rises-as-console-sales-and-profit-fall
-https://www.pcgamer.com/games/rpg/oh-hell-yes-pillars-of-eternity-1-and-2-are-getting-full-fat-gamepad-support-and-you-can-try-it-right-now
-https://insider-gaming.com/nintendo-switch-2-has-sold-over-26-million-units
-https://www.eurogamer.net/nintendo-switch-2-hardware-decline-software-boom
-https://www.dexerto.com/pokemon/illegal-gambling-ring-busted-after-using-pokemon-cards-as-payouts-3425040
-https://www.tomshardware.com/tech-industry/cyber-security/blood-banks-in-france-hit-by-temperature-raising-attacks-on-fridges-purported-hackers-claim-attacks-are-about-cybersecurity-not-malice
-https://www.techradar.com/home/coffee-machines/ninja-has-turned-to-designer-jonathan-adler-to-give-its-top-espresso-maker-a-glamorous-makeover-but-is-it-high-fashion-or-an-eyesore
-https://www.pcgamer.com/hardware/fsr-4-1-2-now-on-xbox-and-xbox-handhelds-just-in-time-for-a-certain-big-gta-6-shaped-game
 https://insider-gaming.com/genshin-impact-rowdy-beast-host
 https://www.dexerto.com/youtube/streamer-threatened-by-man-thought-he-was-going-to-die-in-resurfaced-viral-encounter-3425061
 https://www.tomshardware.com/tech-industry/semiconductors/marvell-to-buy-lumentum-in-usd115-billion-all-stock-deal-combined-company-to-supply-scale-up-and-scale-in-optics-for-ai-data-centers
@@ -2498,3 +2490,11 @@ https://www.gematsu.com/2026/11/forest-escape-last-train-coming-to-ps5-new-locat
 https://www.dexerto.com/tiktok/influencer-accused-of-faking-cancer-in-37k-romance-scam-becomes-international-fugitive-3428069
 https://www.techpowerup.com/354783/corsair-pro-to-optimize-engineering-workstations-servers-and-clusters-for-ansys-simulation
 https://www.kitguru.net/gaming/joao-silva/microsoft-confirms-more-original-xbox-games-for-pc-with-mouse-and-keyboard-support
+https://www.gamespot.com/articles/the-ps5s-new-graphics-upscaling-trick-is-spreading-to-more-games
+https://www.pcgamer.com/software/reddit-tells-me-its-not-going-to-make-a-penny-in-affiliates-from-reddit-reviews-and-is-working-hard-to-avoid-inauthentic-content
+https://www.videogameschronicle.com/blog/podcast/podcast-playstations-live-service-era-has-been-a-total-failure
+https://www.eurogamer.net/gta-6-map-leak-online-collectors-edition
+https://www.gematsu.com/2026/11/god-of-war-sons-of-sparta-coming-to-ps4-on-november-16-alongside-free-content-update
+https://www.dexerto.com/entertainment/kpop-demon-hunters-announces-world-tour-bringing-huntr-x-to-arenas-in-2027-3428041
+https://wccftech.com/deepseek-and-moonshot-ai-models-appear-to-carry-hidden-nvidia-blackwell-fingerprints-in-their-starting-weights-pointing-to-training-clusters-of-3000-to-4500-gpus
+https://www.techradar.com/vpn/vpn-services/expressvpn-looks-better-black-friday-value-than-nordvpn-get-a-private-ai-burner-email-addresses-and-tracker-blocking-for-the-same-usd2-99-per-month-price
