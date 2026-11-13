@@ -1,4 +1,3 @@
-https://www.techradar.com/computing/windows/windows-11s-taskbar-can-now-be-moved-but-not-by-dragging-heres-why-microsoft-made-that-decision-and-what-to-do-about-it-if-youre-not-happy
 https://www.ign.com/articles/channing-tatum-shows-off-updated-gambit-accent-in-new-avengers-doomsday-ad
 https://www.pcgamer.com/games/november-games-2026
 https://www.ign.com/articles/liam-neeson-had-a-priceless-reaction-to-learning-meryl-streep-is-voicing-aslan-in-narnia-the-magicians-nephew
@@ -2498,3 +2497,4 @@ https://www.techradar.com/pro/speed-is-not-a-creative-strategy-adobe-execs-say-t
 https://www.techradar.com/entertainment/tv-shows/how-to-watch-12-12-12
 https://www.techpowerup.com/354764/long-time-linux-kernel-maintainer-inundated-with-ai-generated-submissions-steps-down
 https://www.techpowerup.com/354769/steamos-beta-drops-fixes-for-high-refresh-displays-and-hdr-content
+https://www.techpowerup.com/354770/xbox-confirms-wolfenstein-3-coming-soon-and-id-software-teases-next-doom-game
