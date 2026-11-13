@@ -1,7 +1,3 @@
-https://www.eurogamer.net/playstation-6-sony-financials-2026-hardware
-https://wccftech.com/nintendo-switch-2-lower-sales-higher-revenue
-https://overclock3d.net/news/misc/amd-expects-a-significant-pc-sales-decline-as-higher-costs-hit-the-market
-https://www.eurogamer.net/world-of-warcraft-forever-launch-smooth
 https://www.dexerto.com/food/italian-chef-fired-after-refusing-to-put-pineapple-on-pizza-3425033
 https://wccftech.com/elon-musk-is-afraid-of-power-being-concentrated-in-my-hands-says-sam-altman-even-as-both-have-similar-fears-about-ai
 https://www.techradar.com/pro/the-uks-ai-strategy-is-missing-one-crucial-piece-compute
@@ -2498,3 +2494,7 @@ https://www.techradar.com/computing/this-new-semi-solid-state-power-bank-has-a-2
 https://www.gamespot.com/articles/get-metal-gear-solid-delta-snake-eater-and-all-bonus-dlc-cheaper-than-the-standard-edition-right-now
 https://www.dexerto.com/entertainment/microsoft-outage-brings-fax-machines-back-into-action-across-japanese-offices-3428005
 https://www.techradar.com/pro/security/european-cyber-threats-are-growing-much-faster-than-other-regions-as-new-report-warns-ai-enables-cybercriminals-to-operate-at-a-scale-weve-never-seen-before
+https://www.pcgamer.com/hardware/graphics-cards/amd-has-patched-its-ssd-eating-gpu-driver-bug-with-an-optional-adrenalin-update-for-rx-7000-series-graphics-cards-and-above
+https://www.dexerto.com/entertainment/darth-vaders-lightsaber-sells-for-nearly-5-million-to-break-star-wars-record-3427989
+https://www.kitguru.net/gaming/mustafa-mahmoud/ex-id-software-devs-form-new-studio-hidden-horses-dedicated-to-single-player-fps-games
+https://www.techradar.com/pro/ai-privacy-starts-with-your-data
