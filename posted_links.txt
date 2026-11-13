@@ -1,5 +1,3 @@
-https://www.techradar.com/computing/gpu/nvidias-new-steam-demo-lets-you-virtually-install-a-geforce-8800-gtx-in-a-windows-vista-pc-but-it-has-enraged-many-gamers
-https://www.pcgamer.com/games/grand-theft-auto/i-have-added-parkour-to-gta-5-and-also-accidentally-turned-on-like-20-mods-i-forgot-id-installed
 https://www.videogameschronicle.com/news/biowares-final-days-to-feature-in-upcoming-documentary
 https://insider-gaming.com/xbox-pc-app-update-faster
 https://www.tomshardware.com/tech-industry/semiconductors/india-targets-creating-homegrown-gpus-within-2-years-and-plans-to-commercialize-indigenous-shakti-and-vega-risc-v-processors-sees-ai-boom-as-a-potential-repeat-of-the-y2k-opportunity-for-its-it-industry
@@ -2498,3 +2496,5 @@ https://www.techradar.com/computing/cyber-security/faa-grounds-all-us-flights-du
 https://www.ign.com/articles/lg-evo-c6-4k-oled-tv-pc-monitor-deal-free-xbox-controller-november-2026
 https://insider-gaming.com/barbie-rewind-gta-6-release-window
 https://www.techpowerup.com/354819/gta-5-sees-sales-spike-ahead-of-gta-vi-launch
+https://www.ign.com/articles/magic-the-gathering-star-trek-commander-decks-ranked
+https://insider-gaming.com/resident-evil-requiem-grace-ashcroft-future
