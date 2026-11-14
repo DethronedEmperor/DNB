@@ -1,5 +1,3 @@
-https://www.rockpapershotgun.com/after-a-16-year-long-dev-period-faraway-a-shooting-star-arcade-game-about-siphoning-the-energy-of-other-stars-is-out-now
-https://www.gematsu.com/2026/11/hard-west-ii-for-ps5-xbox-series-launches-november-10
 https://www.dexerto.com/entertainment/hackers-target-blood-banks-by-setting-freezers-to-a-boiling-230-degrees-3425246
 https://www.tomshardware.com/tech-industry/cyber-security/combined-flaws-let-anyone-into-alpine-linux-and-other-distros-by-typing-anything-over-256-characters-as-a-password-emergency-fixes-for-openssh-and-musl-libc-issued-for-millions-of-systems-patch-immediately
 https://www.techpowerup.com/354508/cpuid-readies-cpu-z-for-intel-razor-lake-two-generations-out
@@ -2498,3 +2496,5 @@ https://www.techpowerup.com/354807/astro-bot-runs-natively-on-pc-through-anyps5-
 https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-14-november-2026
 https://www.ign.com/articles/mtg-star-trek-most-valuable-cards
 https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-14-november-2026
+https://www.ign.com/articles/blade-runner-2099-executive-producers-confirm-franchise-owners-are-in-talks-for-aaa-video-game-adaptation
+https://www.techpowerup.com/354821/intel-core-ultra-7-260k-arrives-without-an-announcement-limited-to-two-prebuilt-desktops
