@@ -1,7 +1,3 @@
-https://www.ign.com/articles/marvels-deadliest-assassins-cut-loose-in-black-widow-black-white-red-room
-https://www.gamespot.com/articles/you-can-finally-drive-a-dreamcast-thanks-to-sonic
-https://insider-gaming.com/team-heretics-closes-lec-academy-lol-team
-https://www.gematsu.com/2026/11/hozy-for-ps5-xbox-series-launches-november-9
 https://www.ign.com/articles/mfish-usb-cable-deal-november-2026
 https://insider-gaming.com/wardogs-season-3-coming-next-week
 https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma
@@ -2498,3 +2494,7 @@ https://www.dexerto.com/food/florida-man-arrested-for-sending-card-full-of-peanu
 https://www.tomshardware.com/video-games/playstation/jailbroken-ps4-runs-9-billion-parameter-ai-model-at-up-to-43-tokens-per-second-open-source-garlic-llm-bypasses-drivers-to-talk-directly-to-the-2013-era-gpu
 https://wccftech.com/review/t-create-master-oc-ddr5-rdimm-96-gb-4-x-24-gb-6400-mt-s-cl32-memory-kit-review
 https://www.techradar.com/home/small-appliances/best-buys-holiday-sale-has-up-to-usd300-off-shark-and-ninja-appliances-here-are-5-deals-id-buy-on-vacuums-flexstyle-cryoglow-and-more
+https://www.pcgamer.com/hardware/processors/intel-hit-with-class-action-alleging-it-misled-investors-companys-recent-downturn-due-in-part-to-how-darn-expensive-pcs-are-right-now
+https://www.eurogamer.net/can-gta-6-make-2-billion-in-its-opening-weekend-one-industry-analyst-has-run-the-numbers-and-seems-to-think-so
+https://wccftech.com/microsoft-tests-new-aco-shader-compiler-on-xbox-series-xs-reports-up-to-16-performance-improvements
+https://www.techradar.com/pro/security/every-organization-has-to-invest-in-getting-this-right-proofpoint-ceo-warns-the-agentic-ai-age-will-mean-a-whole-new-generation-of-cyber-threats
