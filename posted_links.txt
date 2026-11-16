@@ -1,9 +1,3 @@
-https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff
-https://www.eurogamer.net/xbox-cloud-gaming-phone-controller-smart-tv-nano-cloud-connect
-https://www.techradar.com/entertainment/football/watch-fulham-vs-newcastle-premier-league-2026-27
-https://www.tomshardware.com/software/enthusiast-abandons-self-hosted-microsoft-exchange-after-27-years-moving-mailboxes-to-microsoft-365-replaces-final-on-premises-relay-with-postfix-starttls-and-lets-encrypt-certificates
-https://www.techradar.com/entertainment/football/arsenal-vs-hull-premier-league-2026-27
-https://www.dexerto.com/pokemon/man-arrested-after-leaving-6-year-old-daughter-sleeping-in-line-for-pokemon-cards-3425627
 https://www.tomshardware.com/peripherals/wearable-tech/new-bluetooth-high-data-throughput-may-finally-satisfy-audiophiles-bluetooth-hdt-offers-a-maximum-bandwidth-of-7-5mbps-allowing-true-lossless-transmission
 https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability
 https://www.techradar.com/pro/i-went-hands-on-with-the-new-snap-specs-and-found-out-why-they-could-soon-be-a-useful-workplace-tool
@@ -2498,3 +2492,9 @@ https://insider-gaming.com/lec-2027-return-date-set-no-best-of-ones
 https://www.dexerto.com/youtube/brandon-buckingham-cancels-all-video-trips-over-fears-for-his-life-as-health-worsens-3428622
 https://www.techpowerup.com/354900/nvidia-announces-rubin-hpc-gpu-to-accelerate-agents-for-science-engineering-and-analytics
 https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-can-now-buy-things-for-you-with-your-credit-card-and-watching-it-complete-a-purchase-in-seconds-makes-the-future-of-online-shopping-feel-very-real
+https://www.ign.com/articles/marvels-wolverine-ps5-black-friday-deal
+https://www.gamespot.com/articles/fear-and-loathing-in-los-santos-how-it-feels-to-leave-gta-5-behind
+https://www.gematsu.com/2026/11/star-wars-galactic-racer-to-add-split-screen-supported-free-play-mode-in-early-2027
+https://www.dexerto.com/roblox/roblox-refuses-to-refund-20000-after-nine-year-old-maxes-out-parents-credit-card-3428644
+https://wccftech.com/nvidia-rubin-hpc-gpu-50000-cuda-cores-2028
+https://www.techradar.com/ai-platforms-assistants/googles-new-gemini-4-hydrogen-promises-to-fix-one-of-the-most-annoying-things-about-ai-having-to-ask-it-the-same-thing-over-and-over-again-i-tried-it-and-im-impressed
