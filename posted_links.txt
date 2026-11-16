@@ -1,5 +1,3 @@
-https://www.gamespot.com/articles/ratchet-clank-game-shutting-down-before-ever-fully-launching
-https://www.pcgamer.com/games/mass-effect/a-public-petition-to-save-bioware-has-drawn-enough-signatures-that-the-canadian-government-will-at-least-have-to-think-about-it-this-is-absolutely-possible-mp-says
 https://insider-gaming.com/team-liquid-co-ceo-victor-goossens-interview
 https://wccftech.com/gta-6-tens-of-thousands-dollars-tokens-unofficial-pc-port
 https://www.techradar.com/ai-platforms-assistants/i-tried-to-work-out-which-photos-in-this-rightmove-property-listing-were-ai-generated-and-the-more-i-looked-the-worse-it-got
@@ -2498,3 +2496,5 @@ https://www.techradar.com/seasonal-sales/black-friday-phone-deals-au
 https://www.pcgamer.com/games/board-games/influential-warhammer-miniature-designer-aly-morrison-has-died
 https://www.guru3d.com/story/ktc-m32p2-brings-6k-mini-led-backlighting-to-ces-2027
 https://www.guru3d.com/story/msi-adds-64gb-model-to-its-nvidia-gb10-edgexpert-ai-desktop
+https://wccftech.com/pearl-abyss-ai-validate-game-designs-crimson-desert
+https://www.guru3d.com/story/us-congress-pushes-tighter-aichip-export-controls-after-nvidia-customer-megaspeed-case
