@@ -1,9 +1,3 @@
-https://www.techpowerup.com/354580/this-week-in-gaming-week-46
-https://wccftech.com/asus-launches-xg-core-radeon-rx-9060-xt-lp-external-graphics-card
-https://www.videogameschronicle.com/guide/zelda-oot-remake-fishing-pond-sinking-lure-rewards
-https://www.tomshardware.com/video-games/pc-gaming/wow-forever-launch-used-70-480-cpu-cores-and-251-terabytes-of-ram-3-924-virtual-machines-powered-one-of-world-of-warcrafts-smoothest-launches-ever
-https://www.techradar.com/phones/ios/a-very-light-touch-form-of-censorship-the-iphone-has-a-gray-list-of-words-and-phrases-that-apple-wont-auto-complete-for-you
-https://www.dexerto.com/entertainment/viral-hawk-that-ate-too-many-chickens-is-flying-again-after-losing-weight-3425778
 https://www.tomshardware.com/tech-industry/drones/pocket-sized-ukrainian-receiver-intercepts-russian-strike-drone-video-feeds-up-to-six-miles-away-device-only-slightly-heavier-than-a-smartphone-intercepts-analog-video-signals-sent-to-russian-operators
 https://www.techradar.com/entertainment/rugby/watch-england-vs-australia-free-nations-championship-2026-free
 https://www.pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai
@@ -2498,3 +2492,9 @@ https://www.pcgamer.com/gaming-industry/gabe-newell-stuns-superyacht-enthusiasts
 https://insider-gaming.com/star-wars-galactic-racer-splitscreen
 https://www.techpowerup.com/354910/orico-introduces-flashmem-fm9800-ssds-with-dedicated-ai-cache
 https://www.techradar.com/pro/acers-prodesigner-pe320qxt-6k-touchscreen-monitor-drops-to-usd999-99-for-black-friday-saving-you-usd500-on-a-professional-creative-display
+https://www.ign.com/articles/black-friday-deals-on-4k-uhd-and-blu-rays-2026
+https://insider-gaming.com/nyt-connections-hints-solutions-november-17-1255
+https://www.gematsu.com/2026/11/mercenaries-grace-launches-november-25-for-ps5-in-japan-in-december-for-switch-and-in-early-2027-for-pc
+https://www.tomshardware.com/gift-guides-seasonal-sales/15-retro-tech-gift-ideas-for-the-nostalgic-gamer-or-builder-in-your-life-old-school-designs-packed-with-modern-hardware-from-game-controllers-to-desk-accessories
+https://www.techradar.com/pro/tiny-corps-refurbished-mi300x-tinybox-packs-768gb-of-hbm-into-a-desktop-box-and-the-price-has-already-jumped-by-usd29-000
+https://overclock3d.net/news/software/amd-fsr-4-1-arrives-on-vulkan-with-doom-the-dark-ages-update-5
