@@ -1,8 +1,3 @@
-https://www.rockpapershotgun.com/the-sunday-papers-835
-https://www.dexerto.com/entertainment/new-microsoft-patent-could-use-ai-to-alter-speech-and-lip-movements-in-real-time-3425747
-https://wccftech.com/dfrobot-dx-m1-25-tops-m2-ai-accelerator-module-raspberry-pi-pc
-https://www.tomshardware.com/maker-stem/pc-air-duster-motors-power-21-inch-diy-remote-control-plane-at-130-000-rpm-usd23-air-duster-power-styrofoam-a10-warthog-style-rc-plane-hits-the-skies-much-faster-than-expected
-https://www.techradar.com/audio/turntables/audio-technica-at-lp7x-review
 https://www.techpowerup.com/354580/this-week-in-gaming-week-46
 https://wccftech.com/asus-launches-xg-core-radeon-rx-9060-xt-lp-external-graphics-card
 https://www.videogameschronicle.com/guide/zelda-oot-remake-fishing-pond-sinking-lure-rewards
@@ -2498,3 +2493,8 @@ https://www.ign.com/articles/alienware-aw3926qw-39-5k-oled-gaming-monitor-deal-n
 https://insider-gaming.com/los-ratones-documentary-lec-red-bull
 https://www.tomshardware.com/tech-industry/artificial-intelligence/new-us-rules-aim-to-restrict-remote-access-to-ai-servers-and-infrastructure-seeks-to-combat-cloud-rental-workarounds-to-gpu-export-controls
 https://www.techradar.com/entertainment/football/germany-vs-netherlands-free-nations-league-2026-27
+https://www.ign.com/articles/nvidia-reportedly-uninterested-in-bringing-jensen-huang-back-as-ceo
+https://www.pcgamer.com/gaming-industry/gabe-newell-stuns-superyacht-enthusiasts-by-treating-crew-like-human-beings-that-is-something-weve-never-really-seen-before-in-our-industry
+https://insider-gaming.com/star-wars-galactic-racer-splitscreen
+https://www.techpowerup.com/354910/orico-introduces-flashmem-fm9800-ssds-with-dedicated-ai-cache
+https://www.techradar.com/pro/acers-prodesigner-pe320qxt-6k-touchscreen-monitor-drops-to-usd999-99-for-black-friday-saving-you-usd500-on-a-professional-creative-display
