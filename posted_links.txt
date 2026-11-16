@@ -1,8 +1,3 @@
-https://www.pcgamer.com/games/rpg/one-of-the-buggiest-d-and-d-games-ever-released-pool-of-radiance-ruins-of-myth-drannor-is-back-and-actually-playable-again
-https://www.techpowerup.com/354574/cpu-z-data-shows-16-gb-ram-gaining-ground-while-32-gb-and-64-gb-ram-shares-shrink
-https://www.techradar.com/pro/drones-can-now-be-tracked-down-by-mobile-networks-alone-could-this-new-ericsson-tech-spell-the-end-for-the-current-crop-of-flying-uavs
-https://wccftech.com/user-builds-frankenstein-homelab-stripping-old-msi-laptop-motherboard-wall-mount
-https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-8-november-2026
 https://www.techpowerup.com/354575/epic-games-names-steamos-among-planned-linux-targets-for-its-new-launcher
 https://wccftech.com/nvidia-custom-hbm-samsung-tsmc-3nm-base-die
 https://www.techradar.com/gaming/nyt-connections-today-answers-hints-8-november-2026
@@ -2498,3 +2493,8 @@ https://wccftech.com/memphis-is-collecting-so-much-revenue-from-spacexs-colossus
 https://www.techradar.com/entertainment/tv-shows/theres-a-sneaky-way-to-watch-im-a-celeb-2026-for-free
 https://www.ign.com/articles/nba-2k27-is-adding-vice-city-gta-6-themed-cosmetics-and-much-more-as-part-of-massive-rockstar-games-collaboration
 https://www.techradar.com/pro/kioxia-and-dell-have-managed-to-cram-in-a-huge-157-pb-of-raw-flash-storage-into-a-single-42u-server-rack
+https://www.ign.com/articles/this-is-akin-to-a-moon-landing-how-gamings-top-content-creators-are-preparing-for-gta-6s-launch-and-beyond
+https://www.gamespot.com/articles/delete-gta-6-for-a-chance-to-win-another-game
+https://insider-gaming.com/optic-gaming-replaces-dignitas-lcs-2027
+https://www.tomshardware.com/tech-industry/supercomputers/amd-grabs-over-40-percent-of-new-top500-list-for-supercomputers-up-14-percent-since-last-year-new-lux-system-developed-between-amd-and-department-of-energy-debuts-at-no-14-with-epyc-cpus-and-instinct-mi355x-gpus
+https://www.techradar.com/pro/security/tsmc-confirms-cyberattack-and-data-breach-chip-giant-says-personal-employee-data-has-been-leaked-online
