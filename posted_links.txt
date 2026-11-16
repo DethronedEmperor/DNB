@@ -1,7 +1,3 @@
-https://insider-gaming.com/ocarina-of-time-remake-water-temple
-https://www.techpowerup.com/354567/custom-hogwarts-legacy-rtx-5090-founders-edition-up-for-grabs-until-november-12
-https://www.ign.com/articles/mass-effect-cast-celebrates-n7-day-with-video-asking-fans-to-help-save-the-franchise
-https://insider-gaming.com/incursion-red-river-hits-new-all-time-player-count-high
 https://www.techradar.com/pro/accenture-accused-of-publishing-major-research-full-of-ai-hallucinations-paper-featured-as-many-as-15-fictitious-citations-and-case-studies
 https://www.eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour
 https://www.techpowerup.com/354568/assassins-creed-codename-mars-reportedly-takes-the-series-to-ancient-rome
@@ -2498,3 +2494,7 @@ https://www.eurogamer.net/gta-6-leaker-pleads-guilty
 https://www.dexerto.com/gta/professor-cancels-homework-and-exams-during-gta-6-launch-week-3428746
 https://www.kitguru.net/channel/generaltech/matthew-wilson/steamos-patch-notes-hint-at-nvidia-gpu-support-progress
 https://www.techradar.com/entertainment/tv-shows/how-to-watch-the-model-trap-exposing-jeffrey-epsteins-network-online-for-free-stream-revealing-documentary-from-anywhere
+https://www.ign.com/articles/apple-airpods-pro-3-deal-november-2026
+https://www.dexerto.com/gaming/xbox-shuts-down-confusion-over-whether-project-helix-is-actually-a-pc-3428682
+https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028
+https://www.techradar.com/pro/sansuis-32-inch-curved-creative-monitor-packs-a-240hz-refresh-rate-and-freesync-support-for-just-usd259-99
