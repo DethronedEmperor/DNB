@@ -1,4 +1,3 @@
-https://insider-gaming.com/lol-streamer-thebausffs-has-accounts-suspended
 https://www.techradar.com/entertainment/how-to-listen-to-nations-championship-on-bbc-radio-5-live-from-anywhere-in-the-world
 https://www.ign.com/articles/adam-driver-talks-about-mister-sinister-x-men-reboot
 https://insider-gaming.com/nier-automata-devs-address-366-gb-update
@@ -2498,3 +2497,4 @@ https://www.videogameschronicle.com/news/xbox-says-project-helix-is-a-console-th
 https://www.techpowerup.com/354878/neural-rendering-could-keep-xbox-project-helix-affordable
 https://wccftech.com/rtx-4090-ti-engineering-sample-chinese-marketplace-memory-bandwidth-cuda-cores
 https://www.kitguru.net/gaming/mustafa-mahmoud/analyst-claims-38-million-xbox-series-xs-consoles-have-been-sold-so-far
+https://www.tomshardware.com/software/operating-systems/developer-creates-a-100-percent-valid-zip-file-that-doubles-as-a-bios-bootable-operating-system-hiding-bios-boot-flags-inside-uncompressed-files-and-turning-file-headers-into-cpu-instructions
