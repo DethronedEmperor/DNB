@@ -1,8 +1,3 @@
-https://www.techpowerup.com/354620/google-extends-tensor-processor-unit-series-with-tpu-8tx-and-8i-max
-https://www.techradar.com/pro/security/hundreds-of-copies-of-chinese-made-artex-hacking-tools-leaked-online-for-anyone-to-use-in-further-attacks
-https://www.ign.com/articles/former-bioware-executive-producer-mark-darrah-shares-original-vision-for-a-more-immersive-dragon-age-4
-https://www.gamespot.com/articles/dc-studios-is-getting-a-marvel-veteran-to-replace-james-gunn-and-peter-safran
-https://insider-gaming.com/tripwire-interactive-announces-layoffs
 https://www.gematsu.com/2026/11/beholder-iv-announced-for-pc
 https://www.techpowerup.com/354621/fraunhofer-ipms-develops-compact-2k-oled-microdisplay-package-with-mipi-dsi-2
 https://wccftech.com/nvidia-intervened-federal-investigation-megaspeed-ai-chip-smuggling-probe
@@ -2498,3 +2493,8 @@ https://www.techradar.com/entertainment/football/watch-israel-vs-austria-nations
 https://www.videogameschronicle.com/news/for-the-first-time-in-11-years-sony-doesnt-have-a-goty-nomination-at-the-game-awards
 https://www.dexerto.com/entertainment/packers-fan-kicked-out-of-lambeau-field-for-spreading-loved-ones-ashes-after-loss-3429110
 https://www.techradar.com/phones/android/wear-os-smartwatches-just-got-a-big-free-battery-life-boost-software-update-lets-you-use-your-android-phones-gnss-to-track-workouts
+https://www.gamespot.com/articles/007-first-light-might-be-the-end-of-the-line-for-james-bonds-favorite-watch
+https://www.videogameschronicle.com/news/gta-6-reviews-vote
+https://www.rockpapershotgun.com/mondrayn-is-a-putrid-crunchy-pixel-art-rpg-about-escaping-from-limbo-where-dying-doesnt-mean-the-end-of-your-suffering
+https://www.dexerto.com/entertainment/aew-wrestler-fights-off-bear-to-save-his-dogs-then-competes-in-ppv-event-3429101
+https://www.techradar.com/pro/security/infoblox-confirms-company-and-customer-data-exposed-in-sharepoint-breach
