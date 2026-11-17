@@ -1,11 +1,3 @@
-https://www.tomshardware.com/monitors/lg-woled-tvs-suffer-from-edge-rot-pixel-death-pixels-go-dark-around-the-edges-similar-to-a-mold-pattern-nearly-all-woled-test-units-show-clear-signs-of-degradation
-https://www.techradar.com/phones/samsung-galaxy-phones/samsung-is-reportedly-testing-a-paid-version-of-galaxy-ai-but-it-promised-these-19-features-would-stay-free-forever
-https://www.ign.com/articles/supper-mario-broth-health-condition
-https://www.pcgamer.com/games/fps/i-think-wed-accidentally-created-the-most-hardcore-extraction-game-of-all-time-eve-vanguard-is-taking-hard-won-playtest-lessons-into-a-24-7-alpha
-https://www.videogameschronicle.com/news/star-wars-zero-company-studio-bit-reactor-is-laying-off-staff-a-month-after-it-started-bringing-back-furloughed-devs
-https://www.eurogamer.net/world-of-warcraft-forever-dungeon-mob-xp-rate-buff
-https://www.dexerto.com/food/genshin-impact-reveals-mcdonalds-japan-collab-with-character-burgers-and-in-game-rewards-3425979
-https://www.tomshardware.com/desktops/gaming-pcs/save-usd300-on-this-rtx-5070-gaming-pc-with-32gb-ddr5-now-under-usd2-000-pre-built-abs-rig-from-newegg-is-4k-ready-with-an-intel-cpu-and-a-1tb-ssd
 https://wccftech.com/elon-musk-says-dont-cry-in-the-casino-when-talking-about-a-hit-to-spacex-revenue-ai-compute-agreements-worth-billions-of-dollars
 https://www.kitguru.net/gaming/matthew-wilson/nvidia-probes-intelligence-allegations-linked-to-ceo
 https://www.techradar.com/home/small-appliances/the-ninja-prepi-brings-serious-chopping-power-to-small-kitchens-with-versatile-multi-function-discs-though-ice-and-smoothies-prove-a-step-too-far
@@ -2498,3 +2490,11 @@ https://www.tomshardware.com/pc-components/ssds/how-we-test-enterprise-ssds-our-
 https://www.techpowerup.com/354603/microsoft-visual-studio-pro-2026-is-available-for-usd-29-97
 https://wccftech.com/nintendo-switch-2-more-developer-interest-ps5-ps6-pc-leads
 https://www.techradar.com/entertainment/sky-tv/sky-glass-and-sky-stream-customers-are-getting-a-huge-free-update-with-the-new-version-of-sky-os-these-are-the-5-biggest-upgrades
+https://www.ign.com/articles/gta-5s-seamless-character-switching-working-ps3-xbox-360
+https://www.pcgamer.com/hardware/graphics-cards/nvidia-tightens-up-control-of-its-own-national-security-policies-as-it-cozies-up-to-us-government-with-new-board-controlled-committee
+https://insider-gaming.com/gta-6-has-62-bird-types-confirms-rockstar-games
+https://www.eurogamer.net/call-of-duty-medieval-prototype-infinity-ward
+https://www.dexerto.com/gta/devolver-digital-is-giving-away-a-free-game-if-you-delete-gta-6-3428903
+https://wccftech.com/enthusiast-uses-gpt-astra-to-compare-two-asrock-bios-versions-and-port-the-removed-skyoc-non-k-overclocking-code-to-an-asus-z390-board
+https://www.techradar.com/live/news/early-black-friday-sales-us-17-november
+https://overclock3d.net/news/software/amd-brings-fsr-4-1-2-to-unreal-engine-5-with-an-official-plugin
