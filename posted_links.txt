@@ -1,8 +1,3 @@
-https://www.techradar.com/entertainment/tv-shows/how-to-watch-the-institute-season-2
-https://www.techradar.com/pro/nvidia-hits-back-at-us-data-center-gloom-with-plans-to-repurpose-old-telephone-and-telecom-buildings-owned-by-brightspeed-into-small-ai-data-centers
-https://www.techradar.com/gaming/warhammer-40-000-dawn-of-war-4-creative-director-explains-how-king-art-balances-rts-factions-organically-so-players-who-do-not-know-the-faction-still-intuitively-play-them-the-right-way-this-is-also-an-ongoing-process
-https://wccftech.com/terafab-is-now-aiming-for-a-memory-production-capacity-of-around-700000-wafers-per-month-which-is-roughly-equal-to-samsungs-entire-dram-capacity
-https://www.ign.com/articles/nvidia-launches-investigation-into-ceo-jensen-huang-following-affair-with-alleged-chinese-spy
 https://www.techpowerup.com/354592/zelda-ocarina-of-time-remake-gets-a-native-pc-port-through-static-recompilation
 https://www.techradar.com/gaming/nyt-connections-today-answers-hints-9-november-2026
 https://www.techradar.com/pro/us-college-student-builds-reaper-drone-which-he-says-set-a-new-world-record-speed-of-491mph
@@ -2498,3 +2493,8 @@ https://insider-gaming.com/iem-beijing-set-to-return-in-2027-and-2028
 https://www.tomshardware.com/3d-printing/china-engineers-behind-j-35-fighter-jet-pioneer-3d-printed-load-bearing-structures-in-military-aircraft-behemoth-16-4-foot-part-uses-segmented-printing-and-fusion-techniques
 https://wccftech.com/jensen-huang-was-absolutely-crucified-by-the-media-with-75-percent-of-the-recent-1641-stories-found-bearing-a-negative-tilt
 https://www.techradar.com/pro/digital-sovereignty-should-be-about-choice-not-walls-most-brits-now-see-tech-dependence-as-a-national-security-issue-and-why-we-shouldnt-go-it-alone
+https://www.rockpapershotgun.com/judge-denies-motion-to-dismiss-lawsuit-accusing-samsung-sk-hynix-and-micron-of-worsening-ram-crisis-by-fixing-memory-prices-and-supply
+https://wccftech.com/amd-fsr-4-1-finally-makes-its-vulkan-debut-in-doom-the-dark-ages-as-unreal-engine-plugin-gets-4-1-2-update
+https://www.kitguru.net/gaming/mustafa-mahmoud/persona-6-domain-has-been-updated-ahead-of-the-game-awards
+https://www.techradar.com/home/smart-home/roborock-rockmow-z120-lidar-review
+https://overclock3d.net/news/misc/us-departments-of-commerce-and-justice-issue-joint-statement-on-nvidia-megaspeed-investigation
