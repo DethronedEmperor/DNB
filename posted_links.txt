@@ -1,6 +1,3 @@
-https://insider-gaming.com/masahiro-sakurai-retirement-views
-https://www.techradar.com/pro/this-is-the-cheapest-rtx-5090-pc-i-could-find-rtx-5090-laptops-are-far-cheaper-but-they-are-not-the-real-deal
-https://www.ign.com/articles/former-playstation-boss-says-sony-doesnt-need-a-ps6-for-1200-it-needs-a-ps5-for-300
 https://insider-gaming.com/nintendo-switch-2-new-ways-to-play
 https://www.ign.com/articles/godzilla-minus-zero-stomps-on-expectations-with-63-million-box-office-opening-weekend
 https://insider-gaming.com/nyt-strands-hints-answers-november-8-2026
@@ -2498,3 +2495,6 @@ https://www.guru3d.com/story/amd-reiterates-venicex-epyc-variant-adds-1152-mb-of
 https://www.guru3d.com/story/nvidia-rubin-hpc-gpu-brings-more-than-50000-cuda-cores-to-scientific-computing
 https://wccftech.com/gta-6-pre-orders-15-million-cut-dau-roblox
 https://www.guru3d.com/story/intel-d270-datacenter-gpu-combines-160-gb-of-lpddr5x-with-native-fp64
+https://insider-gaming.com/contexto-hints-answer-for-november-17-2026
+https://www.techradar.com/pro/over-half-of-businesses-admit-theyre-facing-significantly-higher-ai-costs-than-they-expected
+https://www.guru3d.com/story/nvidia-dgx-spark-hpc-kit-links-four-desktop-systems-into-a-small-research-cluster
