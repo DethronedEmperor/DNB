@@ -1,7 +1,3 @@
-https://www.tomshardware.com/tech-industry/huawei-develops-entirely-chinese-homegrown-desktop-pc-system-features-10-core-20-thread-kirin-x90-consumer-cpu-and-huaweis-own-harmonyos-operating-system-but-western-supply-chain-lingers
-https://wccftech.com/deep-tempest-ai-intercepts-hdmi-electromagnetic-leak-pc-screen-spying
-https://www.techradar.com/pro/this-represents-an-important-evolution-in-ai-governance-infosys-lays-out-how-your-business-can-thrive-with-the-new-generation-of-autonomous-ai-agents
-https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-designer-gives-the-most-succinct-summary-of-bethesdas-design-ive-ever-heard-youre-not-playing-my-game-im-making-your-game
 https://www.videogameschronicle.com/guide/zelda-oot-remake-full-gerudo-proving-grounds-walkthrough
 https://insider-gaming.com/was-iem-beijing-2026-victory-a-breakthrough-for-mouz
 https://www.rockpapershotgun.com/rockstar-were-definitely-thinking-about-giving-a-japanese-studio-the-keys-to-gta-says-former-tech-director-i-have-a-name-but-im-not-gonna-say-it
@@ -2498,3 +2494,7 @@ https://www.tomshardware.com/tech-industry/data-centers/us-government-confirms-c
 https://www.techpowerup.com/354936/q-ant-unveils-npu-gen-2-photonic-fourier-transforms-power-large-language-model
 https://wccftech.com/cpu-sales-are-tanking-despite-discounts-reveals-amazon-sales-data-with-intel-taking-a-staggering-16-hit
 https://www.techradar.com/phones/dont-panic-an-emergency-alert-system-test-will-air-on-tv-and-radio-today-but-fema-confirms-nationwide-drill-wont-hit-phones
+https://www.ign.com/articles/sony-squeezes-in-last-minute-ps5-firmware-security-update-ahead-of-gta-6-release-date-amid-fresh-hacker-claim
+https://www.tomshardware.com/tech-industry/policy/nvidia-warns-customers-of-new-us-rule-that-could-expose-them-to-lawsuits-for-serving-chinese-clients-commerce-department-releases-interim-regulations-preventing-foreign-actors-from-using-advanced-compute-based-on-american-tech
+https://www.techpowerup.com/354939/nvidia-establishes-national-security-and-export-control-oversight-committee
+https://www.techradar.com/gaming/nintendo-switch/the-legend-of-zelda-ocarina-of-time-smashes-records-as-the-best-selling-game-of-2026-in-the-us-but-gta-6-is-coming-to-steal-its-crown
