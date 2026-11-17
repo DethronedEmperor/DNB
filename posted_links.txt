@@ -1,6 +1,3 @@
-https://www.kitguru.net/gaming/matthew-wilson/bit-reactor-reportedly-begins-layoffs-weeks-after-bringing-back-staff
-https://www.techradar.com/pro/workers-feel-pressure-to-use-ai-and-show-off-to-bosses-even-when-it-slows-them-down
-https://www.ign.com/articles/get-ready-for-the-first-new-scott-pilgrim-comic-in-16-years
 https://www.gamespot.com/articles/zelda-ocarina-of-time-players-are-creating-incredible-cover-songs-in-the-game
 https://www.gematsu.com/2026/11/cozy-life-simulation-game-wish-upon-a-llama-launches-december-9-for-ps5-xbox-series-ps4-xbox-one-switch-and-pc
 https://www.dexerto.com/lego/lego-is-turning-a-fan-made-interstellar-spaceship-into-an-official-set-3426749
@@ -2498,3 +2495,6 @@ https://www.techradar.com/pro/security/infoblox-confirms-company-and-customer-da
 https://www.ign.com/articles/get-a-free-5-amazon-discount-when-you-text-alexa-to-shop
 https://www.gamespot.com/articles/these-are-some-of-the-biggest-snubs-at-the-game-awards-2026
 https://www.techradar.com/tech/openai-just-launched-gpt-6-2-and-its-powerful-enough-to-recreate-the-whole-of-paris-as-a-virtual-world-you-can-explore-in-your-browser
+https://www.ign.com/articles/it-was-pretty-traumatic-it-was-hilarious-exodus-lead-actors-talk-romance-scenes-and-embodying-player-choice
+https://www.gamespot.com/articles/civilization-dev-lays-off-1-3-of-staff-new-xcom-game-facing-development-struggles-report
+https://www.techradar.com/computing/gpu/nvidia-goes-into-full-damage-limitation-mode-announcing-new-national-security-and-export-committee-which-would-have-been-a-great-idea-a-few-years-ago
