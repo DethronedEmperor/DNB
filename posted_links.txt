@@ -1,9 +1,3 @@
-https://www.kitguru.net/gaming/mustafa-mahmoud/ps5-exclusive-god-of-war-sons-of-sparta-is-seemingly-being-backported-to-playstation-4
-https://www.techradar.com/pro/since-tokenmaxxing-is-the-wrong-metric-for-ai-roi-what-is-the-right-one
-https://overclock3d.net/news/software/zelda-ocarina-of-time-remake-recieves-native-pc-port-with-ultrawide-support
-https://www.pcgamer.com/hardware/pc-cases/msi-maestro-900r-review
-https://insider-gaming.com/how-to-get-free-weekly-gold-outfits-in-fortnite-drop-rates-odds
-https://www.tomshardware.com/pc-components/gpu-drivers/amd-adrenalin-bug-could-be-writing-data-continuously-wearing-out-ssds-radeon-owner-claims-external-events-utility-used-up-1-percent-of-ssd-health-every-month-for-over-a-year
 https://wccftech.com/square-enix-final-fantasy-vii-rebirths-open-world-checklist-mod-random-encounters
 https://www.techradar.com/gaming/why-is-warhammer-40-000-dawn-of-war-4-going-back-to-kronus-we-asked-the-real-time-strategy-games-creative-director-to-explain-why
 https://www.pcgamer.com/hardware/graphics-cards/consider-this-blackened-plug-your-weekly-reminder-to-check-your-rtx-50-series-gpu-cables
@@ -2498,3 +2492,9 @@ https://www.tomshardware.com/pc-components/ssds/phison-pascari-x201p-15-36tb-ssd
 https://www.techpowerup.com/354931/ssstc-introduces-pcie-gen4-qlc-ssds-for-ai-pcs-and-industrial-applications
 https://www.techradar.com/entertainment/tv-shows/how-to-watch-the-odyssey-online-stream-christopher-nolan-epic-from-anywhere
 https://www.guru3d.com/review/vzmore-ix9-max-mini-pc-review-core-ultra-9-185h
+https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-is-already-running-rampant-on-pc-but-can-nintendo-do-anything-about-it
+https://www.gamespot.com/articles/sony-is-updating-the-ps5-again-and-it-might-have-gta-6-pirates-in-mind
+https://www.tomshardware.com/video-games/xbox/brazilian-businessman-arrested-for-attempted-murder-after-planting-explosive-filled-game-console-that-detonated-in-electronics-store-perp-tried-to-kill-business-rival-device-delivered-by-unsuspecting-motorcyclist-working-for-a-delivery-service
+https://www.techpowerup.com/354934/meet-kandao-focus-focus-se-4k-ai-webcams
+https://wccftech.com/harvard-study-warns-us-datacenters-power-consumption-could-already-be-considerably-higher-chile
+https://www.techradar.com/pro/new-report-finds-nearly-all-uk-data-centre-operators-report-electrical-disruption-as-critical-bottleneck-looms
