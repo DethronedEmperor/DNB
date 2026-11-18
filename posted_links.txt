@@ -1,11 +1,3 @@
-https://insider-gaming.com/gta-6-playable-on-xbox-one-via-cloud-gaming
-https://www.gematsu.com/2026/11/the-falconeer-revolution-remaster-coming-to-ps5-xbox-series-on-december-2
-https://www.dexerto.com/food/burger-king-reveals-22-magic-the-gathering-meal-with-deck-boxes-and-mtg-card-sleeves-3426959
-https://www.techpowerup.com/354643/asrock-updates-vbios-flashing-utility-following-radeon-rx-7900-xt-xtx-bricking-reports
-https://www.techradar.com/pro/security/wyndham-confirms-it-exposed-hotel-customer-data-after-expert-finds-flaw-in-app-security
-https://www.gamespot.com/articles/gta-6-ps5-pro-features-frame-rates-and-xbox-cloud-gaming-details-confirmed-by-rockstar
-https://www.pcgamer.com/games/puzzle/big-walk-developer-reveals-it-used-generative-ai-sparingly-estimates-well-under-0-1-percent-was-actually-coded-using-llms
-https://insider-gaming.com/marathon-season-3-free-to-play
 https://www.eurogamer.net/gta-6-xbox-cloud-streaming-pc-xbox-one
 https://www.gematsu.com/2026/11/grand-theft-auto-vi-pre-load-now-available-ps5-pro-support-confirmed
 https://www.dexerto.com/entertainment/japan-making-ai-app-to-learn-japanese-by-talking-to-anime-characters-3426933
@@ -2498,3 +2490,11 @@ https://www.tomshardware.com/tech-industry/data-centers/nvidia-board-faction-ang
 https://wccftech.com/nvidia-gpu-drivers-reportedly-writing-up-to-30gb-per-hour-to-ssds-echoing-amds-recent-driver-bug
 https://www.kitguru.net/gaming/matthew-wilson/gta-6-labelled-a-masterpiece-following-perfect-review-scores-across-the-board
 https://www.techradar.com/gaming/school-offers-students-prizes-to-avoid-gta-flu-outbreak-xbox-and-playstation-gift-card-draw-aims-to-avoid-attendance-drops
+https://www.ign.com/articles/amazon-slashes-10-off-control-resonant-in-early-black-friday-sale-dropping-to-its-lowest-price-yet
+https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6
+https://www.videogameschronicle.com/guide/gta-6-unwanted-attention-mission-walkthrough
+https://insider-gaming.com/gta-6-full-weapons-guide-types-and-how-to-buy
+https://wccftech.com/review/msi-edgemesa-n-ai-x-mini-pc-review-nvidia-rtx-spark-delivers-superb-gaming-ai-performance-in-a-compact-form-factor-with-uncompromised-140w-tdp
+https://www.kitguru.net/channel/generaltech/matthew-wilson/msi-unveils-edgemesa-n-ai-rtx-spark-mini-pc
+https://www.techradar.com/computing/windows-laptops/dell-14-plus-vs-dell-xps-13-two-of-our-favourite-dell-laptops-just-got-early-black-friday-discounts
+https://www.guru3d.com/review/asus-proart-gr1x-review-blackwell-ai-on-your-desk
