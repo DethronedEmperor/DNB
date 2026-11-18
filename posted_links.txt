@@ -1,10 +1,3 @@
-https://www.kitguru.net/gaming/matthew-wilson/gta-6-targets-30fps-with-ray-tracing-reserved-for-ps5-pro
-https://www.techradar.com/pro/claude-can-now-join-your-weekly-meeting-to-take-notes-and-even-start-work-for-you-and-thats-not-all-with-new-spreadsheet-whiteboard-tools-and-more-helping-conquer-the-world-of-frontier-work
-https://www.guru3d.com/story/amd-gfx13-linux-patches-show-nextgeneration-radeon-driver-work-advancing
-https://www.ign.com/articles/is-the-dc-cinematic-universe-just-cursed
-https://www.gamespot.com/articles/death-stranding-2-headlines-playstation-plus-game-catalog-for-november
-https://www.pcgamer.com/games/roguelike/i-fought-queens-and-knights-but-somehow-my-hardest-opponents-in-stack-order-the-next-great-deckbuilder-were-2-birds
-https://www.videogameschronicle.com/news/nintendo-is-hiring-someone-to-document-the-history-of-its-games
 https://insider-gaming.com/gta-6-ps5-vs-xbox-specs
 https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history
 https://www.gematsu.com/2026/11/playstation-plus-game-catalog-and-classics-catalog-lineup-for-november-2026-announced
@@ -2498,3 +2491,10 @@ https://www.tomshardware.com/tech-industry/data-centers/leaked-ohio-bill-could-a
 https://www.techpowerup.com/354991/nvidia-rtx-spark-compact-desktops-out-now
 https://wccftech.com/playstation-5-pro-grand-theft-auto-vi-60-fps-most-stable
 https://www.techradar.com/gaming/gta-6-head-of-development-says-the-emphasis-on-interactivity-adds-friction-to-almost-every-facet-of-gameplay-it-means-you-have-to-think-a-little-bit-more-about-what-you-want-to-do-and-when-and-why-you-want-to-do-it
+https://www.ign.com/articles/gta-6-doesnt-let-you-replay-story-missions-heres-why
+https://www.gamespot.com/articles/the-gta-6-police-dont-have-equal-response-times-for-all-crimes
+https://www.videogameschronicle.com/news/rockstar-says-ps5-pro-cant-handle-gta-6-at-60-fps
+https://insider-gaming.com/gta-6-100-completion-a-long-road-trophy
+https://www.dexerto.com/entertainment/spongebob-squarepants-trading-card-of-squidwards-trash-painting-sells-for-nearly-60000-3429426
+https://www.techpowerup.com/354989/supermicro-ships-first-all-flash-storage-servers-delivering-pcie-gen-6-performance-and-broad-software-defined-storage-support
+https://www.techradar.com/science/robotics/our-most-advanced-audio-animatronics-in-the-world-disney-imagineering-reveals-how-aws-ai-brings-the-star-wars-anzellans-to-life
