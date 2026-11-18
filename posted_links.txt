@@ -1,10 +1,3 @@
-https://www.videogameschronicle.com/news/playstation-reportedly-cancels-fairgames-after-recent-playtests
-https://insider-gaming.com/sony-cancels-fairgames-playstation-live-service-shooter
-https://www.gematsu.com/2026/11/fairgame-canceled
-https://www.dexerto.com/gears-of-war/epic-responds-after-gears-of-war-creator-claims-it-wont-give-back-the-first-character-he-created-3427120
-https://www.techpowerup.com/354659/microsoft-developer-builds-a-gpu-task-manager-to-show-which-apps-are-eating-your-vram
-https://www.techradar.com/pro/vzmores-ax9-max-mini-pc-packs-a-powerful-12-core-ryzen-ai-9-processor-and-this-exclusive-code-saves-you-usd229-for-black-friday
-https://www.gamespot.com/articles/gta-6-what-will-review-scores-be-you-can-win-a-500-gift-card-for-getting-it-right
 https://insider-gaming.com/fortis-games-shuts-down-440-jobs-expected-lost
 https://www.techpowerup.com/354668/microsoft-hints-at-winui-3-overhaul-for-windows-11s-leftover-legacy-dialogs
 https://wccftech.com/apple-m5-macbook-air-amazon-deals-save-250
@@ -2498,3 +2491,10 @@ https://www.pcgamer.com/games/grand-theft-auto/gta-6-military-base-location
 https://www.videogameschronicle.com/news/republican-congressman-says-youre-a-bad-parent-if-you-let-your-child-play-gta-6
 https://www.kitguru.net/peripherals/monitors/joao-silva/acer-launches-34-inch-5k-ultrawide-gaming-monitors-with-dual-mode-refresh-rates
 https://www.techradar.com/pro/security/over-half-of-android-and-ios-banking-apps-have-serious-security-flaws-2-686-apps-across-top-global-banks-expose-bypassable-biometric-logins-and-hardcoded-secret-keys
+https://www.ign.com/articles/devgamm-awards-2026-winners-revealed
+https://www.gamespot.com/articles/gta-6s-best-song-is-a-nelly-furtado-cover-from-azerbaijan
+https://www.pcgamer.com/games/grand-theft-auto/gta-6-parachute-how-to-get
+https://www.tomshardware.com/pc-components/amds-twitter-brag-that-it-loves-gamers-met-with-savage-community-note-post-met-with-backlash-over-the-companys-pivot-to-ai
+https://www.techpowerup.com/354996/latest-nvidia-drivers-might-cause-excessive-ssd-writing
+https://www.kitguru.net/peripherals/monitors/joao-silva/ktc-prepares-31-5-inch-6k-mini-led-monitor-with-2304-dimming-zones
+https://www.techradar.com/pro/voltage-glitch-unlocks-80gb-on-nvidias-cmp-170hx-but-faster-than-an-a100-rests-on-a-single-benchmark
