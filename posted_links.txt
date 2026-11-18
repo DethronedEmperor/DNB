@@ -1,10 +1,3 @@
-https://www.kitguru.net/gaming/mustafa-mahmoud/street-fighter-6-is-500k-copies-away-from-becoming-the-best-selling-entry-in-the-franchise
-https://www.techradar.com/pro/ai-made-coding-faster-it-didnt-make-software-simpler
-https://insider-gaming.com/take-two-ceo-doubles-down-on-reviving-legacy-franchises
-https://www.gematsu.com/2026/11/dragon-quest-rpg-the-cursed-tree-and-the-chosen-isle-unveiled
-https://wccftech.com/amd-rdna-5-gpu-support-arrives-in-linux-with-over-12600-lines-of-gfx13-driver-code
-https://www.techradar.com/pro/security/connected-data-is-transforming-the-fight-against-fraud-new-report-warns-ai-is-fuelling-a-major-rise-in-insurance-fraud
-https://www.videogameschronicle.com/news/big-walk-studio-says-it-used-ai-sparingly-in-response-to-indie-award-jury-statement-against-its-use
 https://insider-gaming.com/esports-betting-league-of-legends
 https://www.rockpapershotgun.com/skydance-games-lay-off-an-undisclosed-number-of-staff-in-the-wake-of-paramount-warner-bros-merger-in-latest-case-of-consolidation-killing-livelihoods
 https://www.gematsu.com/2026/11/winter-whiskers-launches-december-9
@@ -2498,3 +2491,10 @@ https://www.dexerto.com/entertainment/viral-hippo-put-on-24-hour-medical-watch-a
 https://www.tomshardware.com/laptops/gaming-laptops/walmart-has-slashed-usd700-off-this-msi-gaming-laptop-16-inch-crosshair-features-an-rtx-5060-gpu-and-16gb-of-ddr5-ram
 https://wccftech.com/gta-6-99-metascore-best-reviewed-game-all-time
 https://www.techradar.com/live/news/gta-6-review-embargo-roundup-reaction-ask-me-anything-launch-live
+https://www.gamespot.com/articles/can-you-keep-playing-after-finishing-gta-6s-story
+https://www.pcgamer.com/hardware/graphics-cards/if-you-dont-bring-jensen-back-i-would-not-hire-an-outsider-says-amazon-boss-jeff-bezos-but-nvidia-says-its-going-to-look-at-internal-and-external-candidates
+https://www.videogameschronicle.com/guide/gta-6-first-person-mode-explained-does-gta-6-have-a-first-person-mode
+https://insider-gaming.com/how-to-switch-to-first-person-gta-6
+https://wccftech.com/openais-gpt-6-2-astra-becomes-the-first-model-to-achieve-a-100-score-on-arc-agi-3-while-being-8x-cheaper-than-anthropics-fable-5-2-but-actual-users-are-not-impressed
+https://www.techradar.com/computing/gpu/nvidia-is-making-boatloads-of-cash-and-confirms-huang-is-out-for-good-and-i-fear-the-worst-for-gaming-gpus-now
+https://overclock3d.net/news/software/microsoft-boosts-xbox-series-x-s-with-new-aco-compiler
