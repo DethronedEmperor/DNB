@@ -1,5 +1,3 @@
-https://www.techradar.com/pro/amd-says-it-will-outsell-intel-for-the-first-time-in-its-history-as-epyc-and-instinct-sales-soar-on-ai-demand
-https://www.ign.com/articles/call-of-duty-facetime-chat-causes-plane-to-be-evacuated
 https://www.gematsu.com/2026/11/switch-2-and-switch-system-updates-version-23-5-0-now-available
 https://www.techpowerup.com/354630/microsoft-patent-describes-paying-pc-owners-to-train-ai-on-idle-gpus
 https://www.ign.com/articles/nike-and-tekken-team-up-for-a-king-inspired-air-max-shoe
@@ -2498,3 +2496,5 @@ https://www.ign.com/articles/bose-quietcomfort-noise-canceling-headphone-deal-no
 https://www.gematsu.com/2026/11/hakoniwa-electric-launches-november-30
 https://www.techradar.com/pro/nearly-half-of-linkedin-users-would-like-to-start-their-own-business-with-younger-workers-particularly-keen
 https://www.ign.com/articles/its-been-a-shtshow-esports-casters-call-for-change-after-embark-studios-replaces-talent-for-the-finals-grand-major-qualifier-highlight-reel-with-games-ai-commentators
+https://www.ign.com/articles/robert-pattinsons-james-bond-casting-process-details-revealed-by-amazons-jeff-bezos
+https://wccftech.com/nvidia-gpu-rental-prices-have-doubled-asserts-interim-ceo-kress-as-she-reports-a-whopping-309-billion-in-supply-commitments-fueled-by-pricey-memory-chips
