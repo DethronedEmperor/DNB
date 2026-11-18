@@ -1,12 +1,3 @@
-https://insider-gaming.com/fortis-games-shuts-down-440-jobs-expected-lost
-https://www.techpowerup.com/354668/microsoft-hints-at-winui-3-overhaul-for-windows-11s-leftover-legacy-dialogs
-https://wccftech.com/apple-m5-macbook-air-amazon-deals-save-250
-https://www.techradar.com/entertainment/streaming/apple-tv-is-adding-american-sign-language-to-some-films-and-you-dont-need-a-browser-extension
-https://www.gamespot.com/articles/queens-domain-has-the-most-terrifying-mimic-design-ive-ever-seen
-https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space
-https://insider-gaming.com/valorant-patch-13-10-adds-replay-bookmarks-and-updates-gauntlet-glitched
-https://www.rockpapershotgun.com/sony-have-cancelled-fairgame-once-again-reminding-us-that-chasing-live-service-big-bucks-basically-never-works
-https://www.techpowerup.com/354669/logitech-unveils-yet-another-mx-master-4-special-edition
 https://www.techradar.com/pro/tech-cannibalization-to-become-mainstream-removing-expensive-components-and-reballing-memory-set-to-reach-7-9-of-smartphones-by-2027
 https://www.ign.com/articles/world-of-warcraft-forever-hotfix-will-thin-out-overcrowded-zones-and-help-faction-balance
 https://www.gamespot.com/articles/sony-cancels-live-service-ps5-game-fairgames-but-no-layoffs
@@ -2498,3 +2489,12 @@ https://www.tomshardware.com/pc-components/amds-twitter-brag-that-it-loves-gamer
 https://www.techpowerup.com/354996/latest-nvidia-drivers-might-cause-excessive-ssd-writing
 https://www.kitguru.net/peripherals/monitors/joao-silva/ktc-prepares-31-5-inch-6k-mini-led-monitor-with-2304-dimming-zones
 https://www.techradar.com/pro/voltage-glitch-unlocks-80gb-on-nvidias-cmp-170hx-but-faster-than-an-a100-rests-on-a-single-benchmark
+https://www.ign.com/articles/new-avengers-doomsday-posters-reveal-key-characters-and-tease-thors-odinforce
+https://www.gamespot.com/articles/psn-went-down-sorta-on-gta-6-eve
+https://www.pcgamer.com/games/grand-theft-auto/gta-6-save-game
+https://insider-gaming.com/ps5-pros-cpu-upgrade-is-not-enough-for-gta-6-at-60-fps
+https://www.dexerto.com/youtube/youtuber-freed-from-prison-over-stalking-evidence-that-may-have-been-faked-3429717
+https://www.tomshardware.com/pc-components/gpu-drivers/nvidia-geforce-driver-bug-reportedly-hammers-ssds-with-up-to-30gb-of-writes-per-hour-users-trace-massive-idle-wear-to-background-service-newer-driver-reportedly-still-affected
+https://www.techpowerup.com/355004/gta-6-reportedly-plays-best-on-ps5-pro-xbox-series-s-struggles
+https://www.kitguru.net/components/cooling/joao-silva/thermaltakes-new-rgb-fans-feature-synchronised-4-inch-displays
+https://www.techradar.com/entertainment/build-some-holiday-magic-the-12-best-lego-sets-to-gift-in-2026-picked-by-a-lifelong-fan
