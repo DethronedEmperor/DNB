@@ -1,9 +1,3 @@
-https://www.techpowerup.com/354658/otto-introduces-otto-one-the-personal-ai-computer-for-autonomous-agents
-https://wccftech.com/amd-epyc-embedded-9006-cpus
-https://www.kitguru.net/gaming/joao-silva/microsoft-explores-paying-users-for-idle-gpu-compute
-https://www.techradar.com/home/home-security/wyze-just-launched-a-smart-lock-that-you-can-install-in-moments-with-a-philips-screwdriver-plus-a-solar-security-camera-that-stays-charged-on-an-hour-of-sunlight-per-day-and-theyre-both-surprisingly-cheap
-https://www.ign.com/articles/playstation-plus-pc-app-will-go-offline-december-10-as-sony-continues-to-retreat-from-pc
-https://www.videogameschronicle.com/news/overwatch-brings-back-6v6-role-queue-following-player-feedback
 https://insider-gaming.com/lol-patch-26-23-preview-buffs-nerfs
 https://www.gematsu.com/2026/11/the-outer-worlds-2-dlc-side-effects-guaranteed-launches-december-2
 https://www.dexerto.com/entertainment/hidden-valley-ranch-will-pay-for-your-wedding-if-you-can-prove-your-love-for-ranch-3427137
@@ -2498,3 +2492,9 @@ https://www.gematsu.com/2026/11/coral-island-for-switch-2-launches-december-7-al
 https://www.dexerto.com/gta/gta-6-drops-longtime-hookup-options-and-prostitution-to-focus-on-jason-and-lucias-romance-3429539
 https://www.kitguru.net/gaming/matthew-wilson/gta-6-includes-advanced-ray-tracing-even-on-base-consoles
 https://www.techradar.com/computing/cyber-security/hey-you-stuffing-cash-into-your-mattress-this-series-of-unfortunate-tech-outages-is-not-connected-nor-is-it-the-end-of-our-digital-world
+https://www.gamespot.com/articles/dont-expect-to-see-vice-city-for-a-long-time-in-gta-6
+https://www.pcgamer.com/games/grand-theft-auto/i-just-hope-gta-6-is-the-last-of-its-kind-warren-spector-congratulates-rockstar-on-its-landmark-accomplishment-but-says-the-industry-cant-keep-this-up
+https://www.videogameschronicle.com/guide/gta-6-day-release-mission-walkthrough
+https://www.eurogamer.net/ps5-pro-not-powerful-enough-gta-6-60fps
+https://wccftech.com/grand-theft-auto-vi-twitch-viewers-record-league-of-legends
+https://www.techradar.com/pro/security/hackers-target-big-brands-like-mcdonalds-bayer-carmax-in-new-phishing-scam
