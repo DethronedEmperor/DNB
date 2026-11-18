@@ -1,10 +1,3 @@
-https://www.tomshardware.com/peripherals/secretlab-debuts-monitor-light-bar-add-on-to-reduce-glare-and-eye-strain-ergoarch-has-a-three-point-adjustment-arm-costs-usd179
-https://www.techpowerup.com/354256/teclast-v16q-portable-monitor-with-a-16-inch-2-5k-high-refresh-rate-screen
-https://wccftech.com/review/crkd-ult-pro-review
-https://www.kitguru.net/components/power-supplies/zardon/gigabyte-ud850gm-pg5-v2-2026-psu-review
-https://www.techradar.com/pro/seagate-firecuda-forge-review
-https://www.ign.com/articles/gta-6-preloads-are-now-available-ps5-xbox
-https://www.gamespot.com/articles/sony-is-bringing-the-best-trend-of-90s-console-design-to-ps5
 https://www.pcgamer.com/games/grand-theft-auto/i-feel-better-than-ever-waiting-for-gta-6-on-pc-now-rockstar-confirms-its-targeting-30-fps-on-playstation-and-xbox
 https://www.dexerto.com/gta/gta-6-confirms-xbox-cloud-gaming-support-but-pc-players-face-a-catch-3427015
 https://www.techradar.com/audio/earbuds-airpods/its-not-all-about-wired-hedphones-in-2026-two-new-pairs-of-wireless-iems-launch-with-multiple-drivers-bespoke-audio-and-eye-watering-price-tags
@@ -2498,3 +2491,10 @@ https://www.techpowerup.com/354886/revopoint-launches-miraco-2-on-kickstarter-sc
 https://wccftech.com/windows-7-can-now-run-nvidia-rtx-50-amd-rx-9000-and-intel-xe-gpus-thanks-to-unofficial-wddm-2-backport-with-directx-12-support-too
 https://www.techradar.com/pro/ai-meets-innovation-in-the-stunning-creality-k1-max-now-with-a-usd350-discount
 https://www.guru3d.com/story/msi-edgemesa-n-brings-nvidia-rtx-spark-to-compact-windows-pcs
+https://www.ign.com/articles/how-gta-6-came-together-at-rockstar-north
+https://www.gamespot.com/articles/gta-6-isnt-worth-buying-a-fancy-controller-for
+https://www.videogameschronicle.com/guide/gta-6-island-dreams-walkthrough
+https://insider-gaming.com/gta-6-doesnt-allow-you-to-replay-story-missions
+https://www.dexerto.com/roblox/throw-a-seed-codes-3429397
+https://wccftech.com/asus-officially-launches-nvidia-rtx-spark-powered-proart-gr1x
+https://www.techradar.com/live/news/amazon-black-friday-deals-2026-november-18
