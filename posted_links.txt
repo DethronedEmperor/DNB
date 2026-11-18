@@ -1,11 +1,3 @@
-https://www.techradar.com/pro/adobe-wants-you-to-spend-less-time-editing-and-more-time-creating-creative-cloud-opens-its-doors-to-third-party-ai-agents
-https://www.ign.com/articles/ps5-prism-collection-dualsense-controllers-console-covers-where-to-buy
-https://www.pcgamer.com/software/windows/ms-has-messily-patched-a-microsoft-paint-security-vulnerability-but-the-update-still-isnt-showing-up-for-some
-https://insider-gaming.com/devolver-digital-reveals-its-first-aaa-game
-https://www.rockpapershotgun.com/nvidia-shareholders-have-filed-a-lawsuit-against-the-tech-company-over-claims-that-they-were-misled-regarding-ceo-jensen-huangs-affair
-https://www.dexerto.com/food/mcdonalds-new-chicken-sandwiches-are-so-popular-theyre-being-pulled-from-menus-3427093
-https://www.tomshardware.com/tech-industry/policy/microsoft-lobbies-against-potential-ban-on-chinese-optical-networking-gear-for-ai-data-centers-as-fcc-mulls-restricting-imports-industry-group-says-move-could-grind-data-center-rollout-to-a-halt
-https://wccftech.com/microsoft-vp-creates-open-source-gpu-task-manager-that-shows-exactly-whats-using-your-vram
 https://www.techradar.com/pro/security/new-bluephishing-scam-sees-criminals-spoof-ai-agents-to-get-access-to-corporate-environments
 https://www.ign.com/articles/sony-confirms-gta-6-is-now-the-most-preordered-game-in-playstation-store-history-issues-official-preload-warning
 https://www.pcgamer.com/games/grand-theft-auto/i-installed-a-gta-5-mod-that-makes-it-rain-human-beings-and-no-i-dont-know-why-either
@@ -2498,3 +2490,11 @@ https://www.techradar.com/pro/security/tor-hit-by-major-ddos-attack-forced-to-re
 https://www.gamespot.com/articles/how-long-does-it-take-to-fly-across-the-entire-gta-6-map
 https://insider-gaming.com/gta-6-money-making
 https://www.techradar.com/gaming/gta-6-dev-shares-how-miami-vice-heat-and-goodfellas-are-touchstones-for-the-latest-game-and-how-it-channeled-a-sense-of-nostalgia-of-gta-vice-city-i-think-the-feeling-of-playing-a-movie-that-you-get-with-gta-is-one-of-the-coolest-things-we-do
+https://www.gamespot.com/articles/jason-loves-cats-in-gta-6-but-not-all-of-them
+https://www.videogameschronicle.com/guide/gta-6-buck-me-mission-walkthrough
+https://insider-gaming.com/gta-6-devs-didnt-feel-the-internet-was-necessary
+https://www.rockpapershotgun.com/world-of-warcraft-forever-isnt-mere-nostalgia-bait-its-rebuilding-the-mmo-social-architecture-that-blizzard-spent-years-dismantling
+https://www.eurogamer.net/gta-6-ultimate-edition-unlock-details-temporary-content
+https://www.dexerto.com/food/hersheys-celebrates-new-movie-with-5-cent-chocolate-bars-how-to-get-them-3429535
+https://www.techpowerup.com/354995/jedec-previews-next-generation-ddr6-dram
+https://www.techradar.com/vehicle-tech/self-driving-vehicles/waymo-pulls-driverless-taxis-from-all-us-highways-after-california-dubs-them-an-imminent-hazard-to-public-safety
