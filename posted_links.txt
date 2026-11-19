@@ -1,11 +1,3 @@
-https://www.gematsu.com/2026/11/dont-fret-launches-december-8
-https://www.dexerto.com/entertainment/developer-creates-claude-ai-simulation-questioning-whether-fingers-ever-truly-touch-3427333
-https://www.techpowerup.com/354699/mounting-finished-goods-inventories-prompt-some-pc-oems-to-adjust-memory-procurement-plans-for-2027
-https://www.kitguru.net/gaming/matthew-wilson/bethesda-marks-skyrims-15th-anniversary-with-the-skyrim-15-creations-bundle
-https://www.techradar.com/pro/openclaw-is-creating-a-new-privileged-access-problem-for-security-teams
-https://www.pcgamer.com/hardware/storage/got-a-synology-nas-time-to-check-your-updates-as-two-high-level-vulnerabilities-let-neer-do-wells-read-and-write-files-and-conduct-ddos-attacks
-https://www.dexerto.com/entertainment/tinder-and-hinge-ban-ai-agents-from-running-profiles-and-dating-for-you-3427393
-https://www.techpowerup.com/354698/xgimi-horizon-30-pro-and-ultra-max-now-available
 https://wccftech.com/gigabyte-debuts-ai-top-aero-with-nvidia-rtx-spark
 https://www.techradar.com/pro/security/elon-musks-grok-build-coding-agent-is-leaking-a-serious-amount-of-confidential-data
 https://www.ign.com/articles/the-body-review-netflix
@@ -2498,3 +2490,11 @@ https://www.tomshardware.com/pc-components/cpus/intel-continues-layoffs-with-cut
 https://www.techpowerup.com/354313/max-out-your-gen-4-slot-predator-gm7-nvme-ssd-up-to-7400-mb-s
 https://wccftech.com/nvidia-modified-cmp-170hx-mining-card-hits-85-9-tflops-in-a-projectphysx-fp16-test-ahead-of-a-retail-a100s-72-5-tflops
 https://www.techradar.com/pro/boulies-ep600-ergonomic-office-chair-deal-drops-for-black-friday-and-its-one-of-the-best-mid-range-picks-weve-ever-tested
+https://www.ign.com/articles/resident-evil-requiem-black-friday-deal
+https://www.gamespot.com/articles/why-gta-6-doesnt-include-disney-world
+https://www.videogameschronicle.com/blog/podcast/podcast-special-your-gta-6-questions-answered-after-150-hours-of-gameplay
+https://insider-gaming.com/paul-walker-gta-6-easter-egg
+https://www.rockpapershotgun.com/fish-with-a-sniper-rifle-takes-aim-at-tim-sweeneys-hopes-and-dreams-as-genai-free-meme-game-tops-epic-games-vibe-coding-megajam
+https://www.dexerto.com/gta/gta-6s-new-dangerous-driving-and-doomscrolling-feature-spawns-hilarious-memes-3429850
+https://www.kitguru.net/channel/generaltech/matthew-wilson/sudokoo-launches-black-friday-deals-on-am5-cpu-coolers-and-case-fans
+https://www.techradar.com/pro/is-ai-becoming-feral
