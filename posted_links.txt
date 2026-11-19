@@ -1,4 +1,3 @@
-https://www.eurogamer.net/zelda-ocarina-of-time-switch-2-sales-nintendo
 https://wccftech.com/the-outer-worlds-2-side-effects-guaranteed-dlc-december-2
 https://www.kitguru.net/gaming/mustafa-mahmoud/gta-v-has-officially-sold-235-million-copies
 https://www.techradar.com/pro/increased-ai-usage-is-making-younger-workers-more-afraid-of-saying-i-dont-know
@@ -2498,3 +2497,4 @@ https://wccftech.com/amd-ryzen-desktop-cpus-are-now-up-to-200-off-as-holiday-sea
 https://www.guru3d.com/story/amd-adrenalin-26112-fixes-more-radeon-ssd-writes-and-game-crashes
 https://www.guru3d.com/story/amd-to-unveil-zen-6-consumer-notebook-chips-at-ces-2027-on-jan-5-medusa-point
 https://www.guru3d.com/story/nvidia-q3-fy2027-usd-1158-billion-revenue-data-center-usd-1076-billion-usd-130-billion-q4
+https://www.guru3d.com/story/reports-indicate-recent-nvidia-geforce-drivers-may-generate-heavy-ssd-writes
