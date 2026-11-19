@@ -1,9 +1,3 @@
-https://www.techradar.com/pro/security/model-weights-need-the-same-level-of-scrutiny-as-code-microsoft-researchers-find-ai-agents-can-be-backdoored-by-editing-just-a-few-neurons
-https://www.ign.com/articles/the-lego-up-scaled-santa-minifigure-has-hit-a-new-low-price-in-early-black-friday-deal-at-amazon
-https://insider-gaming.com/gta-6-surpasses-1-billion-presales
-https://www.eurogamer.net/gta-6-censored-japan-smaller-install-size
-https://www.dexerto.com/gta/gta-6-fans-fear-censored-content-as-file-size-is-smaller-in-certain-regions-3427438
-https://www.techpowerup.com/354704/nintendo-dmca-notice-takes-down-144-switch-modchip-firmware-repos-on-github
 https://www.techradar.com/computing/keyboards/corsair-skiff-100-review
 https://www.ign.com/articles/bethesda-sets-expectations-as-fans-hope-for-the-elder-scrolls-vi-sentinel-news-today
 https://www.videogameschronicle.com/news/we-waited-15-years-for-this-skyrims-anniversary-overshadowed-by-players-hoping-for-more-sentinel-info
@@ -2498,3 +2492,9 @@ https://www.rockpapershotgun.com/ubisoft-lay-off-166-more-staff-this-time-at-the
 https://www.dexerto.com/entertainment/man-sees-his-cat-on-peoples-faces-everywhere-after-brain-surgery-3429920
 https://wccftech.com/path-of-exile-2-concurrent-steam-players-1-million-1-0
 https://www.techradar.com/pro/lenovos-business-friendly-thinkpad-t14-gen-7-is-usd600-off-in-the-black-friday-laptop-sale
+https://www.pcgamer.com/games/grand-theft-auto/rockstar-has-finally-posted-gta-6s-full-map-online-thank-goodness-because-clearing-the-entire-thing-in-game-takes-ages
+https://insider-gaming.com/deft-returns-lck-joins-nongshim
+https://www.dexerto.com/food/just-eat-reveals-limited-edition-controller-with-order-food-button-for-instant-deliveries-3429904
+https://wccftech.com/google-engineer-runs-gemma-3-270m-ai-model-directly-on-office-printer-via-postscript
+https://www.kitguru.net/channel/generaltech/matthew-wilson/biwin-discounts-gen4-and-gen5-ssds-for-black-friday
+https://www.techradar.com/computing/laptops/the-gift-that-changes-everything
