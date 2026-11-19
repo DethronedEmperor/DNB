@@ -1,9 +1,3 @@
-https://www.techpowerup.com/354705/eu-draft-digital-fairness-act-details-new-restrictions-on-loot-boxes-and-addictive-design
-https://www.ign.com/articles/new-gta-6-surprise-gameplay-seemingly-released-in-yet-another-viral-marketing-stunt
-https://www.pcgamer.com/games/crimson-desert-wins-pc-game-of-the-year-at-the-2026-golden-joystick-awards
-https://insider-gaming.com/square-enix-profits-nearly-triple-1h-fy2027
-https://www.dexerto.com/youtube/youtubers-food-festival-promising-50000-visitors-left-vendors-with-huge-losses-after-just-hundreds-showed-up-3427492
-https://www.tomshardware.com/pc-components/cpus/amds-venice-x-maxes-out-family-at-5-3-ghz-returning-3d-v-cache-to-data-center-after-four-years-chips-target-hpc-workloads-with-pcie-6-0-and-1-6-tb-s-memory-bandwidth
 https://www.techpowerup.com/354714/sega-network-hack-keeps-japanese-arcades-offline-for-over-10-days
 https://wccftech.com/amazons-computing-boss-says-space-data-centers-wont-be-feasible-or-practical-for-a-decade-even-as-musk-believes-in-1300w-m%c2%b2-heat-dissipation-for-ai-satellites
 https://overclock3d.net/news/software/grand-theft-auto-vi-targets-30-fps-on-all-consoles-even-ps5-pro
@@ -2498,3 +2492,9 @@ https://www.ign.com/articles/gta-6-ps5-dualsense-bundle-deal-argos
 https://www.gamespot.com/articles/gta-6-fast-travel-methods
 https://www.pcgamer.com/games/grand-theft-auto/this-is-technically-the-worst-version-of-gta-6-that-well-ever-play
 https://www.techradar.com/pro/security/cold-relic-remains-an-active-threat-google-warns-russian-hackers-are-hitting-public-sector-firms-with-sophisticated-phishing-and-malware-campaigns
+https://www.ign.com/articles/dig-review-peacock
+https://www.gamespot.com/articles/how-wow-forever-is-overhauling-classic-wows-infamous-pvp-honor-grind
+https://www.pcgamer.com/games/grand-theft-auto/im-counting-the-minutes-until-the-pc-version-fixes-the-weirdly-restrictive-cheats-in-gta-6
+https://www.videogameschronicle.com/guide/gta-6-bigfoot-explained-how-to-find-bigfoot-in-gta-6
+https://www.dexerto.com/twitch/clavicular-allegedly-told-17-year-old-to-call-vodka-water-to-avoid-twitch-ban-before-assault-3429989
+https://www.techradar.com/ai-platforms-assistants/what-interests-us-far-more-is-how-ai-can-fundamentally-change-gameplay-the-former-boss-behind-gta-iv-thinks-gamers-are-about-to-fall-in-love-with-generative-ai-but-im-not-fully-convinced
