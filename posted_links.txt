@@ -1,10 +1,3 @@
-https://wccftech.com/taiwan-chip-giant-tsmc-acknowledges-hack-of-reportedly-49000-employee-files-occurred-but-says-leaked-data-matches-that-stored-with-external-cloud-provider
-https://www.techradar.com/ai-platforms-assistants/us-data-center-power-demand-outpaces-supply-by-10x-and-could-bring-the-ai-boom-to-a-grinding-halt-by-2030-with-ai-companies-funneling-millions-into-gas-turbine-generators-and-modular-nuclear-reactors-to-stay-online
-https://www.guru3d.com/story/breaking-news-jensen-huang-steps-down-as-nvidia-ceo-after-33-years-leading-company
-https://www.ign.com/articles/visionquest-doctor-doom-plan-avengers-doomsday-childrens-crusade
-https://www.gamespot.com/articles/intergalactic-the-heretic-prophet-has-some-unexpected-anime-influences
-https://www.pcgamer.com/hardware/graphics-cards/jensen-huang-resigns-cfo-colette-kress-appointed-interim-ceo-at-nvidia
-https://www.videogameschronicle.com/news/nvidia-ceo-jensen-huang-resigns-following-multiple-cheating-scandals
 https://insider-gaming.com/palworld-dev-gives-pocketpair-employees-day-off-gta-6
 https://www.eurogamer.net/cd-projekt-red-geralt-gen-ai-voice-polish-jacek-rozenek
 https://www.gematsu.com/2026/11/fatal-fury-city-of-the-wolves-dlc-character-laocorn-gaudeamus-launches-november-19
@@ -2498,3 +2491,10 @@ https://www.gamespot.com/articles/all-waink-sculptures-in-gta-6
 https://www.eurogamer.net/grand-theft-auto-6-doja-cat-gutted-not-in-soundtrack
 https://www.kitguru.net/lifestyle/mobile/apple/mustafa-mahmoud/apples-app-store-awards-includes-tons-of-original-pc-console-games
 https://www.techradar.com/pro/erp-has-spent-decades-managing-money-is-it-time-to-start-moving-it
+https://www.ign.com/articles/amazon-black-friday-board-game-deals-2026
+https://www.gamespot.com/articles/gta-6-magazines-books-comics-locations-guide
+https://www.rockpapershotgun.com/valve-are-pausing-steam-machine-2tb-orders-over-supply-constraints-though-the-512gb-model-is-free-of-its-waitlist
+https://www.eurogamer.net/world-of-warcraft-forever-developers-best-in-slot-podcast
+https://www.tomshardware.com/tech-industry/robotics/autonomous-5-tonne-john-deere-skid-steer-loader-trained-to-perform-acrobatic-maneuvers-using-ai-researchers-discuss-reinforcement-learning-tech-in-a-paper-titled-heavy-metal-acrobatics
+https://wccftech.com/moore-threads-teases-lushan-desktop-gpu-largest-vram-capacity-consumer-history
+https://www.kitguru.net/tech-news/featured-tech-reviews/carlosribeiro/sihoo-b300-pro-review
