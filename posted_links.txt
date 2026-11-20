@@ -1,5 +1,3 @@
-https://www.videogameschronicle.com/news/a-group-of-developers-laid-off-from-id-software-have-formed-new-studio-hidden-horses
-https://www.dexerto.com/gta/new-gta-6-gameplay-is-so-realistic-fans-cant-believe-its-not-real-life-3427610
 https://www.tomshardware.com/tech-industry/artificial-intelligence/google-adds-two-new-specialized-chips-for-ai-agents-and-security-to-8th-gen-tpu-lineup-tpu-8i-max-puts-two-chips-on-one-package-for-long-context-work-tpu-8tx-swaps-arm-hosts-for-amd-epyc
 https://wccftech.com/fromsoftwares-bloodborne-path-tracing-pc-remake
 https://www.techradar.com/computing/gpu/nvidia-rtx-5080-super-gpu-is-canned-rumor-claims-and-im-not-surprised-in-the-slightest
@@ -2498,3 +2496,5 @@ https://www.techradar.com/pro/intels-commitment-to-the-hpc-community-is-grounded
 https://www.ign.com/articles/shokz-openrun-pro-2-sport-headphone-deal-november-2026
 https://www.videogameschronicle.com/guide/gta-6-daily-driver-mission-walkthrough
 https://www.techradar.com/gaming/there-are-close-to-a-thousand-animation-sets-for-ambient-activities-how-rockstars-gameplay-animation-makes-gta-6-a-fully-living-and-breathing-world-from-breathtaking-foot-chases-to-details-like-how-characters-open-a-door
+https://www.ign.com/articles/gta-6-mandy-serial-killer
+https://www.techradar.com/pro/the-large-hadron-collider-is-being-taken-apart-to-fit-magnets-that-have-never-run-in-an-accelerator-before
