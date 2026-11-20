@@ -1,5 +1,3 @@
-https://www.eurogamer.net/nvidia-ceo-jensen-huang-affair-share-price
-https://wccftech.com/asus-aims-to-turn-desktops-into-a-local-ai-agent-computer-with-new-hardware-and-software-ecosystem
 https://www.techradar.com/pro/ais-infrastructure-boom-is-standing-on-porcelain-legs
 https://www.gamespot.com/articles/marvel-1943-rise-of-hydra-isnt-canceled-but-dont-get-too-excited
 https://www.pcgamer.com/hardware/nvidia-stock-price-plunges-amid-second-jensen-huang-affair-allegation-the-ai-company-could-be-set-to-lose-hundreds-of-billions-in-value
@@ -2498,3 +2496,5 @@ https://www.techradar.com/pro/the-large-hadron-collider-is-being-taken-apart-to-
 https://www.ign.com/articles/you-can-now-buy-the-steam-machine-without-a-reservation-but-supplies-are-limited
 https://www.techpowerup.com/355048/ubisoft-lays-off-166-staff-at-its-montreal-and-quebec-city-studios
 https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-20-november-2026
+https://www.ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain
+https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-20-november-2026
