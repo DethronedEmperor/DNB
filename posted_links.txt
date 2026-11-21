@@ -1,5 +1,3 @@
-https://www.videogameschronicle.com/news/21-original-xbox-games-are-now-on-pc-via-backward-compatibility
-https://www.eurogamer.net/slay-the-spire-2-biggest-update-new-character-the-fool
 https://www.gematsu.com/2026/11/stranger-than-heaven-act-2-kure-story-trailer
 https://www.dexerto.com/entertainment/delivery-driver-fired-after-homeowner-catches-him-throwing-package-at-cat-3428075
 https://www.techpowerup.com/354786/lexar-launches-the-diamond-cfexpress-4-0-type-a-card
@@ -2498,3 +2496,5 @@ https://www.tomshardware.com/pc-components/external-hdds/get-38-percent-off-this
 https://www.techradar.com/audio/earbuds-airpods/apple-airpods-5-bose-qc-ultra-earbuds-gen-2-technics-eah-az100-nothing-ear-a-or-shokz-openfit-pro-ive-found-the-earbuds-you-should-buy-this-black-friday
 https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabbers-second-gen-optane-build-runs-2-8-trillion-parameter-kimi-k3-at-3-11-tokens-per-second-after-adding-two-rtx-3090s-moving-nearly-half-the-model-into-a-ram-drive-boosted-performance-by-41-percent
 https://www.techradar.com/live/news/black-friday-deals-uk-2026-november-21
+https://www.tomshardware.com/tech-industry/artificial-intelligence/one-gigabyte-of-wikipedia-losslessly-compressed-to-105-39mb-with-self-learning-ai-transformer-model-tufazip-needs-two-nvidia-b200-gpus-and-about-a-week-to-compress-or-decompress
+https://www.techradar.com/health-fitness/smartwatches/garmin-may-be-bringing-a-new-solar-trick-to-its-amoled-watches-that-could-give-them-a-serious-battery-boost
