@@ -1,8 +1,3 @@
-https://www.dexerto.com/pokemon/pokemon-fan-game-developer-says-claude-refused-to-help-after-spending-thousands-on-project-3428122
-https://www.techpowerup.com/354790/beyerdynamic-announces-four-new-pro-x-limited-black-edition-studio-headphones
-https://wccftech.com/nvidia-founder-jensen-huangs-alleged-spy-associate-alice-huang-was-deeply-tied-to-another-chinese-firm-with-access-to-banned-nvidia-chips-says-report
-https://www.kitguru.net/gaming/matthew-wilson/hugo-martin-returns-as-id-software-begins-work-on-its-next-game
-https://www.techradar.com/televisions/blu-ray/theres-up-to-50-percent-off-criterion-collection-4k-blu-rays-right-now-here-are-my-6-picks-from-the-sale-all-of-which-ive-tested
 https://www.guru3d.com/story/apex-neural-rendering-beta-brings-frame-generation-to-older-gpus
 https://insider-gaming.com/rainbow-six-vegas-3
 https://www.rockpapershotgun.com/have-you-played-deaths-door
@@ -2498,3 +2493,8 @@ https://www.ign.com/articles/the-hunger-games-sunrise-on-the-reaping-ending-expl
 https://www.pcgamer.com/games/rpg/seven-years-on-since-persona-5-royal-atlus-says-people-wont-have-to-wait-as-long-as-they-have-previously-for-the-next-game-after-persona-6
 https://www.tomshardware.com/monitors/gaming-monitors/gigabyte-mo27q2a-27-inch-qhd-280-hz-qd-oled-gaming-monitor-review
 https://www.techradar.com/entertainment/football/sevilla-vs-real-betis-la-liga-2026-27
+https://www.pcgamer.com/games/grand-theft-auto/gta-6-transgressor-locations
+https://www.videogameschronicle.com/guide/gta-6-la-cascara-motel-safe-code-how-to-find-and-open-the-safe
+https://wccftech.com/grand-theft-auto-vi-ps5-dlss-5-frame-generation-pc-veyra-neural-screen
+https://www.techradar.com/entertainment/football/newcastle-vs-arsenal-premier-league-2026-27
+https://overclock3d.net/news/gpu-displays/nvidia-geforce-hotfix-addresses-excessive-writes-to-ssd-storage
