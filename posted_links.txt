@@ -1,7 +1,3 @@
-https://www.videogameschronicle.com/news/6-more-games-receive-ps5-performance-updates-via-qssr-including-arc-raiders-and-control-resonant
-https://insider-gaming.com/god-of-war-sons-of-sparta-ps4-new-game-modes
-https://www.rockpapershotgun.com/worst-class-ever-takes-asymmetrical-multiplayer-back-to-school-with-a-teacher-player-trying-to-spot-the-naughty-children-among-the-npcs
-https://www.dexerto.com/entertainment/metas-ai-can-now-make-phone-calls-you-dont-want-to-make-3428077
 https://www.tomshardware.com/pc-components/cpus/unannounced-intel-core-ultra-7-260k-cpu-surfaces-in-newegg-prebuilt-gaming-pcs-intel-doesnt-have-official-specs-list-available-for-exclusive-arrow-lake-chip
 https://www.kitguru.net/components/cases/joao-silva/corsair-launches-blush-pink-versions-of-its-frame-4000d-and-3500x-cases
 https://www.techradar.com/entertainment/rugby/france-vs-south-africa-free-nations-championship-2026
@@ -2498,3 +2494,7 @@ https://www.dexerto.com/gaming/gta-6-and-ocarina-of-time-remake-caught-in-metacr
 https://www.tomshardware.com/tech-industry/drones/knoxvilles-police-department-will-send-semi-autonomous-drones-on-911-calls-eyes-in-the-sky-to-aid-situational-awareness-for-officers
 https://wccftech.com/intel-core-ultra-4-series-16-core-nova-lake-mobile-processor-specifications-leaked
 https://www.techradar.com/seasonal-sales/amazon-just-released-one-of-the-best-android-tablets-this-year-and-now-its-massively-discounted-in-early-black-friday-deals
+https://www.ign.com/articles/lego-insiders-weekend-is-live-free-gifts-with-purchase-exclusive-discounts-and-more
+https://insider-gaming.com/where-to-find-the-pegassi-infernus-gta-6
+https://www.eurogamer.net/gta-6-review-bombed-metacritic-user-score
+https://www.techradar.com/pro/openai-claims-ai-agents-now-complete-nearly-half-of-two-to-four-hour-research-tasks-on-their-own-but-says-humans-are-still-central-to-ai-development
