@@ -1,5 +1,3 @@
-https://www.techradar.com/ai-platforms-assistants/claude/claude-just-reverse-engineered-a-1994-jeep-cherokee-owner-combines-a-usd3-arduino-with-ai-to-help-vehicle-pass-california-emissions-test
-https://wccftech.com/intel-reclaims-70-desktop-cpu-market-share-as-amd-falls-below-30-in-surprise-q3-2026-turnaround
 https://www.tomshardware.com/tech-industry/commemorative-plaque-at-dennys-booth-where-nvidia-was-born-has-been-removed-sign-removed-in-wake-of-jensens-scandals-marked-the-booth-that-launched-a-usd1-trillion-company
 https://wccftech.com/teamgroup-ceo-warns-2027-ram-shortage-could-become-so-severe-that-even-money-wont-guarantee-supply
 https://www.techradar.com/gaming/007-first-light-composers-reveal-the-challenges-they-faced-when-scoring-a-soundtrack-for-a-young-bond-one-of-the-most-important-pillars-of-the-game-is-james-bond-earning-his-007-status
@@ -2498,3 +2496,5 @@ https://www.techradar.com/home/energy-saving/a-record-number-of-rooftop-solar-in
 https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-has-a-complex-drug-network-that-tracks-everything-from-where-drugs-come-from-to-how-they-eventually-reach-the-street-level-buyer
 https://insider-gaming.com/where-to-find-the-guantlet-hellfire-gta-6
 https://www.tomshardware.com/tech-industry/policy/tsmc-reportedly-pauses-shipments-to-chinese-designers-after-u-s-export-rules-flag-decade-old-16nm-and-14nm-nodes-new-bis-controls-threaten-smartphone-tv-and-automotive-chips
+https://www.pcgamer.com/games/grand-theft-auto/gta-6-riata-locations
+https://www.tomshardware.com/tech-industry/drones/ukraine-revives-its-grounded-fleet-of-500-us-made-puma-drones-with-homegrown-anti-jamming-tech-anti-jamming-upgrade-triples-range-to-31-miles
