@@ -1,9 +1,3 @@
-https://www.pcgamer.com/games/call-of-duty/we-almost-got-a-medieval-call-of-duty-with-knights-and-swords-if-its-a-war-story-sure-it-can-be-call-of-duty
-https://www.videogameschronicle.com/news/nba-2k27-is-getting-a-vice-city-edition-as-well-as-numerous-gta-6-themed-items-in-season-3
-https://insider-gaming.com/xbox-alligator-controller-gta-6
-https://www.rockpapershotgun.com/each-new-gta-moves-the-series-closer-and-closer-to-the-original-mafia-the-open-world-game-that-bettered-rockstar
-https://www.eurogamer.net/world-of-warcraft-forever-toy-pouch-of-violent-dust
-https://www.dexerto.com/gaming/businessman-arrested-after-booby-trapped-game-console-explodes-at-rivals-electronics-store-3428648
 https://www.tomshardware.com/tech-industry/quantum-computing/intel-bets-on-classiq-acquisition-to-turn-quantum-efforts-into-commercially-viable-business-deal-positions-company-as-leading-vendor-of-qubit-chips-acquisition-to-close-by-the-first-half-of-2027
 https://www.kitguru.net/channel/generaltech/matthew-wilson/intel-details-diamond-rapids-xeon-and-gpu-d-series-accelerators
 https://www.techradar.com/computing/gpu/if-you-thought-jensen-huangs-exit-meant-the-worst-for-nvidias-gaming-graphics-cards-think-again-geforce-evangelist-assures-us-it-isnt-the-end-for-these-gpus
@@ -2498,3 +2492,9 @@ https://www.tomshardware.com/pc-components/gpus/grab-this-usd1199-asus-prime-rtx
 https://www.techpowerup.com/355130/xbox-helix-was-reportedly-planned-with-free-online-multiplayer-and-steam-access
 https://www.kitguru.net/components/memory/joao-silva/trendforce-forecasts-nand-flash-price-fall-starting-in-q1-2027
 https://www.techradar.com/computing/gaming-laptops/ive-tested-more-gaming-laptops-and-pc-gaming-handhelds-than-i-can-count
+https://www.ign.com/articles/the-ecovacs-deebot-t90-pro-omni-robot-vacuum-delivers-incredible-30000pa-suction-and-more-high-end-features-for-499-during-black-friday
+https://www.videogameschronicle.com/guide/gta-6-tyrone-mission-walkthrough-where-to-find-tyrone
+https://insider-gaming.com/gta-6-chapter-2-mission-list-in-order
+https://www.techpowerup.com/355132/gta-6s-first-post-launch-patch-fixes-crashes-stuck-weather-and-autosaves
+https://www.kitguru.net/components/power-supplies/joao-silva/corsair-updates-cx-psus-with-atx-3-1-and-cybenetics-gold-certification
+https://www.techradar.com/pro/security/this-security-company-is-offering-usd10-000-to-anyone-able-to-hack-its-ai-agent-protection-tool
