@@ -1,11 +1,3 @@
-https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge
-https://wccftech.com/claude-fable-5-2-creates-stunning-underwater-world-in-just-97-kb-runs-at-180-fps-without-a-game-engine
-https://www.techradar.com/computing/gpu/its-a-new-world-and-im-loving-it-some-gamers-are-now-hooked-on-dlss-5-and-cant-game-without-it-and-i-think-this-shows-nvidias-escape-plan-in-the-gpu-crisis
-https://www.dexerto.com/entertainment/alvin-and-the-chipmunks-fandom-furious-after-official-youtube-channel-releases-ai-generated-video-3428298
-https://www.tomshardware.com/3d-printing/3d-printing-developer-creates-self-hostable-non-planar-printing-slicer-pancakeslicer-makes-non-planar-3d-printing-accessible-potentially-leading-to-rapid-community-development
-https://www.tomshardware.com/tech-industry/data-centers/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15-hotel-guests-email-warning-system-fails-40-first-responders-deployed-for-triage-four-hospitalized
-https://www.ign.com/articles/xbox-at-25-my-memories-from-across-xboxs-entire-and-quite-incredible-history
-https://www.pcgamer.com/games/roguelike/slay-the-spire-2-has-a-new-character-in-testing-and-shes-really-quite-busted
 https://www.tomshardware.com/pc-components/cpus/357-detailed-cpu-die-shots-spanning-1971-to-2024-crammed-into-a-new-gallery-motorola-68000-intel-486dx2-amd-athlon-xp-apple-m1-and-many-more-in-beautiful-detail
 https://www.techpowerup.com/354860/gta-5-boots-on-nintendo-switch-2-via-native-recomp
 https://www.techradar.com/pro/the-iconic-herman-miller-aeron-office-chair-gets-a-usd482-discount-in-the-black-friday-sale
@@ -2498,3 +2490,11 @@ https://www.pcgamer.com/games/grand-theft-auto/gta-6-kit-car-locations
 https://www.videogameschronicle.com/guide/gta-6-chapter-3-mission-list
 https://wccftech.com/shopify-ceo-tobi-lutke-says-jensen-huang-left-profits-on-the-table-for-ai-startups
 https://www.techradar.com/audio/portable-media-players/teenage-engineerings-new-cd-player-looks-like-a-prop-from-back-to-the-future-but-with-loads-of-modern-extras
+https://www.videogameschronicle.com/guide/gta-6-find-break-in-freddie-doomsday-compound-grand-theft-auto
+https://insider-gaming.com/gta-6s-free-pre-order-bonus-now-being-offered-as-paid-store-purchase
+https://www.rockpapershotgun.com/undisclosed-ai-generated-music-pulled-from-the-binding-of-isaac-repentance-update-as-attempt-to-get-satirical-on-gta-6-launch-day-goes-awry
+https://www.dexerto.com/entertainment/woman-known-as-firefighting-hero-arrested-for-starting-fires-and-now-faces-years-in-jail-3430617
+https://www.tomshardware.com/desktops/gaming-pcs/save-usd730-on-this-rtx-5070-ti-gaming-pc-from-cyberpower-32gb-of-ram-16gb-of-vram-and-a-2tb-ssd-make-for-an-impressive-spec-sheet-for-only-usd2-479
+https://wccftech.com/scalper-lists-over-a-dozen-rtx-5090-models-for-sale-including-msi-lighting-z-for-6978
+https://www.techradar.com/pro/forget-the-ai-apocalypse-businesses-face-a-real-risk-in-agent-sprawl
+https://overclock3d.net/news/cpu_mainboard/msi-z690-z790-motherboards-reportedly-gains-support-for-intel-bartlett-lake-cpus
