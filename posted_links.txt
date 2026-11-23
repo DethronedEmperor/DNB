@@ -1,9 +1,3 @@
-https://www.tomshardware.com/tech-industry/drones/pentagon-tests-pack-hunting-with-autonomous-war-robots-darpa-experimented-with-four-drone-ground-vehicles-that-detected-tracked-and-engaged-simulated-threats
-https://wccftech.com/potential-jensen-huang-comeback-threatens-rumored-anthropic-push-against-open-source-ai
-https://www.pcgamer.com/games/rts/this-rts-inspired-by-star-wars-empire-at-war-promises-colossal-space-encounters-and-planetary-battles-with-hundreds-of-thousands-of-units
-https://www.eurogamer.net/blade-runner-2099-triple-a-talks
-https://www.tomshardware.com/video-games/retro-gaming/enthusiast-builds-a-working-486-dx2-retro-pc-on-a-breadboard-in-just-16-days-immediately-runs-doom-build-includes-a-66-mhz-intel-chip-and-custom-five-inch-3d-printed-display
-https://www.kitguru.net/tech-news/featured-tech-news/joao-silva/razer-expands-soma-lineup-with-soma-pro-and-soma-sensa-hd-haptics-chairs
 https://www.kitguru.net/gaming/operating-systems/joao-silva/cachyos-announces-package-installer-2-0-to-simplify-app-management
 https://www.kitguru.net/tech-news/featured-tech-news/joao-silva/beyerdynamic-launches-limited-all-black-pro-x-studio-headphones
 https://www.pcgamer.com/games/rpg/queens-domain-is-the-best-dark-souls-1-since-dark-souls-1
@@ -2498,3 +2492,9 @@ https://insider-gaming.com/gta-6-new-update-releasing-in-phases-size-revealed
 https://wccftech.com/playstation-6-controller-graphics-settings-button-adjust-settings-automatically-every-frame
 https://www.kitguru.net/desktop-pc/gaming-rig/dominic-moass/pcspecialist-vortex-black-friday-2026-review-9800x3d-5070-ti
 https://www.techradar.com/ai-platforms-assistants/chatgpt-just-upgraded-its-voice-dictation-so-i-stopped-typing-to-it-for-a-day-and-discovered-whether-talking-to-ai-really-is-better-than-typing
+https://www.gamespot.com/articles/how-to-complete-all-moses-missions-in-gta-6
+https://www.dexerto.com/gta/ex-rockstar-artist-explains-main-difference-between-red-dead-2-and-gta-6-open-world-3430588
+https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabbers-usd3-500-build-straps-four-32gb-nvidia-v100s-to-a-lenovo-mini-pc-for-128gb-of-vram-coreboot-oculink-docks-and-a-solder-bridge-unlock-285-tokens-sec-in-qwen3-8-27b
+https://www.techpowerup.com/355104/intel-bartlett-lake-s-cpus-reportedly-boot-natively-on-msi-z690-z790-motherboards
+https://wccftech.com/grand-theft-auto-vi-01-002-002-update
+https://www.techradar.com/live/news/black-friday-streaming-deals-2026-november-23
