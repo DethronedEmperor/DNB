@@ -1,8 +1,3 @@
-https://www.kitguru.net/gaming/operating-systems/joao-silva/cachyos-announces-package-installer-2-0-to-simplify-app-management
-https://www.kitguru.net/tech-news/featured-tech-news/joao-silva/beyerdynamic-launches-limited-all-black-pro-x-studio-headphones
-https://www.pcgamer.com/games/rpg/queens-domain-is-the-best-dark-souls-1-since-dark-souls-1
-https://www.eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs
-https://www.dexerto.com/youtube/jidion-captures-edp445s-arrest-on-camera-after-tracking-him-down-in-las-vegas-3428299
 https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge
 https://wccftech.com/claude-fable-5-2-creates-stunning-underwater-world-in-just-97-kb-runs-at-180-fps-without-a-game-engine
 https://www.techradar.com/computing/gpu/its-a-new-world-and-im-loving-it-some-gamers-are-now-hooked-on-dlss-5-and-cant-game-without-it-and-i-think-this-shows-nvidias-escape-plan-in-the-gpu-crisis
@@ -2498,3 +2493,8 @@ https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabbers-u
 https://www.techpowerup.com/355104/intel-bartlett-lake-s-cpus-reportedly-boot-natively-on-msi-z690-z790-motherboards
 https://wccftech.com/grand-theft-auto-vi-01-002-002-update
 https://www.techradar.com/live/news/black-friday-streaming-deals-2026-november-23
+https://www.gamespot.com/articles/gta-6-best-car-moses-registration
+https://www.pcgamer.com/games/grand-theft-auto/gta-6-kit-car-locations
+https://www.videogameschronicle.com/guide/gta-6-chapter-3-mission-list
+https://wccftech.com/shopify-ceo-tobi-lutke-says-jensen-huang-left-profits-on-the-table-for-ai-startups
+https://www.techradar.com/audio/portable-media-players/teenage-engineerings-new-cd-player-looks-like-a-prop-from-back-to-the-future-but-with-loads-of-modern-extras
