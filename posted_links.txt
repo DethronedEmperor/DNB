@@ -1,5 +1,3 @@
-https://insider-gaming.com/optic-gaming-replaces-dignitas-lcs-2027
-https://www.tomshardware.com/tech-industry/supercomputers/amd-grabs-over-40-percent-of-new-top500-list-for-supercomputers-up-14-percent-since-last-year-new-lux-system-developed-between-amd-and-department-of-energy-debuts-at-no-14-with-epyc-cpus-and-instinct-mi355x-gpus
 https://www.techradar.com/pro/security/tsmc-confirms-cyberattack-and-data-breach-chip-giant-says-personal-employee-data-has-been-leaked-online
 https://www.ign.com/articles/20-years-later-the-wii-remains-nintendos-most-important-console
 https://www.pcgamer.com/games/grand-theft-auto/gta-6-online-multiplayer
@@ -2498,3 +2496,5 @@ https://www.techradar.com/health-fitness/smartwatches/garmin-brings-dog-profiles
 https://www.ign.com/articles/here-are-all-of-the-best-clips-from-the-worlds-first-weekend-with-gta-6
 https://www.gematsu.com/2026/11/attack-on-titan-3-exploration-within-the-walls-gameplay
 https://www.techradar.com/gaming/nyt-connections-today-answers-hints-24-november-2026
+https://www.ign.com/articles/hisense-ur8-rgb-mini-led-tv-deal-black-friday-sale-2026
+https://www.techradar.com/pro/power-demands-at-ai-data-centers-set-to-double-by-2030-adding-the-equivalent-of-another-great-britain-to-the-grid-as-an-extra-usd4-trillion-in-spending-kicks-in
