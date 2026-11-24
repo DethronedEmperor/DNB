@@ -1,11 +1,3 @@
-https://www.gamespot.com/articles/gta-6-voice-actors-all-confirmed-and-rumored-cast
-https://www.pcgamer.com/gaming-industry/civilization-dev-firaxis-reportedly-lays-off-a-third-of-its-staff-studio-head-departs
-https://www.videogameschronicle.com/news/gta-6-is-the-most-nominated-game-at-the-game-awards-2026
-https://insider-gaming.com/duolingo-and-pokemon-go-crossover-event
-https://www.rockpapershotgun.com/what-would-rockstar-have-done-if-gta-hadnt-taken-off-former-tech-director-obbe-vermeij-on-scottish-zombies-james-bond-and-the-curse-of-success
-https://www.dexerto.com/entertainment/family-dollar-agrees-to-pay-63-million-after-allegedly-overcharging-customers-for-years-3429039
-https://www.tomshardware.com/pc-components/cpus/nvidia-claims-its-vera-cpu-can-gain-up-to-39-percent-performance-boost-via-software-optimization-at-sc26-architectural-fine-tuning-is-needed-to-fully-unleash-custom-olympus-cores
-https://www.techpowerup.com/354947/jensen-huang-i-would-be-honored-to-return-as-ceo
 https://www.kitguru.net/gaming/matthew-wilson/the-blood-of-dawnwalker-gets-new-game-in-update-1-2
 https://www.techradar.com/pro/security/some-of-the-worlds-largest-brands-hit-following-optimizely-flaw-salesforce-cnn-fox-news-bbc-sites-hit-with-malware
 https://overclock3d.net/news/misc/jensen-huang-would-be-honored-to-return-as-ceo-of-nvidia
@@ -2498,3 +2490,11 @@ https://www.tomshardware.com/networking/routers/tp-links-archer-be770-tri-band-w
 https://wccftech.com/cd-projekt-red-sony-deal-the-witcher-4-marketing-playstation-plus
 https://www.kitguru.net/peripherals/monitors/joao-silva/samsung-unveils-worlds-first-1100hz-gaming-monitor
 https://www.techradar.com/pro/square-pos-black-friday-deals-save-up-to-usd291-on-three-small-business-systems-at-best-buy
+https://www.ign.com/articles/gta-6-gets-officially-licensed-trading-cards-based-on-in-game-collectibles
+https://www.gamespot.com/articles/rip-and-tear-into-doom-the-dark-ages-newest-game-mode-for-a-fraction-of-the-price
+https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-weapons
+https://www.eurogamer.net/lords-of-the-fallen-2-delayed-april-2027
+https://www.tomshardware.com/pc-components/gpus/this-usd479-rtx-5060-ti-8gb-gives-you-a-big-step-up-in-performance-for-an-rtx-5060-price-twin-fan-gigabyte-eagle-card-is-a-great-1080p-gaming-upgrade
+https://wccftech.com/gigabytes-gc-wf7lite-wi-fi-7-cards-move-to-realtek-and-mediatek-160-mhz-modules-with-a-single-combined-antenna-adapter-and-no-onboard-usb-port
+https://www.kitguru.net/components/cpu/joao-silva/crystaldiskmark-creator-is-building-a-benchmark-that-can-compare-an-intel-386-to-modern-cpus
+https://www.techradar.com/computing/keyboards/glorious-gmmk-eternal-review
