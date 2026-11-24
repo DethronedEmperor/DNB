@@ -1,5 +1,3 @@
-https://www.techradar.com/pro/us-marijuana-farms-are-becoming-ai-data-centers-they-already-have-the-water-and-power-needed-and-with-weed-revenues-falling-it-seems-an-ideal-switch
-https://www.ign.com/articles/next-james-bond-actors-idris-elba-tom-hardy-callum-turner-jack-lowden-007
 https://www.techradar.com/computing/mice/turtle-beach-command-series-mc7-review
 https://www.ign.com/articles/former-james-bond-actor-george-lazenby-gives-robert-pattinson-advice-after-batman-star-scores-iconic-role
 https://www.gematsu.com/2026/11/splatoon-3-version-12-0-0-update-launches-november-17
@@ -2498,3 +2496,5 @@ https://overclock3d.net/news/software/the-ps5s-demons-souls-remake-now-has-an-un
 https://www.tomshardware.com/desktops/gaming-pcs/grab-a-4k-ready-cyberpowerpc-gaming-rig-with-a-7800x3d-and-rtx-5070-for-usd2-099-99-newegg-knocks-usd130-off-this-liquid-cooled-desktop-with-32gb-ddr5-and-a-1tb-ssd
 https://wccftech.com/tesla-is-running-a-1-billion-parameter-ai-model-inside-its-cars-to-generate-real-time-visuals-at-36-fps
 https://www.techradar.com/pro/agentic-ai-is-reaching-the-desktop-is-your-security-strategy-ready
+https://www.tomshardware.com/pc-components/dram/shared-cxl-memory-pools-come-with-steep-software-tax-that-could-stall-multi-server-scaling-ut-arlington-shares-real-world-test-that-measured-four-servers-sharing-the-same-pool-at-sc26
+https://www.techradar.com/pro/citizens-want-the-benefits-of-ai-but-they-also-want-to-know-how-decisions-are-made-new-report-finds-the-public-want-more-insight-into-how-governments-are-using-ai
