@@ -1,4 +1,3 @@
-https://www.techpowerup.com/354964/amd-ces-2027-invite-hints-at-possible-ryzen-zen-6-olympic-ridge-reveal
 https://www.techradar.com/pro/google-exec-runs-windows-11-on-a-usd1-999-iphone-duo-with-gemini-4-carbon-but-it-might-not-be-the-easiest-way-to-go-about-it
 https://www.ign.com/articles/the-alienware-aurora-rtx-5080-gaming-pc-drops-to-2800-at-amazon-for-black-friday
 https://www.dexerto.com/entertainment/metas-own-ai-helps-man-sue-its-creators-after-it-got-him-banned-from-facebook-3429171
@@ -2498,3 +2497,4 @@ https://wccftech.com/nvidia-driver-bug-ssd-writes-impacts-gaming-performance-mw4
 https://www.guru3d.com/story/minisforum-m2-pro-pairs-core-ultra-x7-358h-with-10gbe
 https://www.ign.com/articles/yes-there-was-one-thing-cut-from-gta-6-for-australia-nz
 https://www.guru3d.com/review/acemagic-retro-x5-amd-ryzen-ai-9-hx-365-mini-pc-review
+https://www.guru3d.com/story/amd-agesa-update-adds-a-14v-limit-for-some-ryzen-8000-cpus
