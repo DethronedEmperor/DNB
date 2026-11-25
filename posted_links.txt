@@ -1,7 +1,3 @@
-https://www.techpowerup.com/354945/typing-365-turns-pc-building-technology-and-more-into-typing-practice
-https://www.videogameschronicle.com/news/ps5-gets-its-third-system-software-update-in-a-month-right-before-grand-theft-auto-6-is-released
-https://overclock3d.net/news/misc/nvidia-wont-reinstate-jensen-huang-confirms-ceo-and-board-chairman
-https://www.ign.com/articles/gta-6-launch-live-blog
 https://www.gamespot.com/articles/wow-forever-exploit-lands-streamers-in-hot-water-after-farming-thousands-of-gold
 https://www.rockpapershotgun.com/ex-nvidia-boss-jensen-huang-offers-to-return-if-thats-best-for-the-company-and-america-nvidia-board-essentially-say-nah-were-all-good
 https://www.tomshardware.com/tech-industry/the-downfall-of-jensen-huang-a-timeline-of-allegations-and-scandals-that-brought-down-the-king-of-ai-infrastructure
@@ -2498,3 +2494,7 @@ https://www.eurogamer.net/cd-projekt-red-signs-new-marketing-partnership-deal-wi
 https://www.gematsu.com/2026/11/arcade-archives-dirt-dash-launches-november-26
 https://wccftech.com/grand-theft-auto-vi-impossible-switch-2-port-cutbacks-hit-30-fps
 https://www.techradar.com/seasonal-sales/breville-coffee-maker-black-friday-deals-2026-nov-25
+https://www.rockpapershotgun.com/capcom-dinosaur-shooter-exoprimals-servers-will-go-extinct-next-year-as-shutdown-meteor-looms
+https://www.gematsu.com/2026/11/melty-blood-twi-lumina-main-trailer-playable-character-satsuki-yumizuka-cross-play-and-more-revealed
+https://www.dexerto.com/ea-sports-fc/ea-fc-27-adds-ai-generated-commentary-from-iconic-commentator-3431237
+https://www.techradar.com/pro/security/massive-data-breach-exposes-2-billion-credentials-email-addresses-login-names-passwords-and-more-all-leaked-online-in-major-database-breach
