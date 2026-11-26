@@ -1,10 +1,3 @@
-https://www.guru3d.com/story/amd-adrenalin-26112-fixes-more-radeon-ssd-writes-and-game-crashes
-https://www.guru3d.com/story/amd-to-unveil-zen-6-consumer-notebook-chips-at-ces-2027-on-jan-5-medusa-point
-https://www.guru3d.com/story/nvidia-q3-fy2027-usd-1158-billion-revenue-data-center-usd-1076-billion-usd-130-billion-q4
-https://www.guru3d.com/story/reports-indicate-recent-nvidia-geforce-drivers-may-generate-heavy-ssd-writes
-https://www.gamespot.com/videos/how-to-ditch-the-cops-in-gta-6
-https://insider-gaming.com/nyt-connections-hints-solutions-november-19-1257
-https://wccftech.com/vampire-the-masquerade-bloodlines-rtx-remaster-path-tracing
 https://www.guru3d.com/story/jedec-previews-ddr6-with-128-gt-s-starting-rates-and-shorter-modules
 https://www.eurogamer.net/xbox-cant-say-grand-theft-auto-6-marketing
 https://www.guru3d.com/download/corsair-utility-engine-download-icue-download
@@ -2498,3 +2491,10 @@ https://www.gematsu.com/2026/11/famitsu-sales-11-16-26-11-22-26
 https://www.tomshardware.com/tech-industry/semiconductors/tsmcs-a14-1-4nm-class-node-is-ready-for-chip-design-boost-cells-promise-14-percent-performance-uplift-or-23-percent-power-cut-over-n2p
 https://wccftech.com/microsoft-frees-up-nearly-900-mb-of-ram-on-windows-11-by-cutting-memory-usage-across-its-own-apps-and-services
 https://www.techradar.com/pro/keeper-knocks-50-percent-off-its-personal-and-family-password-manager-plans-for-black-friday-with-prices-starting-at-just-usd2-15-a-month
+https://www.ign.com/articles/ps5-workaround-weather-gta-6
+https://insider-gaming.com/register-advanced-tracker-cars-gta-6
+https://www.dexerto.com/entertainment/zoo-gives-up-on-helping-overweight-viral-leopard-lose-weight-3431467
+https://www.tomshardware.com/tech-industry/big-tech/us-defense-officials-considered-using-cold-war-law-to-force-nvidia-to-reinstate-jensen-huang-as-ceo-following-his-resignation-report-claims-1950-defense-production-act-was-floated-as-solution-to-president-trump
+https://www.techpowerup.com/354930/innocn-black-friday-monitor-deals-save-on-qd-oled-gaming-ultrawide-and-4k-displays
+https://wccftech.com/huawei-poised-to-grow-chinas-ai-chip-market-next-generation-hbm-design-double-data-pin-density
+https://www.techradar.com/televisions/im-a-trained-tv-calibrator-and-the-lg-c6-oled-is-my-tv-of-the-year-and-right-now-is-the-best-time-to-buy
